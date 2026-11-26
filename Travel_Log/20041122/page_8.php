@@ -35,7 +35,7 @@ From the overlook the whole Front Range is going purple and Denver is lighting u
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0771.jpg"><img src="Pics/Daily/20041122/Small/DSCN0771.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0774.jpg"><img src="Pics/Daily/20041122/Small/DSCN0774.jpg"></a>
 <p>
-The GPS says I'm somewhere around 7,400 feet [check the GPS photo], and the sun says it's time to go.  Down the mountain in the dark, Denver spread out below like someone spilled a jewelry box.  Back in town I sneak in a gym workout, which after a day of free beer samples seems only fair, then it's I-25 south to Paul's place, where I wind down with a little travel writing and catch up with friends on the phone.  59 miles today, almost all of them worth it.
+The GPS says I'm somewhere around 7,400 feet [check the GPS photo], and the sun says it's time to go.  Down the mountain in the dark, Denver spread out below like someone spilled a jewelry box.  Back in town I sneak in a workout at 24 Hour Fitness, which after a day in a brewery seems only fair, then it's I-25 south to Paul's place.  The evening is travel writing and phone calls, including a message for Sean: Vegas on December 9th works for me.  Lights out at 10:30.  60 miles today, almost all of them worth it.
 <p>
 <center>
 <hr>

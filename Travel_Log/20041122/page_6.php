@@ -32,7 +32,7 @@ The Clear Creek walk runs right through town, and every few feet there's a plaqu
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0520.jpg"><img src="Pics/Daily/20041122/Small/DSCN0520.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0524.jpg"><img src="Pics/Daily/20041122/Small/DSCN0524.jpg"></a>
 <p>
-Golden Liquors sums up the local economy in one marquee: No Fresher Coors Sold Anywhere.  Lunch is a sandwich from a shop on Washington Avenue, eaten in the van.  [What was the sandwich, and where from?]
+Golden Liquors sums up the local economy in one marquee: No Fresher Coors Sold Anywhere.  My walking tour runs up and down Washington Avenue between 11th and 13th, which is most of downtown, and ends with a late lunch: a chicken salad sandwich with walnuts and apples in it.  Spectacular.  I'd drive back to Golden for that sandwich, and I don't even like Coors.  [Which shop was it?]
 <p>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0533.jpg"><img src="Pics/Daily/20041122/Small/DSCN0533.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0531.jpg"><img src="Pics/Daily/20041122/Small/DSCN0531.jpg"></a>

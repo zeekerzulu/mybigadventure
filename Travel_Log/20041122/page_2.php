@@ -31,7 +31,7 @@ First order of business: a little card that says Keystone Light.  [What was the 
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0139.jpg"><img src="Pics/Daily/20041122/Small/DSCN0139.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0148.jpg"><img src="Pics/Daily/20041122/Small/DSCN0148.jpg"></a>
 <p>
-Prohibition came along in 1916 for Colorado, four years before the rest of the country, and Coors kept the lights on by making malted milk and porcelain.  Yes, porcelain.  The company survived thirteen dry years that way.  The exhibits glow red like the inside of a beer can, which, now that I think about it, is probably the idea.
+Prohibition came along in 1916 for Colorado, four years before the rest of the country, and Coors kept the lights on by making malted milk and porcelain.  Yes, porcelain.  The company survived thirteen dry years that way.  Today the place employs 4,000-plus people here in Golden, with more plants in Tennessee and Virginia and one over in the UK.  The exhibits glow red like the inside of a beer can, which, now that I think about it, is probably the idea.
 <p>
 <center>
 <hr>

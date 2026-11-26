@@ -32,7 +32,7 @@ That's me, grinning like a man who has just had a free beer, with two cardboard 
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0393.jpg"><img src="Pics/Daily/20041122/Small/DSCN0393.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0395.jpg"><img src="Pics/Daily/20041122/Small/DSCN0395.jpg"></a>
 <p>
-The hospitality lounge, where the tour ends and the real sampling begins.  Three samples per person, if memory serves, and a room full of strangers who suddenly all get along.  [Who did you talk to in the lounge, and what did you try?]  On the way out, a wall of brass plaques honors the Coors employees who served in the military, hundreds of names.
+The hospitality lounge, where the tour ends and the real sampling begins, and a room full of strangers suddenly all get along.  I'll confess something here: I don't buy a single beer.  I'm a microbrew guy, and after a day of looking at the biggest brewery on the planet I find I'm still a microbrew guy.  Don't tell Adolph.  On the way out, a wall of brass plaques honors the Coors employees who served in the military, hundreds of names.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0404.jpg"><img src="Pics/Daily/20041122/Small/DSCN0404.jpg"></a>
 <p>

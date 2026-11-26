@@ -6,7 +6,7 @@ include 'renderheading.php';
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0001.jpg"><img src="Pics/Daily/20041122/Small/DSCN0001.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0005.jpg"><img src="Pics/Daily/20041122/Small/DSCN0005.jpg"></a>
 <p>
-Monday morning in Highlands Ranch and the van is still parked out front of Paul's place, wearing what's left of Saturday's snow like a bad toupee.  The sky, on the other hand, is that deep Colorado blue you only get after a storm has scrubbed it clean.  I take this as a sign.  Today's plan, hatched last night somewhere between the buffet and the website: the Coors Brewery in Golden.  Free tour, free samples, what's not to like?
+Up at 8:30, and the van is still parked out front of Paul's place, wearing what's left of Saturday's snow like a bad toupee.  The sky, on the other hand, is that deep Colorado blue you only get after a storm has scrubbed it clean.  I take this as a sign.  First order of business is figuring out the travel plans for the next couple of weeks, because I owe my buddy Sean a call tonight about meeting up in Vegas.  Then it's on to today's plan, hatched last night somewhere between the buffet and the website: the Coors Brewery in Golden.  Free tour, free samples, what's not to like?
 <p>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0008.jpg"><img src="Pics/Daily/20041122/Small/DSCN0008.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0010.jpg"><img src="Pics/Daily/20041122/Small/DSCN0010.jpg"></a>
@@ -23,7 +23,7 @@ North on I-25, and there's the Denver skyline doing its best impression of a big
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0062.jpg"><img src="Pics/Daily/20041122/Small/DSCN0062.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0066.jpg"><img src="Pics/Daily/20041122/Small/DSCN0066.jpg"></a>
 <p>
-Golden sits right where the plains quit and the foothills begin.  That flat-topped mesa is Castle Rock, and I'll be seeing a lot more of it before this day is through.
+Golden sits right where the plains quit and the foothills begin.  That flat-topped mesa is Castle Rock, and I'll be seeing a lot more of it before this day is through.  I roll the window down and, no kidding, I can smell the hops in the air.  Beer Country, you have arrived.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0070.jpg"><img src="Pics/Daily/20041122/Small/DSCN0070.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0077.jpg"><img src="Pics/Daily/20041122/Small/DSCN0077.jpg"></a>
