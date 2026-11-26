@@ -468,21 +468,18 @@
 				</td>
 
 				<?php if ($currdate == '20041123') $calendarclass = "CalendarSelect"; else $calendarclass = "Calendar";?>
-				<?php $calendarclass = "CalendarDay";?>
 				<td class=<?php echo $calendarclass?> valign="top">
 				<table cellspacing="0" cellpadding="0">
 				<tr>
 					<td width="100">
-<!--
- 						<a href="index.php?action=zDailyEvents&date=20041123&page=1" onclick="return ShowDayLinks(this,'right')" title="Travel Log">23</a><br>
+ 						<a href="index.php?action=DailyEvents&date=20041123&page=1" onclick="return ShowDayLinks(this,'right')" title="Travel Log">23</a><br>
 						<center class='DayLinks'>
 						<br>
-						<a href="index.php?action=zDailyEvents&date=20041123&page=1" title="The Entire Day">Travel Log<br>
+						<a href="index.php?action=DailyEvents&date=20041123&page=1" title="The Entire Day">Travel Log<br>
 						<br><br><br><br><br>
-						<a href="" title="City Website">Denver</a><br>
+						<a href="javascript:myPopup1('https://denvergov.org/Home')" title="City Website">Denver</a><br>
 						<a href="index.php?action=Maps&state=CO" title="Colorado">CO</a>
-						</center>-->
-						<span class="CalendarDayUnderConstruction" onclick="return ShowDayLinks(this,'right',true)">23</span><br><center class='DayLinks'><img src="Graphics/underconstruction.gif"><br>Under<br>Construction<br><img src="Graphics/underconstruction.gif"></center>
+						</center>
 					</td>
 				
 				</tr></table>

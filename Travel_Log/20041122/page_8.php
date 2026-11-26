@@ -51,6 +51,6 @@ The GPS says I'm somewhere around 7,400 feet [check the GPS photo], and the sun 
 
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041121&page=1" title="A Day of Rest">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041123&page=1" title="[Nov 23 heading]">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041121&page=1" title="A Day of Rest">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041123&page=1" title="Paper Trail">Next Day</a>
 <p>
 </center>
