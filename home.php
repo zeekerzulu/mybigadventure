@@ -41,7 +41,7 @@ Be active and adventurous, the world is waiting for you!
 <p>
 <hr>
 <b>
-This site was last updated on Monday, September 5, 2005 @ 7:25 pm Pacific.  Current content covers my travels from Portland, Oregon (<a href="index.php?action=TripJournal&daterange=20040708-20040711&page=1#Ref1">07/08</a>) to Denver, Colorado (<a href="index.php?action=TripJournal&daterange=20041115-20041121&page=20#Ref7">11/21</a>).  This is a work-in-progress website.</b>
+This site was last updated on Thursday, November 26, 2026.  Current content covers my travels from Portland, Oregon (<a href="index.php?action=TripJournal&daterange=20040708-20040711&page=1#Ref1">07/08</a>) to Golden, Colorado (<a href="index.php?action=TripJournal&daterange=20041122-20041128&page=21#Ref1">11/22</a>).  This is a work-in-progress website.</b>
 <p>
 <hr>
 <p>

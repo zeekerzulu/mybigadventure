@@ -447,24 +447,21 @@
 				</td>
 
 				<?php if ($currdate == '20041122') $calendarclass = "CalendarSelect"; else $calendarclass = "Calendar";?>
-				<?php $calendarclass = "CalendarDay";?>
 				<td class=<?php echo $calendarclass?> valign="top">
 				<table cellspacing="0" cellpadding="0">
 				<tr>
 					<td width="100">
-<!--
- 						<a href="index.php?action=zDailyEvents&date=20041122&page=1" onclick="return ShowDayLinks(this,'right')" title="Travel Log">22</a><br>
+ 						<a href="index.php?action=DailyEvents&date=20041122&page=1" onclick="return ShowDayLinks(this,'right')" title="Travel Log">22</a><br>
 						<center class='DayLinks'>
 						<br>
-						<a href="index.php?action=zDailyEvents&date=20041122&page=1" title="The Entire Day">Travel Log<br>
+						<a href="index.php?action=DailyEvents&date=20041122&page=1" title="The Entire Day">Travel Log<br>
 						<a href="index.php?action=Stats&stat=Driving&nocomments=1&page=17#20041122" title="Parker, CO (round trip to Golden, CO)">Driving</a><br>
 						<a href="index.php?action=zStats&stat=Sites&date=20041122&page=40" title="Coors Factory Tour">Sights<br>
 						<a href="index.php?action=zStats&stat=Communities&date=20041122&page=15" title="Golden, Colorado">Communities<br>
 						<br><br>
-						<a href="" title="City Website">Golden</a><br>
+						<a href="javascript:myPopup1('https://www.cityofgolden.net/')" title="City Website">Golden</a><br>
 						<a href="index.php?action=Maps&state=CO" title="Colorado">CO</a>
-						</center>-->
-						<span class="CalendarDayUnderConstruction" onclick="return ShowDayLinks(this,'right',true)">22</span><br><center class='DayLinks'><img src="Graphics/underconstruction.gif"><br>Under<br>Construction<br><img src="Graphics/underconstruction.gif"></center>
+						</center>
 					</td>
 				
 				</tr></table>

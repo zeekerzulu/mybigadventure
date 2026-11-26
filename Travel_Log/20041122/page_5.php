@@ -1,40 +1,57 @@
-<center>
-<a name="#200" alt=""><b><h1>XXX&nbsp;&nbsp;YYY&nbsp;&nbsp;ZZZ&nbsp;&nbsp;PPP&nbsp;&nbsp;DDD&nbsp;&nbsp;QQQ<br><img src="Graphics/titlespace.gif"><br>City, State</h1></b>
-</center>
+<?php
+$heading = "Cans, Trivia and the Lounge";
+$headingdate = 'Monday, November 22, 2004';
+include 'renderheading.php';
+?>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0315.jpg"><img src="Pics/Daily/20041122/Small/DSCN0315.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0323.jpg"><img src="Pics/Daily/20041122/Small/DSCN0323.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0329.jpg"><img src="Pics/Daily/20041122/Small/DSCN0329.jpg"></a>
 <p>
+The packaging floor.  From a glass walkway you look down on a river of cans moving faster than I can focus the camera, which explains a few of these pictures.  Cases of Coors Light slide by on a conveyor and disappear into the next building.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0343.jpg"><img src="Pics/Daily/20041122/Small/DSCN0343.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0360.jpg"><img src="Pics/Daily/20041122/Small/DSCN0360.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0361.jpg"><img src="Pics/Daily/20041122/Small/DSCN0361.jpg"></a>
+<p>
+The trivia panels have answers under flip-up lids, and I flip every one of them.  How many cans per minute on one filler line?  1,100 to 1,800.  That's a lot of beer.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0362.jpg"><img src="Pics/Daily/20041122/Small/DSCN0362.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0363.jpg"><img src="Pics/Daily/20041122/Small/DSCN0363.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0364.jpg"><img src="Pics/Daily/20041122/Small/DSCN0364.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0365.jpg"><img src="Pics/Daily/20041122/Small/DSCN0365.jpg"></a>
+<p>
+How old was Adolph Coors when he opened the brewery?  26 years old.  Why do Coors Light cans sink to the bottom of the cooler while other cans float?  Less air space in the can.  Now you know, and so do I.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0367.jpg"><img src="Pics/Daily/20041122/Small/DSCN0367.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0375.jpg"><img src="Pics/Daily/20041122/Small/DSCN0375.jpg"></a>
+<p>
+That's me, grinning like a man who has just had a free beer, with two cardboard ladies who have clearly had a few more.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0378.jpg"><img src="Pics/Daily/20041122/Small/DSCN0378.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0387.jpg"><img src="Pics/Daily/20041122/Small/DSCN0387.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0393.jpg"><img src="Pics/Daily/20041122/Small/DSCN0393.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0395.jpg"><img src="Pics/Daily/20041122/Small/DSCN0395.jpg"></a>
+<p>
+The hospitality lounge, where the tour ends and the real sampling begins.  Three samples per person, if memory serves, and a room full of strangers who suddenly all get along.  [Who did you talk to in the lounge, and what did you try?]  On the way out, a wall of brass plaques honors the Coors employees who served in the military, hundreds of names.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0404.jpg"><img src="Pics/Daily/20041122/Small/DSCN0404.jpg"></a>
+<p>
+Visitors exit, elevator, stairs.  The party's over.
 <p>
 <center>
 <hr>
-<a href="index.php?action=DailyEvents&date=CurDate&page=4" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
-<a href="index.php?action=DailyEvents&date=CurDate&page=1">1</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=2">2</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=3">3</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=4">4</a>
+<a href="index.php?action=DailyEvents&date=20041122&page=1">1</a>
+<a href="index.php?action=DailyEvents&date=20041122&page=2">2</a>
+<a href="index.php?action=DailyEvents&date=20041122&page=3">3</a>
+<a href="index.php?action=DailyEvents&date=20041122&page=4">4</a>
 <b>5</b>
-<a href="index.php?action=DailyEvents&date=CurDate&page=6">6</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=7">7</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=8">8</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=9">9</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=10">10</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=11">11</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=12">12</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=13">13</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=14">14</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=15">15</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=16">16</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=17">17</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=18">18</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=19">19</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=20">20</a>
-&nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=CurDate&page=6" title="Next Page">>>></a>
+<a href="index.php?action=DailyEvents&date=20041122&page=6">6</a>
+<a href="index.php?action=DailyEvents&date=20041122&page=7">7</a>
+<a href="index.php?action=DailyEvents&date=20041122&page=8">8</a>
+&nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041122&page=6" title="Next Page">>>></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=CurDate&page=gallery">Photo Gallery</a>
-<p>
-<a href="index.php?action=DailyEvents&date=CurDate&page=1" title="Top of Travel Log">Travel Log</a>
-<p>
-<a href="index.php?action=Stats&stat=Days&date=PrevDayDate&page=PrevDayPage" title="PrevDayName">Prev Day</a> |
-<a href="index.php?action=Stats&stat=Days&date=NextDayDate&page=NextDayPage" title="NextDayName">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041121&page=1" title="A Day of Rest">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041123&page=1" title="[Nov 23 heading]">Next Day</a>
 <p>
 </center>
