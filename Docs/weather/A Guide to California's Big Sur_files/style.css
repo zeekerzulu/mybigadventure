@@ -1,0 +1,78 @@
+BODY {
+	FONT-SIZE: 1em; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+P {
+	MARGIN-TOP: 0em
+}
+H1 {
+	MARGIN-TOP: 1.5em; MARGIN-BOTTOM: 1.5em; COLOR: #555e7d
+}
+P.photo-caption {
+	MARGIN-TOP: 0.2em; FONT-SIZE: 0.8em
+}
+TD.navside {
+	FONT-SIZE: 0.9em; COLOR: #000000; BACKGROUND-COLOR: #d8def0
+}
+TD.navside DIV {
+	MARGIN-TOP: 1em; MARGIN-BOTTOM: 1em
+}
+.hilitebox {
+	COLOR: #000000; BACKGROUND-COLOR: #d8def0
+}
+.orgname-stress {
+	FONT-WEIGHT: bold; FONT-SIZE: 1.1em; COLOR: #006600; BACKGROUND-COLOR: transparent
+}
+.nav-here {
+	FONT-WEIGHT: bold; COLOR: #000066; BACKGROUND-COLOR: transparent
+}
+.toc {
+	LINE-HEIGHT: 1.6em
+}
+.emergencylink {
+	FONT-WEIGHT: bold; COLOR: #ff0000; BACKGROUND-COLOR: transparent; TEXT-DECORATION: underline
+}
+.red {
+	FONT-WEIGHT: bold; COLOR: #ff0000; BACKGROUND-COLOR: transparent
+}
+.fine-red {
+	FONT-SIZE: 0.8em; COLOR: #ff0000; BACKGROUND-COLOR: transparent
+}
+.fine-green {
+	FONT-SIZE: 0.8em; COLOR: #009900; BACKGROUND-COLOR: transparent
+}
+.bluegreen {
+	COLOR: #3366cc; BACKGROUND-COLOR: transparent
+}
+.fine-blue {
+	FONT-SIZE: 0.8em; COLOR: #0000ff; BACKGROUND-COLOR: transparent
+}
+ADDRESS {
+	MARGIN-TOP: 1em; FONT-SIZE: 0.8em
+}
+.this-url {
+	MARGIN-TOP: 1em; FONT-SIZE: 0.8em
+}
+.fineprint {
+	FONT-SIZE: 0.8em
+}
+.nobullets {
+	LIST-STYLE-TYPE: none
+}
+.revdate {
+	FONT-SIZE: 0.8em; MARGIN-BOTTOM: 1em; FONT-STYLE: italic
+}
+.periodicalname {
+	FONT-STYLE: italic
+}
+.bookname {
+	FONT-STYLE: italic
+}
+.poetry {
+	MARGIN-TOP: 1em; FONT-SIZE: 0.8em; MARGIN-BOTTOM: 1em; MARGIN-LEFT: 2em; FONT-STYLE: italic
+}
+DIV.locus {
+	FONT-SIZE: 0.95em; MARGIN-BOTTOM: 1em; COLOR: #000000; FONT-STYLE: italic; BACKGROUND-COLOR: #e5e5e5
+}
+H3.locus {
+	COLOR: #000000; BACKGROUND-COLOR: #e5e5e5
+}

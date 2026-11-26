@@ -1,0 +1,12 @@
+# junk
+.DS_Store
+Thumbs.db
+_vti_cnf/
+# photos stay out for now (JD, 2026-11-26): all of Pics/ (5.5 GB; Time Machine + A2 hold them). Graphics/ (site chrome) is tracked.
+/Pics/
+# database dumps (comments/guestbook, may hold visitor data)
+*.sql
+# live credentials — copy dbconnector.example.php to dbconnector.php locally
+/dbconnector.php
+# hit-counter and visitor logs
+/Mgmt/*.txt

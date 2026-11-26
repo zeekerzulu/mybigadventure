@@ -1,0 +1,149 @@
+<styleasdcasd type="text/css">
+
+<?phpsadcascdsa
+$fontsize = "x-small";
+$color = "green";
+
+$red = "860404";
+$brown = "804000";
+$yellow = "FFFF80";
+$blue = "1717FF";
+$orange = "C35B15";
+$purple = "8080C0";
+$green = "408080";
+$lightgreen = "51A2A2";
+
+$palette = $green;
+$fieldpalette = $lightgreen;
+
+$topbanner1 = "topbanner1_$color.gif";
+$topbanner2 = "topbanner2_$color.gif";
+$sidebanner = "sidebanner_$color.gif";
+?>
+
+A:link    {color: #bbbbbb}
+A:visited {color: #bbbbbb}
+A:active  {color: #bbbbbb}
+A:hover  {color: white}
+
+td {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: <?php echo $fontsize; ?>;
+	color: bbbbbb;
+}
+
+td.SplashText {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: <?php echo $fontsize; ?>;
+	color: 000000;
+}
+
+table.ContentBanner {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: 808080;
+}
+
+td.BannerText {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: <?php echo $fontsize; ?>;
+	color: black;
+}
+
+td.ContentArea {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: 333333;
+}
+
+td.MainMenu {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: <?php echo $fontsize; ?>;
+	font-color: 000000;
+	background-color: 999999;
+}
+
+tr.Calendar {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: <?php echo $palette; ?>;
+}
+
+td.Calendar {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: <?php echo $palette; ?>;
+}
+
+td.CalendarHeader {
+	background-color: 333333;
+}
+
+td.CalendarDayHeader {
+	background-color: 333333;
+}
+
+td.CalendarDayEmpty {
+	background-color: 999999;
+}
+
+td.IndexContent {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: 606060;
+}
+
+hr.SiteMap {
+	color: <?php echo $palette; ?>;
+}
+
+hr.Journal {
+	color: <?php echo $palette; ?>;
+}
+
+hr.Journal2 {
+	color: 808080;
+}
+
+hr.States {
+	color: 808080;
+}
+
+hr.GuestBook {
+	color: <?php echo $palette; ?>;
+}
+
+hr.Equipment {
+	color: <?php echo $palette; ?>;
+}
+
+hr.Comment {
+	color: <?php echo $palette; ?>;
+}
+
+td.PicRotator{
+	background-color: 999999;
+}
+
+tr.Footer {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: 999999;
+}
+
+input.SetFieldColor {
+	background-color:  <?php echo $fieldpalette; ?>;
+}
+
+textarea.SetFieldColor {
+	background-color: <?php echo $fieldpalette; ?>;
+}
+
+input.SetButtonColor {
+	background-color: 808080;
+}
+
+img.PicBorder {
+	border-color: 808080;
+}
+</style>

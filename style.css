@@ -1,0 +1,1438 @@
+<style type=text/css>
+<?php
+$palette = '';
+$background_image = '';
+$colorarray = array('IndianRed','LightCoral','Salmon','DarkSalmon','LightSalmon','Crimson','Red','Pink','LightPink','HotPink','DeepPink','MediumVioletRed','PaleVioletRed','LightSalmon','Coral','Tomato','OrangeRed','DarkOrange','Orange','Gold','Yellow','LightYellow','LemonChiffon','LightGoldenrodYellow','PapayaWhip','Moccasin','PeachPuff','PaleGoldenrod','Khaki','DarkKhaki','Lavender','Thistle','Plum','Violet','Orchid','Fuchsia','Magenta','MediumOrchid','MediumPurple','MediumSlateBlue','GreenYellow','Chartreuse','LawnGreen','Lime','LimeGreen','PaleGreen','LightGreen','MediumSpringGreen','SpringGreen','MediumSeaGreen','SeaGreen','ForestGreen','Green','YellowGreen','OliveDrab','Olive','DarkOliveGreen','MediumAquamarine','DarkSeaGreen','LightSeaGreen','Aqua','Cyan','LightCyan','PaleTurquoise','Aquamarine','Turquoise','MediumTurquoise','DarkTurquoise','CadetBlue','LightSteelBlue','PowderBlue','LightBlue','SkyBlue','LightSkyBlue','DeepSkyBlue','DodgerBlue','CornflowerBlue','MediumSlateBlue','Cornsilk','BlanchedAlmond','Bisque','NavajoWhite','Wheat','BurlyWood','Tan','RosyBrown','SandyBrown','Goldenrod','DarkGoldenrod','Peru','Chocolate','White','Snow','HoneyDew','MintCream','Azure','AliceBlue','GhostWhite','WhiteSmoke','SeaShell','Beige','OldLace','FloralWhite','Ivory','AntiqueWhite','Linen','LavenderBlush','MistyRose','Gainsboro','LightGray','Silver','DarkGray');
+$index1 = rand(0,count($colorarray)-1);
+$index2 = rand(0,count($colorarray)-1);
+$index3 = rand(0,count($colorarray)-1);
+$footercolor = "#111";
+$footerimage = "";
+$textdecoration = "none";
+if ($cookie['colorpalette'] == 'palette10') $colorpalette = 'palette' . rand(8,9); else $colorpalette = $cookie['colorpalette'];
+switch ($colorpalette) {
+  // Green
+	case 'palette1':
+		if ($cookie['theme'] == 'theme1') {
+		  $palette = $calendarcolor = $footercolor = "#aecfbe";
+		  $calendarcolorselect = "#c4e8d6";
+		  $buttoncolor = "#aecfbe";
+		  $buttoncolorhover = "#b7d9c7";
+		} else {
+		  $palette = $buttoncolor = "#5f9178";
+	    $linkcolor = "#91b3a2";
+	    $linkcolorhover = "#a3c9b6";
+	    $linkcolor2 = "#95b8a6";
+	    $linkcolor2hover = "#9fc4b2";
+	    $buttoncolorhover = "#689e83";
+		}
+		break;
+	// Brown
+	case 'palette2':
+		if ($cookie['theme'] == 'theme1') {
+		  $palette = $calendarcolor = $footercolor = "#d2b48c";
+		  $calendarcolorselect = "#f2d0a2";
+		  $buttoncolor = "#e8c79b";
+		  $buttoncolorhover = "#f2d0a2";
+		} else {
+		  $palette = $buttoncolor = "#755402";
+		  $calendarcolor = 999999;
+	    $linkcolor = "#9c6f03";
+	    $linkcolorhover = "#ab7904";
+	    $linkcolor2 = "#ad7b04";
+	    $linkcolor2hover = "#c28a04";
+	    $buttoncolorhover = "#805b02";
+		}
+		break;
+	// Orange
+	case 'palette3':
+		if ($cookie['theme'] == 'theme1') {
+		  $palette = $calendarcolor = $footercolor = "EFBE7D";
+		  $calendarcolorselect = "#ffd59e";
+		  $buttoncolor = "#fcc984";
+		  $buttoncolorhover = "#ffd59e";
+		} else {
+		  $palette = $buttoncolor = "#9a5300";
+		  $calendarcolor = 999999;
+	    $linkcolor = "#8f4928";
+	    $linkcolorhover = "#a3542e";
+	    $linkcolor2 = "#a1522d";
+	    $linkcolor2hover = "#b55c33";
+	    $buttoncolorhover = "#944c2a";
+		}
+		break;
+	// Blue
+	case 'palette4':
+		if ($cookie['theme'] == 'theme1') {
+		  $palette = $calendarcolor = $footercolor = "#b0c4de";
+		  $calendarcolorselect = "#c6ddfa";
+		  $buttoncolor = "#c0d6f2";
+		  $buttoncolorhover = "#c8dffc";
+		} else {
+		  $palette = $buttoncolor = "#466682";
+		  $calendarcolor = 999999;
+	    $linkcolor = "#748b9e";
+	    $linkcolorhover = "#859fb5";
+	    $linkcolor2 = "#86a1b8";
+	    $linkcolor2hover = "#97b5cf";
+	    $buttoncolorhover = "#4e7291";
+		}
+		break;
+	// Purple
+	case 'palette5':
+		if ($cookie['theme'] == 'theme1') {
+		  $palette = $calendarcolor = $footercolor = "#cdbbeb";
+		  $calendarcolorselect = "#dfccff";
+		  $buttoncolor = "#d4c2f2";
+		  $buttoncolorhover = "#ddcafc";
+		} else {
+		  $palette = $buttoncolor = "#6d556d";
+		  $calendarcolor = 999999;
+	    $linkcolor = "#8a6c8a";
+	    $linkcolorhover = "#a682a6";
+	    $linkcolor2 = "#997899";
+	    $linkcolor2hover = "#ad88ad";
+	    $buttoncolorhover = "#7a5f7a";
+		}
+		break;
+	// Pink
+	case 'palette6':
+		if ($cookie['theme'] == 'theme1') {
+		  $palette = $calendarcolor = $footercolor = "#e8a5b0";
+		  $calendarcolorselect = "#ffc0ca";
+		  $buttoncolor = "#fab1be";
+		  $buttoncolorhover = "#ffc2cc";
+		} else {
+		  $palette = $buttoncolor = "#8c6a70";
+		  $calendarcolor = 999999;
+	    $linkcolor = "#a17a81";
+	    $linkcolorhover = "#ba8d95";
+	    $linkcolor2 = "#bf9199";
+	    $linkcolor2hover = "#d19ea7";
+	    $buttoncolorhover = "#9c757c";
+		}
+		break;
+	// Gray
+	case 'palette7':
+		if ($cookie['theme'] == 'theme1') {
+		  $palette = "#bababa";
+		  $footercolor = "#bbb";
+		  $calendarcolor = "#ccc";
+		  $calendarcolorselect = "#e7e7e7";
+		  $buttoncolor = "#ccc";
+		  $buttoncolorhover = "#d4d4d4";
+		} else {
+		  $palette = "#666";
+		  $calendarcolor = 999999;
+	    $linkcolor = "#aaa";
+	    $linkcolorhover = "#aaa";
+	    $buttoncolor = "#707070";
+	    $buttoncolorhover = "#797979";
+	    $textdecoration = "underline";
+		}
+		break;		
+	// Groovy - Left to Right
+	case 'palette8':
+    $background_image = $background_image_wrapper = "linear-gradient(to right," . $colorarray[$index1] . "," . $colorarray[$index2] . ")";
+    $calendarcolorselect = "#fff";
+    $footercolor = "transparent";
+    break;
+  // Groovy - Diagonal
+	case 'palette9':
+    $background_image = $background_image_wrapper = "linear-gradient(to bottom right," . $colorarray[$index1] . "," . $colorarray[$index2] . ")";
+    $calendarcolorselect = "#fff";
+    $footercolor = "transparent";
+    break;
+  // Groovy Mix
+  case 'palette10':
+    break;
+  // Bricks
+  case 'palette11':
+    $background_image = $background_image_banner = $footerimage = "url('Graphics/background_bricks.jpg')";
+    $calendarcolorselect = "#fff";
+    break;
+  // Marble
+  case 'palette12':
+    $background_image = $background_image_banner = $footerimage = "url('Graphics/background_marble.jpg')";
+    $calendarcolorselect = "#fff";
+    break;
+  // Clouds
+  case 'palette13':
+    $background_image = $background_image_banner = $footerimage = "url('Graphics/background_clouds.jpg')";
+    $calendarcolorselect = "#fff";
+    break;
+  // Wood
+  case 'palette14':
+    $background_image = $background_image_banner = $footerimage = "url('Graphics/background_wood.jpg')";
+    $calendarcolorselect = "#fff";
+    break;
+  // Fur
+  case 'palette15':
+    $background_image = $background_image_banner = $footerimage = "url('Graphics/background_fur.jpg')";
+    $calendarcolorselect = "#fff";
+    break;
+  // Sand
+  case 'palette16':
+    $background_image = $background_image_banner = $footerimage = "url('Graphics/background_sand.jpg')";
+    $calendarcolorselect = "#fff";
+    break;
+  // Paper
+  case 'palette17':
+    $background_image = $background_image_banner = $footerimage = "url('Graphics/background_paper.jpg')";
+    $calendarcolorselect = "#fff";
+    break;
+  // Groovy - Top to Bottom (Depricated)
+	case '':
+    $background_image = $background_image_wrapper = "linear-gradient(" . $colorarray[$index1] . "," . $colorarray[$index2] . ")";
+    $calendarcolorselect = "#bbb";    
+    break;
+  // Groovy - Radial (Depricated)
+  case '':
+    $background_image = $background_image_wrapper = "radial-gradient(" . $colorarray[$index1] . "," . $colorarray[$index2] . "," . $colorarray[$index3] . ")";
+    $calendarcolorselect = "#bbb";
+    break;
+  // Green
+	default:
+		$palette = "9dbaab";
+		if ($cookie['theme'] == 'theme1') $calendarcolor = "C3D9C8"; else $calendarcolor = 999999;
+}
+switch ($cookie['font']) {
+	case 'font1': $fontfamily = "Arial"; break;
+	case 'font2': $fontfamily = "Bookman Old Style"; break;
+	case 'font3':	$fontfamily = "Calibri"; break;
+	case 'font4': $fontfamily = "Courier New"; break;
+	case 'font5': $fontfamily = "Garamond"; break;
+	case 'font6': $fontfamily = "Georgia"; break;
+	case 'font7': $fontfamily = "Helvetica"; break;
+	case 'font8': $fontfamily = "Lucida"; break;
+	case 'font9': $fontfamily = "Monaco Monospace"; break;
+	case 'font10': $fontfamily = "Palatino Linotype"; break;
+	case 'font11': $fontfamily = "Roboto"; break;
+	case 'font12': $fontfamily = "Times New Roman"; break;
+	case 'font13': $fontfamily = "Trebuchet MS"; break;
+	case 'font14': $fontfamily = "Verdana"; break;
+	default: $fontfamily = $fontfamily = "Verdana";
+}
+switch ($cookie['theme']) {
+	case 'theme1':
+	  $fontcolor = $linkcolor = $linkcolorhover = $linkcolor2 = $linkcolor2hover = $bannerfontcolor = "black";
+	  $hrcolor = "#eee";
+	  $backgroundcolor = "#eee";
+	  $secondarybackgroundcolor = $bannercolor = $galleryitembackgroundcolor = "#bbb";
+	  $bannerweight = "bold";
+	  $textdecoration = "underline";
+	  $secondaryimageopacity = $primaryimageopacity = "1.0";
+	  $inputfieldcolor = "#fff";
+	  $buttoncolorborder = "#aaa";
+	  $textdecoration = "underline";
+	  $invert = "0%";
+	  $thumbopacity = "1";
+	  $calendarbasecolor = $calendardayscolor = "#bbb";
+	  $popupbackgroundcolorcalendar = $popupcontrolbackgroundcolorcalendar = $popupbackgroundcolorshare = $popupcontrolbackgroundcolorshare = "#ddd";
+	  $popupshareheadingmargin = 0;
+	  $hr_display = "none";
+	  break;
+	case 'theme2':
+	  $fontcolor = "#aaa";
+	  $bannerfontcolor = "#b0b0b0";
+	  $hrcolor = "#777";
+	  $backgroundcolor = "#222";
+	  $secondarybackgroundcolor = "#111";
+	  $bannercolor = "#444";
+	  $bannerweight = "normal";
+	  $galleryitembackgroundcolor = "#333";
+	  $primaryimageopacity = "0.9";
+	  $secondaryimageopacity = "0.45";
+	  $inputfieldcolor = "#999";
+	  $buttoncolorborder = "#222";
+	  $invert = "100%";
+	  $thumbopacity = ".7";
+	  $calendarbasecolor = "#4a4a4a";
+	  $calendardayscolor = "#6a6a6a";
+	  $popupbackgroundcolorcalendar = $palette;
+	  $popupbackgroundcolorshare = $popupcontrolbackgroundcolorshare = "#aaa";
+    $calendarcolor = "#333";
+		$calendarcolorselect = "#111";
+		$popupcontrolbackgroundcolorcalendar = "#888";
+		$popupshareheadingmargin = "10px";
+		$hr_display = "default";
+	  break;
+}
+switch ($cookie['fontsize']) {
+  case 'x-small': $fontsize = '12px'; break;
+  case 'small': $fontsize = '14px'; break;
+  case 'medium': $fontsize = '16px'; break;
+  case 'medium-large': $fontsize = '18px'; break;
+  case 'large': $fontsize = '20px'; break;
+  case 'x-large': $fontsize = '22px'; break;
+  default: $fontsize = "16px";
+}
+?>
+
+html {
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+table.Content {
+  max-width: 1020px;
+}
+
+td.ContentArea .LinkSensitive a.ActiveLink {
+  text-decoration: underline !important;
+}
+
+td.ContentArea .LinkSensitive a {
+  text-decoration: none !important;
+}
+
+<?php
+  if ($cookie['theme'] === 'theme1') {
+    echo ".Journal2 {
+      display: $hr_display;
+    }
+    h1 {
+      padding: 8px;
+      background-color: $palette;
+      background-image: $background_image;
+    }";
+  } else {
+    echo "body {
+      width: 100%;
+      overflow-y: auto;
+    }
+    body::-webkit-scrollbar {
+      width: 10px;
+    }
+    body::-webkit-scrollbar-track {
+      background: #2e2e2e;
+      border-left: 1px solid #222222;
+    }
+    body::-webkit-scrollbar-thumb {
+      border-radius: 20px;
+      background-color: #6b6b6b;
+      border-left: 1px solid #222222;
+    }";
+  }
+?>
+
+a {
+  color: <?php echo $fontcolor ?>;
+}
+
+p.Heading {
+  margin: 0 0 6px 0;
+  padding: 0;
+}
+
+p.HeadingDarkMode {
+  margin: 0 0 20px 0;
+  padding: 0;
+}
+
+td.ContentArea a.InactiveLink,
+a.InactiveLink {
+  cursor: default;
+  text-decoration: none;
+  color: <?php echo $fontcolor ?>;
+}
+
+td.ContentArea a.InactiveLink,
+a.InactiveLink:hover {
+  color: <?php echo $fontcolor ?>;
+}
+
+td {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	color: <?php echo $fontcolor; ?>;
+}
+
+td.SplashText {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	color: #000;
+}
+
+table.ContentBanner,
+#BannerNarrow,
+.BannerSimple {
+  position: relative;
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: <?php echo $bannercolor ?>;	
+}
+
+table.SubContentBanner {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+}
+
+td.BannerText {
+  position: relative;
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize ?>;
+	color: <?php echo $bannerfontcolor ?>;
+	background-color: <?php echo $bannercolor ?>;	
+}
+
+td.ContentArea b {
+	font-weight: <?php echo $bannerweight ?>;
+}
+
+td.ContentArea {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: <?php echo $backgroundcolor; ?>;
+}
+
+td.ContentArea a,
+td.MainMenu a,
+tr.Footer a {
+  color: <?php echo $linkcolor ?>;
+  text-decoration: <?php echo $textdecoration ?>;
+}
+
+tr.Calendar a,
+td .GalleryLink a,
+td.ContentArea .ContentBanner a {
+  color: <?php echo $linkcolor2 ?>;
+}
+
+tr.Calendar a:hover,
+td.ContentArea a:hover,
+td.MainMenu a:hover,
+tr.Footer a:hover {
+  color: <?php echo $linkcolorhover ?>;
+}
+
+td .GalleryLink a:hover,
+td.ContentArea .ContentBanner a:hover {
+  color: <?php echo $linkcolor2hover ?>;
+}
+
+td.AdContentArea {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: <?php echo $secondarybackgroundcolor ?>;
+}
+
+td.MainMenu {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: <?php echo $secondarybackgroundcolor ?>;
+	background-color: transparent;
+	xbackground-image: <?php echo $background_image_wrapper ?>;
+	width: 160px;
+}
+
+tr.Calendar {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize ?>;
+	background-color: <?php echo $calendarcolor ?>;
+	background-image: <?php echo $background_image ?>;
+}
+
+td.CalendarSelect {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: <?php echo $calendarcolorselect; ?>;
+}
+
+td.CalendarHeader {
+  color: black;
+	background-color: <?php echo $palette ?>;
+}
+
+td.CalendarDayHeader {
+  height: 25px;
+  width: 100px;
+	background-color: <?php echo $calendardayscolor ?>;
+	color: black;
+	min-width: 40px;
+	min-height: 40px;
+	text-align: center;
+}
+
+td.CalendarDayEmpty {
+	background-color: <?php echo $calendarbasecolor ?>;
+	height: 175px;
+	width: 100px;
+}
+
+td.CalendarDay {
+	background-color: <?php echo $calendarbasecolor ?>;
+	height: 175px;
+	width: 100px;
+}
+
+td.IndexContent {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: <?php echo $secondarybackgroundcolor ?>;
+}
+
+.GallerySocialMedia {
+  width: 100%;
+  max-width: 1000px;
+}
+
+.GallerySocialMedia img {
+  width: 100%;
+  z-index: 3001;
+}
+
+.GallerySocialMedia a {
+  cursor: pointer;
+}
+
+.LoadingImage {
+  width: 100%;
+  position: relative;
+  background-color: <?php echo $palette ?>;
+	background-image: <?php echo $background_image ?>;
+}
+
+.ImageWrapper {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 1000;
+}
+
+td.GalleryPaging {
+  padding-top: 20px;
+}
+
+td.GalleryPaging .Label {
+  font-weight: bold;
+  margin-right: 6px;
+}
+
+td.GalleryPaging .LinkPrev {
+  margin-right: 10px;
+}
+
+td.GalleryPaging .Link {
+  margin-left: 1px;
+}
+
+td.GalleryPaging .LinkNext {
+  margin-left: 10px;
+}
+
+td.GalleryPaging .ActivePage {
+  font-weight: bold;
+  margin: 0 4px 0 1px;
+}
+
+@media (max-width: 600px) {
+  .GallerySocialMediaWrapper {
+    margin-top: 3px;
+  }
+  .GallerySocialMedia {
+    margin-bottom: 0px;
+  }
+  .GallerySocialMedia td.Spacer {
+    width: 0px;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 800px) {
+  .GallerySocialMediaWrapper {
+    margin-top: 7px;
+  }
+  .GallerySocialMedia {
+    margin-bottom: 5px;
+  }
+  .GallerySocialMedia td.Spacer {
+    width: 5px;
+  }
+}
+
+@media (min-width: 801px) {
+  .GallerySocialMediaWrapper {
+    margin-top: 14px;
+  }
+  .GallerySocialMedia {
+    margin-bottom: 20px;
+  }
+  .GallerySocialMedia td.Spacer {
+    width: 20px;
+  }
+}
+
+hr {
+	border: 1px inset <?php echo $hrcolor ?>;
+}
+
+table.PicRotator img {
+  margin-bottom: 4px;
+}
+
+tr.Footer {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: <?php echo $footercolor ?>;
+	background-image: <?php echo $footerimage ?>;
+  background-size: 100% auto;
+}
+
+td.FooterGraphic {
+}
+
+input.SetFieldColor {
+	background-color:  <?php echo $calendarcolor; ?>;
+}
+
+textarea.SetFieldColor {
+	background-color: <?php echo $calendarcolor; ?>;
+}
+
+.SubmitButton,
+.ReEditButton {
+  color: black;
+	background-color: <?php echo $buttoncolor ?>;
+	background-image: <?php echo $background_image ?>;
+	padding: 6px 8px;
+	text-align: center;
+	font-size: 1em;
+	border: 1px solid <?php echo $buttoncolorborder ?>;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+.SubmitButton:hover,
+.ReEditButton:hover {
+  background-color: <?php echo $buttoncolorhover ?>;
+}
+
+.SubmitButton {
+	width: 60px;
+}
+
+.SubmitButton.TryAgain {
+	width: 80px;
+}
+
+.SubmitButton.SiteSearch {
+  font-size: .8em;
+  width: 80px;
+}
+
+.ReEditButton {
+	width: 175px;
+}
+
+.ButtonLink {
+  color: black !important;
+  text-decoration: none !important;
+}
+
+img {
+  opacity: <?php echo $primaryimageopacity ?>;
+}
+
+img.PicBorder {
+	border-color: #808080;
+}
+
+img.HomePic {
+	width: 100%;
+	max-width: 375px;
+	margin-left: 1px;
+}
+
+table.FavoritePicsControls {
+  max-width: 800px;
+}
+
+table.FavoritePicsControls tr td {
+  width: 20%;
+}
+
+img.PicFavoritesBorder {
+	border-color: black;
+}
+
+@media (max-width: 680px) {
+  img.PicFavoritesBorder {
+    height: 80px;
+  }
+}
+
+@media (max-width: 610px) {
+  img.PicFavoritesBorder {
+    height: 70px;
+  }
+}
+
+@media (max-width: 540px) {
+  img.PicFavoritesBorder {
+    height: 60px;
+  }
+}
+
+@media (max-width: 500px) {
+  img.PicFavoritesBorder {
+    height: 55px;
+  }
+  .FavoritePicsControls tr td {
+    font-size: .9em;
+  }
+}
+
+@media (max-width: 440px) {
+  img.PicFavoritesBorder {
+    height: 50px;
+  }
+  .FavoritePicsControls tr td {
+    font-size: .85em;
+  }
+}
+
+@media (max-width: 410px) {
+  img.PicFavoritesBorder {
+    height: 45px;
+  }
+  .FavoritePicsControls tr td {
+    font-size: .85em;
+  }
+}
+
+img.CommentPreview {
+	border-color: black;
+}
+
+A.CalNormal {
+	color: black;
+}
+
+a.CalChosen {
+	font-color: red;
+	background-color: <?php echo $palette; ?>;
+}
+
+h1 {
+	font-size: 1em;
+	font-weight: normal;
+}
+
+h1.MainHeading {
+  padding: 9px 0 6px 0;
+  margin: 0;
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: <?php echo $bannercolor ?>;	
+}
+
+.LargePhoto {
+  width: 100%;
+  max-width: 640px;
+}
+
+.LargeLandscapePhoto {
+  width: 100%;
+  max-width: 800px;
+}
+
+.ContentArea img.FullPic {
+  width: 100%;
+  max-width: 640px;
+}
+
+.ContentArea img.FullPicPortrait {
+  width: 100%;
+  max-width: 480px;
+}
+
+.ContentArea img.FullPic2 {
+  width: 100%;
+  max-width: 300px;
+}
+
+.ContentArea img.FullPanorama {
+  width: 100%;
+  max-width: 670px;
+  max-height: 120px;
+  xmargin: 6px 0;
+}
+
+.ContentArea img.PartialPanorama {
+  width: 100%;
+  max-width: 500px;
+  max-height: 120px;
+  xmargin: 6px 0;
+}
+
+@media (max-width: 550px) {
+  .PanoramaView {
+    overflow-x: scroll;
+    width: 100%;
+    max-width : 300px;
+  }
+  .PanoramaView img {
+    height: 200px;
+  }
+}
+
+@media (min-width: 551px) and (max-width: 650px) {
+  .PanoramaView {
+    overflow-x: scroll;
+    width: 100%;
+    max-width : 400px;
+  }
+  .PanoramaView img {
+    height: 250px;
+  }
+}
+
+@media (min-width: 651px) and (max-width: 850px) {
+  .PanoramaView {
+    overflow-x: scroll;
+    width: 100%;
+    max-width : 600px;
+  }
+  .PanoramaView img {
+    height: 350px;
+  }
+}
+
+@media (min-width: 851px) {
+  .PanoramaView {
+    overflow-x: scroll;
+    width: 100%;
+    max-width : 800px;
+  }
+}
+
+.TopBannerWrapper {
+  width: 100%;
+  text-align: center;
+}
+
+.TopBannerLeft {
+  float: left;
+  width: 160px;
+}
+
+.TopBannerMain {
+  position: relative;
+  bottom: 4px;
+}
+
+.TopBannerRight {
+  float: right;
+  width: 129px;
+}
+
+.SubContentBanner {
+  width: 100%;
+  height: 35px;
+}
+
+#TopBanner1 {
+  width: 100%;
+}
+
+.TopBannerMenu {
+  position: relative;
+  top: 20px;
+  width: 40px;
+  float: left;
+}
+
+.TopBannerMenu img {
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.StateMap img {
+  width: 100%;
+  max-width: 800px;
+}
+
+.ContentBanner {
+  width: 100%;
+}
+
+<?php
+  // Turn off responsive design if the social media gallery is being called from Instagram
+  if ($action == 'social-media-gallery') {
+    echo "#TopBannerMenu, #Footer { display: none }";
+  } else {
+    echo "@media (max-width: 1000px) {";
+  }
+?>
+  
+#MainMenu, #TopBanner1, #PicRotator, #FooterSpacerLeft, #FooterSpacerRight,
+.TripCalendar #Ref1,
+.TripCalendar #Ref2,
+.TripCalendar #Ref3,
+.TripCalendar #Ref4,
+.TripCalendar #Ref5,
+.LinkToMBA,
+.SiteMapLink,
+.WideLink {
+  display: none;
+}
+#TopBanner2 {
+  display: default;
+}
+.CalendarDayUnderConstruction {
+  text-decoration: <?php echo $textdecoration ?>;
+  cursor: pointer;
+}
+  
+<?php
+  // Turn off responsive design if the social media gallery is being called from Instagram
+  if ($action != 'social-media-gallery') {
+    echo "}
+      @media (min-width: 1001px) {
+        #MainMenu, #TopBanner1, #PicRotator, #FooterSpacerLeft, #FooterSpacerRight {
+          display: default;
+        }
+        #TopBanner2 {
+          display: none;
+        }
+      }" ;
+  }
+?>
+
+@media (max-width: 630px) {
+  .TopBannerMain img {
+    width: 400px;
+  }
+  .TopBannerMenu {
+    position: relative;
+    top: 12px;
+  }
+}
+
+@media (max-width: 374px) {
+  .TopBannerMainTiny {
+    display: default;
+  }
+  .TopBannerMain,
+  .TopBannerMainNarrow {
+    display: none;
+  }
+}
+
+@media (min-width: 375px) and (max-width: 460px) {
+  .TopBannerMainNarrow {
+    display: default;
+  }
+  .TopBannerMain,
+  .TopBannerMainTiny {
+    display: none;
+  }
+}
+
+@media (min-width: 461px) {
+  .TopBannerMain {
+    display: default;
+  }
+  .TopBannerMainNarrow,
+  .TopBannerMainTiny {
+    display: none;
+  }
+}
+
+@media (max-width: 650px) {
+  .HomePicRotator {
+    display: none;
+  }
+}
+
+@media (min-width: 651px) {
+  .HomePicRotator {
+    display: default;
+  }
+}
+
+@media (max-width: 400px) {
+  .FooterGraphic {
+    display: none;
+  }
+}
+
+@media (min-width: 401px) {
+  .FooterGraphic {
+    display: default;
+  }
+}
+
+@media (min-width: 401px) and (max-width: 518px) {
+  .LinkSeparator {
+    display: none;
+  }
+}
+
+/* New CSS */
+
+body {
+  background-color: <?php echo $secondarybackgroundcolor ?>;
+  xbackground-repeat: repeat-y;
+  overflow-x: hidden; 
+}
+
+.PaletteColor {
+  background-color: <?php echo $palette; ?>;
+  background-image: <?php echo $background_image_banner; ?>;
+  background-size: 100% auto;
+}
+
+.GalleryNoHeadings,
+.GalleryNoHeadingsShort,
+.GalleryNoHeadingsTall,
+.GalleryShort,
+.GalleryTall,
+.GalleryMaps {
+  max-width: 1010px;
+}
+
+.GalleryNoHeadings .GalleryItem {
+  height: 145px;
+}
+
+.GalleryNoHeadingsShort .GalleryItem {
+  height: 160px;
+}
+
+.GalleryNoHeadingsTall .GalleryItem {
+  height: 175px;
+}
+
+.GalleryShort .GalleryItem {
+  height: 180px;
+}
+
+.GalleryTall .GalleryItem {
+  height: 195px;
+}
+
+.GalleryMaps .GalleryItem {
+  height: 180px;
+  width: 220px;
+}
+  
+.GalleryItem {
+  float: left;
+  padding: 20px 0;
+  margin: 8px 8px 0 0;
+  background-color: <?php echo $galleryitembackgroundcolor ?>;
+  width: 160px;
+  height: auto;
+}
+
+.GalleryNoHeadings .GalleryItem,
+.GalleryNoHeadingsShort .GalleryItem,
+.GalleryNoHeadingsTall .GalleryItem {
+  padding-top: 0;
+}
+
+.GalleryItem a {
+  color: black;
+}
+
+.GalleryItem div {
+  text-align: center;
+}
+
+.GalleryHeading {
+  position: relative;
+  bottom: 10px;
+}
+
+.GalleryLink {
+  margin-top: 14px;
+  font-size: .9em;
+}
+
+.GalleryFooter {
+  font-size: .9em;
+  margin-top: 6px;
+}
+
+.TripCalendar .MonthsWide a,
+.TripCalendar .MonthsWide b {
+  margin-left: 20px;
+}
+
+.TripCalendar .MonthsNarrow a,
+.TripCalendar .MonthsNarrow b {
+  margin: 0 5px;
+}
+
+@media (max-width: 850px) {
+  .TripCalendar .MonthsNarrow,
+  .CalendarKeyMobile {
+    display: block;
+  }
+  .TripCalendar .DayLinks,
+  .TripCalendar .MonthsWide,
+  .CalendarKey {
+    display: none;
+  }
+  .TripCalendar table td {
+    width: 20px;
+    height: 20px;
+  }
+  tr.Calendar td {
+    padding: 3px 3px 3px 4px;
+  }
+
+  tr.Calendar td.SingleDigit {
+    padding: 3px 3px 3px 11px;
+  }
+  td.CalendarDayHeader {
+    font-size: 1em;
+  	min-width: 35px;
+  	min-height: 35px;
+  }  
+  .PopUpCalendar {
+    top: 180 !important;
+  }
+  .PopUpCloseControlCalendar {
+    top: 175 !important;
+  }
+}
+
+@media (min-width: 851px) {
+  .TripCalendar .MonthsWide,
+  .CalendarKey {
+    display: block;
+  }
+  .TripCalendar .MonthsNarrow,
+  .CalendarKeyMobile {
+    display: none;
+  }  
+}
+
+#TopPageControl {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  cursor: pointer;
+}
+
+.TopPageControlHover:hover {
+  background: url('Graphics/page_top_control_hover.png');
+}
+
+#PopUp {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+  display: none;
+  position: absolute;
+  z-index: 2000;
+  border: 1px solid #777;
+  border-radius: 15px;
+  padding-bottom: 5px;
+}
+
+.PopUpCalendar {
+  top: 220;
+  left: 20;
+  width: 120px;
+  background-color: <?php echo $popupbackgroundcolorcalendar ?>;
+}
+
+.PopUpShare {
+  top: 110;
+  width: 265px;
+  background-color: <?php echo $popupbackgroundcolorshare ?>;
+}
+
+.PopUpShare h1 {
+  margin-top: <?php echo $popupshareheadingmargin ?>;
+  border-radius: 15px 15px 0 0;
+}
+
+#PopUp a {
+  color: black;
+}
+
+#PopUpCloseControl {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+  display: none;
+  position: absolute;
+  z-index: 2000;
+  cursor: pointer;
+  border: 1px solid #555;
+  border-radius: 15px;
+  padding: 4px 7px;
+  font-weight: bold;
+}
+
+.PopUpCloseControlCalendar {
+  top: 215;
+  left: 120;
+  background-color: <?php echo $popupcontrolbackgroundcolorcalendar ?>;
+}
+
+.PopUpCloseControlShare {
+  top: 100;
+  left: 245;
+  background-color: <?php echo $popupcontrolbackgroundcolorshare ?>;  
+}
+
+.PopUpHeading {
+  font-weight: bold;
+  font-size: 1.05em;
+  margin: 4px 0;
+}
+
+.MBALinks {
+  width: 100%;
+}
+
+.MBALinks td {
+  vertical-align: top;
+  padding: 10px 10px 10px 0;
+}
+
+.DrivingDay {
+  float: left;
+  width: 48%;
+  padding-left: 10px;
+}
+
+@media (max-width: 600px) {
+  .DrivingDay {
+    width: 100%;
+  }
+  .DrivingSeparatorSingle {
+    display: block;
+  }
+}
+
+@media (min-width: 601px) {
+  .DrivingSeparatorSingle {
+    display: none;
+  }
+}
+
+.ImageCollection {
+  text-align: left;
+}
+
+.ItemDesc,
+.ItemImage {
+  float: left;
+  text-align: left;
+}
+
+.ItemDesc {
+  margin-right: 14px;
+}
+
+.StateStats {
+  margin: 12px 0 0 2px;
+}
+
+.StateStats .StateItem {
+  float: left;
+  min-width: 200px;
+}
+
+.StateStats table td {
+  width: 125px;
+}
+
+.StateStats .Flag {
+  width: 225px;
+}
+
+.StateItem.Flag {
+  text-align: center;
+}
+
+.StateStats .Stats {
+  margin-top: 22px;
+}
+
+@media (max-width: 830px) {
+  .StateStats .StateItem {
+    float: none;
+  }
+  .StateStats .Stats {
+    margin: 0;
+    position: relative;
+    left: -8px;
+  }
+  .StateItem.Flag {
+    text-align: left;
+  }
+}
+
+table.PreferenceControls {
+  margin-left: -7px;
+}
+
+table.PreferenceControls td {
+  padding: 6px;
+}
+
+table.PreferenceControls td.Label {
+  font-weight: bold;
+}
+
+.CamperIndex p {
+  margin: 0;
+  padding: 8px 0 0 0;
+}
+
+.CharityLink {
+  border-radius: 10px;
+  opacity: <?php echo $secondaryimageopacity ?>;
+}
+
+.ViewMapLink {
+  margin: 16px 0 10px 3px;
+}
+
+.StateMsg {
+  margin: 16px 0 10px 0;
+  font-size: .8em;
+}
+
+.Clear {
+  clear: both;
+}
+
+select {
+  padding: 0 30px 0 5px;
+  font-size: 15px;
+  height: 29px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -khtml-border-radius: 3px;
+}
+
+input {
+  border-color: <?php echo $backgroundcolor ?>;
+}
+
+select, input {
+  background-color: <?php echo $inputfieldcolor ?>;
+}
+
+.ThumbsUp,
+.DayLinks img,
+.FooterGraphic img,
+.UnderConstruction img {
+  filter: invert(<?php echo $invert ?>);
+  opacity: <?php echo $thumbopacity ?>;
+}
+
+.AdventureLinks tr td {
+  padding: 6px 8px;
+}
+
+@media (max-width: 450px) {
+  .AdventureLinks tr td {
+    font-size: .8em;
+  }
+}
+
+#BannerNarrow,
+.BannerSimple {
+  padding: 7px 7px 7px 0;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  #BannerNarrow {
+    display: default;
+  }
+  #BannerWide {
+    display: none;
+  }
+}
+
+@media (min-width: 600px) {
+  #BannerNarrow {
+    display: none;
+  }
+  #BannerWide {
+    display: default;
+  }
+}
+
+.ChineseCalendar td {
+  vertical-align: top;
+}
+
+img.MapThumbnail {
+  height: 120px;
+  width: 160px;
+}
+
+img.MapThumbnailWide {
+  width: 160px;
+}
+
+img.MapThumbnailTall {
+  height: 160px;
+}
+
+.BaseballStats {
+  max-width: 800px;
+}
+
+@media (max-width: 525px) {
+  .BaseballStats td {
+    font-size: .7em !important;
+  }
+}
+
+@media (min-width: 526px) {
+  .BaseballStats td {
+    font-size: 1em !important;
+  }
+}
+
+.StandardTable td {
+  margin: 0;
+  border: solid 1px black;
+}
+
+.StandardTable td {
+  vertical-align: top;
+  padding: 5px;
+}
+
+#BannerNarrow {
+  position: relative;
+}
+
+.ShareControl {
+  float: right;
+  margin: 0 0px 0 8px;
+  cursor: pointer;
+}
+
+td.BannerText .ShareControl,
+#BannerNarrow .ShareControl {
+  position: absolute;
+  right: 7px;
+  top: 7px;
+}
+
+@media (max-width: 355px) {
+  p a img {
+    margin-bottom: 5px;
+  }
+}
+
+#sharethis-buttons {
+  margin: 8px 0;
+}
+
+</style>

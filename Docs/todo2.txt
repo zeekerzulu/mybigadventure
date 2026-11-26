@@ -1,0 +1,43 @@
+TODO
+
+* Where ever your favorite pics are referenced within the website outside of the favorite pics process, you need to change the picture source to point to the favorite picture repository, this is necessary to ensure all comments for a given picture land in one place.
+
+* Complete the comment facility
+
+* On MiPL breakout sites, you need to add a home link for the "send page to a friend" email for picture sharing
+
+* Need to work on panos
+
+* Update Trip Journal
+
+* Need to resize trip statistic font when user increases/decreases font size preference
+
+* Add references to various trip statistics?
+
+* On all sites, you need to revisit the "back" link on picture page when using the "send page to a frield" function
+
+* Convert the address book to use paging like the comments facility
+
+* Add meta tag/keyword processing
+
+* Make sure all html titles are formatted correctly
+
+* Convert to use H1 header tags
+
+* Create new title column in comments table to hold title information?
+
+* Add more sounds
+
+* Add Site Usage
+
+* Reconfigure Visitor/Page Counter Processing
+
+* Buy Gif Constructor Software?
+
+* HTML-based email announcements for content push updates
+
+* Complete Family & Friend writeups
+
+* Complete Acadia National Park Adventures
+
+* Touch up all pictures within sight using Picasa 2

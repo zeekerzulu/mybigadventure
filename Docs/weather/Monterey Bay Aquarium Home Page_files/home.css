@@ -1,0 +1,81 @@
+.whatsnew {
+	COLOR: #cce4fd
+}
+A.whatsnew:link {
+	COLOR: #cce4fd; TEXT-DECORATION: none
+}
+A.whatsnew:visited {
+	COLOR: #dbdbdb; TEXT-DECORATION: none
+}
+A.whatsnew:active {
+	COLOR: #dbdbdb
+}
+A.whatsnew:hover {
+	COLOR: #ffcc66; TEXT-DECORATION: underline
+}
+A:link {
+	COLOR: #b0d6f4
+}
+A:visited {
+	COLOR: #dbdbdb
+}
+A:active {
+	COLOR: #dbdbdb
+}
+A:hover {
+	COLOR: #cc6600
+}
+.favorites {
+	FONT-WEIGHT: bold
+}
+A.favorites:link {
+	COLOR: #144f60
+}
+A.favorites:visited {
+	COLOR: #666666
+}
+A.favorites:active {
+	COLOR: #666666
+}
+A.favorites:hover {
+	COLOR: #cc6600; TEXT-DECORATION: underline
+}
+.conservation {
+	COLOR: #333300
+}
+A.conservation:link {
+	COLOR: #333300
+}
+A.conservation:visited {
+	COLOR: #666666
+}
+A.conservation:active {
+	COLOR: #666666
+}
+A.conservation:hover {
+	COLOR: #cc6600; TEXT-DECORATION: underline
+}
+.close {
+	FONT-SIZE: 10px; FONT-FAMILY: verdana, arial
+}
+A.close:link {
+	COLOR: #000066
+}
+A.close:visited {
+	COLOR: #666666
+}
+A.close:active {
+	COLOR: #666666
+}
+A.close:hover {
+	COLOR: #cc6600; TEXT-DECORATION: underline
+}
+.footer {
+	COLOR: #b0d6f4
+}
+H1 {
+	MARGIN-TOP: 0px; FONT-SIZE: 16px; MARGIN-BOTTOM: 0px; COLOR: #9f4509
+}
+UL.bullet {
+	LINE-HEIGHT: 12px; LIST-STYLE-TYPE: disc
+}

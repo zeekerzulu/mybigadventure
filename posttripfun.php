@@ -1,0 +1,3 @@
+<?php
+	Will eventually contain an index of my post-trip adventures...
+?>

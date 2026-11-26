@@ -1,0 +1,2 @@
+<table class="ContentBanner" width=808 cellspacing=0 cellpadding=0>
+	<tr><td class="BannerText" align="center"><h1 class='MainHeading'><b><?php echo $bannerheading ?></b><?php include 'sharecontrol.php' ?></h1></td></tr></table>

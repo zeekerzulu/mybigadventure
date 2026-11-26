@@ -1,0 +1,43 @@
+<?php
+  $bannerheading = 'M I S S I O N';
+  include 'mainbanner.php';
+?>
+<br>
+<!--
+"It is not the critic that counts; not the man who points out how the strong man
+stumbles or the doer of deeds could have done them better. The credit belongs to the man who is actually in the Arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs and comes short again and again, because there is no effort without error and shortcoming; but he who does actually strive to do the deed; who knows the great devotion; who spends himself in a worthy cause, who at the best, knows in the end the triumph of high achievement, and who at the worst, if he fails while daring greatly, knows that his place shall never be with those cold and timid souls, who know neither victory nor defeat."
+<p>
+-- Theodore Roosevelt (1858-1919), 26th US President, Republican-->
+"Far better it is to dare mighty things, to win glorious triumphs even though checkered by failure, than to rank with those poor spirits who neither enjoy nor suffer much because they live in the gray twilight that knows neither victory nor defeat." 
+<p>
+-- Franklin Delano Roosevelt (1882-1945), 32nd US President, Democrat
+<p>
+"Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did do. So throw off the bowlines.  Sail away from the safe harbor.  Catch the trade winds in your sails. Explore.  Dream.  Discover."
+<p>
+-- Mark Twain (1835-1910), Writer, Author, Satirist and Public Speaker
+<p>
+"If you want to catch beasts you don't see every day, You have to go places quite out of the way. You have to go places no others can get to. You have to get cold, and you have to get wet, too."
+<p>
+-- Dr. Seuss
+<p>
+"Deprived of the freedom to wander, man often becomes frustrated, bored, dulled; a moron, a machine, an automaton".
+<p>
+-- Tristan Jones (1924-1995), Author, World Traveler
+<p>
+Wanting to break free of the "gray twilight" that FDR has so elegantly prosed, I'm setting out to travel the country, wishing to share my adventures with anyone who stumbles upon my site.  Through this website I hope to accomplish that goal, illustrating my trip's highs and lows and everything else in between.  My mission is to spend many, many months on the road (or run out of travel budget, whichever comes first), focusing on biking (road and mountain), hiking, state/national parks, a number of interesting cities and popular sights, as well as a multitude of family & friends.  Aside from budget, the only limiting factor on my trip duration is the weather.  I figure I can stay on the road until the end of October. Or maybe I'll just keep going inspire of the cold weather. We shall see.
+<p>
+For years now I've wanted to take a "time out" to do a bit of traveling but never had the time or lack of responsibility to pack it all up and leave until now.  I'm in the process of selling my house, given notice to my software contracts (I'm an independent software contractor), no longer have to care for my sick Chocolate Labrador (poor <a href="index.php?action=Pics&name=Watson.jpg">Watson</a>, I miss him, he passed away last Nov; this is his world famous <a href="index.php?action=Pics&name=ScoobySnack.jpg">peanut trick</a>), unattached relationship-wise, and in general in dire need of some good ole rest and recreation.  Optionally, I'd like to occassionally travel w/a companion during my trip and as luck will have it, there may be an opportunities to do just that as I drop in on distant friends who are scattered across the country.
+<p>
+The planning for this trip will be rather "loose" in nature.  Loose in the sense that I just have a general idea of where I'm going.  At the 50,000 foot level, I'll be doing a clockwise traverse of the country beginning and ending at Portland OR.  Exactly where I'll go and what I'll do all depends on what interests me along the way.  During my travels I'll try to update the website as frequently as possible, all hinging on how quickly I can complete my travel writing and how easy is it to find an Internet connection to push any new content.
+<p>
+Thank you for visiting my site.  I hope it provides you with some measure of entertainment as well as inspiration to break free of your own "gray twilights."<!--  Please feel free to sign the guestbook and/or send me an email.  If you want I can add you to my email list.  Folks on the list will get terse email updates of my daily activities along with links that will take them to detail information concerning activities since my last website update.-->
+<p>
+Take care and God Bless,
+<p>
+<a href="index.php?action=Pics&name=Jeff.jpg">JD</a>
+<p>
+P.S.
+<p>
+Just a little information about myself if you're at all curious.
+<p>
+I'm 39 (almost 40, yikes!), stand about 6'4", weigh in at 185lbs.  I currently live in Portland Oregon (7 years now) and I'm single with no kids.  I was born and raised in the small one stoplight town of Oakfield NY, located in Western New York, located between Rochester and Buffalo. I have a BS in Computer Science and I'm a web developer. I'm more of a country person than a city person, and not suprisingly, I love the great outdoors. I enjoy biking, hiking, camping, tinkering with cars, building and fixing things, programming, French Impressionist artwork, puzzles, music, food, animals, and spending time with family and friends.

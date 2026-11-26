@@ -1,0 +1,52 @@
+  # robots.txt for mybigadventure.com
+  # Stay searchable (Google, Bing) — turn away AI-training crawlers
+  # and aggressive scrapers. Note: only well-behaved bots obey this;
+  # it won't stop the spoofed-browser /index.php flood.
+
+  # --- AI / LLM-training crawlers ---
+  User-agent: ClaudeBot
+  Disallow: /
+  User-agent: anthropic-ai
+  Disallow: /
+  User-agent: Claude-Web
+  Disallow: /
+  User-agent: GPTBot
+  Disallow: /
+  User-agent: OAI-SearchBot
+  Disallow: /
+  User-agent: ChatGPT-User
+  Disallow: /
+  User-agent: PerplexityBot
+  Disallow: /
+  User-agent: CCBot
+  Disallow: /
+  User-agent: Bytespider
+  Disallow: /
+  User-agent: Amazonbot
+  Disallow: /
+  User-agent: Meta-ExternalAgent
+  Disallow: /
+  User-agent: Diffbot
+  Disallow: /
+  User-agent: ImagesiftBot
+  Disallow: /
+
+  # --- Keep Google & Bing SEARCH, opt out of their AI training ---
+  User-agent: Google-Extended
+  Disallow: /
+  User-agent: Applebot-Extended
+  Disallow: /
+
+  # --- Aggressive SEO / scraper crawlers ---
+  User-agent: PetalBot
+  Disallow: /
+  User-agent: AhrefsBot
+  Disallow: /
+  User-agent: SemrushBot
+  Disallow: /
+  User-agent: DotBot
+  Disallow: /
+
+  # --- Everyone else (incl. Googlebot, Bingbot) may crawl freely ---
+  User-agent: *
+  Disallow:

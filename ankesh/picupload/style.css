@@ -1,0 +1,222 @@
+<style type="text/css">
+
+<?php
+
+include '../../../cookiegetparameters.php';
+
+switch ($font) {
+	case 'font1': $fontfamily = "Verdana, arial, helvetica, sans-serif"; break;
+	case 'font2':	$fontfamily = "Lucida Casual, Comic Sans MS"; break;
+	case 'font3': $fontfamily = "New Century Schoolbook, Times, serif"; break;
+	case 'font4': $fontfamily = "Gill, Helvetica, sans-serif"; break;
+}
+switch ($fontcolor) {
+	case 'color1': $fontcolor2 = "black"; $backgroundcolor = "cccccc"; break;
+	case 'color2': $fontcolor2 = "cccccc"; $backgroundcolor = "555555"; break;
+}
+
+$red = "FFCCCC";
+if ($fontcolor == 'color1') $lightred = "DDDDDD"; else $lightred = 777777;
+$brown = "CC6633";
+if ($fontcolor == 'color1') $lightbrown = "F3E1D0"; else $lightbrown = 777777;
+$yellow = "FFFF55";
+if ($fontcolor == 'color1') $lightyellow = "FEFEC5"; else $lightyellow = 777777;
+$blue = "3399CC";
+if ($fontcolor == 'color1') $lightblue = "DDDDDD"; else $lightyellow = 777777;
+$orange = "E0A040";
+if ($fontcolor == 'color1') $lightorange = "FBEAC6"; else $lightorange = 777777;
+$purple = "8080C0";
+if ($fontcolor == 'color1') $lightpurple = "E9E1FA"; else $lightpurple = 777777;
+$green = "408080";
+$green = "60A080";
+if ($fontcolor == 'color1') $lightgreen = "C3D9C8"; else $lightgreen = 777777;
+
+switch ($themepalette) {
+	case 'palette1':
+		$color = "green";
+		$palette = $green;
+		$lightpalette = $lightgreen;
+		break;
+	case 'palette2':
+		$color = "brown";
+		$palette = $brown;
+		$lightpalette = $lightbrown;
+		break;
+	case 'palette3':
+		$color = "purple";
+		$palette = $purple;
+		$lightpalette = $lightpurple;
+		break;
+	case 'palette4':
+		$color = "yellow";
+		$palette = $yellow;
+		$lightpalette = $lightyellow;
+		break;
+	case 'palette5':
+		$color = "red";
+		$palette = $red;
+		$lightpalette = $lightred;
+		break;
+	case 'palette6':
+		$color = "orange";
+		$palette = $orange;
+		$lightpalette = $lightorange;
+		break;
+	case 'palette7':
+		$color = "blue";
+		$palette = $blue;
+		$lightpalette = $lightblue;
+		break;
+}
+$topbanner1 = "topbanner1_$color.gif";
+$topbanner2 = "topbanner2_$color.gif";
+$topbanner3 = "topbanner3_$color.gif";
+$sidebanner = "sidebanner1_$color.gif";
+?>
+
+A:link    {color: <?php echo $fontcolor2; ?>}
+A:visited {color: <?php echo $fontcolor2; ?>}
+A:active  {color: <?php echo $fontcolor2; ?>}
+A:hover  {color: <?php echo $fontcolor2; ?>}
+
+td {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	color: <?php echo $fontcolor2; ?>;
+}
+
+td.SplashText {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	color: 000000;
+}
+
+table.ContentBanner {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: 808080;
+}
+
+table.SubContentBanner {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: <?php echo $palette; ?>;
+}
+
+td.BannerText {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	color: <?php echo $fontcolor2; ?>;
+}
+
+td.ContentArea {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: <?php echo $backgroundcolor; ?>;
+}
+
+td.AdContentArea {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: 999999;
+}
+
+td.MainMenu {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	font-color: 000000;
+	background-color: 999999;
+}
+
+tr.Calendar {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: <?php echo $lightpalette; ?>;
+}
+
+td.Calendar {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: <?php echo $lightpalette; ?>;
+}
+
+td.CalendarHeader {
+	background-color: 999999;
+}
+
+td.CalendarDayHeader {
+	background-color: 999999;
+}
+
+td.CalendarDayEmpty {
+	background-color: <?php echo $backgroundcolor; ?>;
+}
+
+td.IndexContent {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: 999999;
+}
+
+hr {
+	color: 999999;
+}
+
+hr.SiteMap {
+	color: <?php echo $palette; ?>;
+}
+
+hr.Journal {
+	color: <?php echo $palette; ?>;
+}
+
+hr.Journal2 {
+	color: aaaaaa;
+}
+
+hr.States {
+	color: 808080;
+}
+
+hr.GuestBook {
+	color: <?php echo $palette; ?>;
+}
+
+hr.Equipment {
+	color: <?php echo $palette; ?>;
+}
+
+hr.Ads {
+	color: 999999;
+}
+
+hr.Comment {
+	color: <?php echo $palette; ?>;
+}
+
+td.PicRotator{
+	background-color: 999999;
+}
+
+tr.Footer {
+	font-family: <?php echo $fontfamily ?>;
+	font-size: <?php echo $fontsize; ?>;
+	background-color: 999999;
+}
+
+input.SetFieldColor {
+	background-color:  <?php echo $lightpalette; ?>;
+}
+
+textarea.SetFieldColor {
+	background-color: <?php echo $lightpalette; ?>;
+}
+
+input.SetButtonColor {
+	background-color: bbbbbb;
+}
+
+img.PicBorder {
+	border-color: 808080;
+}
+</style>

@@ -1,0 +1,36 @@
+<table class="ContentBanner" width=808 cellspacing=0 cellpadding=7>
+	<tr><td class="BannerText" align="center"><b>H O M E</b></td></tr></table>
+<br>
+Welcome to my travel site!  You have just entered into the realms of MyBigAdventure&trade;, a fun-filled website chronicling my 6 month cross-country, clockwise romp around the Continental United States, starting and ending in Portland, Oregon.  Both descriptive and picture-filled, this website is an extensive journal of my fascinating adventure.  
+<p>
+<center>
+<?php include 'homepicrotator.php'?>
+</center>
+<p>
+A lot of ground was covered in my travels, a total of 18,218 miles to be exact.  In the process I passed through 36 states, biked more than 500 miles, hiked more than 100 miles, visited 20 parks, saw tons of interesting sights, and met a lot of great folks, including family, friends, and acquaintances.
+<p>
+<center>
+<font size="-4" color=black>Click on map to navigate to my trip's details.<br>This is a work-in-progress site.  Trip details currently run clockwise, from Portland, Oregon to Denver, Colorado.</font>
+</center>
+<br>
+<img src="States/Maps/USA_20050923.gif" USEmap="#usa">
+<?php include 'mapcoordinates.php'; ?>
+<br>
+<center>
+<font size="-4" color=black>Click on map to navigate to my trip's details.<br>This is a work-in-progress site.  Trip details currently run clockwise, from Portland, Oregon to Denver, Colorado.</font>
+</center>
+<p>
+The trip was initially designed as a "theme" vacation, centered around mountain and road biking.  However, the trip took longer than anticipated (it's a big country after all), and as I passed through New England the weather turned cold, prompting me to change gears and concentrate more on sightseeing.  Through this website I wish to paint a picture of my experiences - biking and all others, covering the highlights, lowlights, and everything else in between.
+<p>
+This is such a great country with so many things to see and do, I hope you'll learn more about America from my adventures.  If you like the website, please share it with your family and friends.  My ultimate goal is to inspire you and others to set out and do some traveling yourself.
+<p>
+Be active and adventurous, the world is waiting for you!
+<p>
+-Jeff Drilling
+<p>
+<hr>
+<b>
+This site was last updated on Monday, September 5, 2005 @ 7:25 pm Pacific.  Current content covers my travels from Portland, Oregon (<a href="index.php?action=TripJournal&daterange=20040708-20040711&page=1#Ref1">07/08</a>) to Denver, Colorado (<a href="index.php?action=TripJournal&daterange=20041115-20041121&page=20#Ref1">11/21</a>).  This is a work in progress website.  As I move closer to trip's end, if you wish to be notified whenever I push new content, click <a href="index.php?action=EmailOptIn">here</a> to subscribe to my newsletter.</b>
+<p>
+<hr>
+<p>

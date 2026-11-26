@@ -1,0 +1,236 @@
+<?php
+	$header = "MIME-Version: 1.0\r\n";
+	$header .= "Content-type: text/html; charset=iso-8859-1\r\n";
+	$header .= "From: jeff@mybigadventure.com\r\n";
+	$header .= "Reply-To: jeff@mybigadventure.com\r\n";
+	$message = "<style type=text/css>
+A:link    {color: black}
+A:visited {color: black}
+A:active  {color: black}
+A:hover  {color: black}
+td {
+	font-family: Verdana, arial, helvetica, sans-serif;
+	font-size: x-small;
+	color: black;
+}
+td.SplashText {
+	font-family: Verdana, arial, helvetica, sans-serif;
+	font-size: x-small;
+	color: 000000;
+}
+table.ContentBanner {
+	font-family: Verdana, arial, helvetica, sans-serif;
+	font-size: x-small;
+	background-color: 808080;
+}
+table.SubContentBanner {
+	font-family: Verdana, arial, helvetica, sans-serif;
+	font-size: x-small;
+	background-color: 8080C0;
+}
+td.BannerText {
+	font-family: Verdana, arial, helvetica, sans-serif;
+	font-size: x-small;
+	color: black;
+}
+
+td.ContentArea {
+	font-family: Verdana, arial, helvetica, sans-serif;
+	font-size: x-small;
+	background-color: cccccc;
+}
+
+td.AdContentArea {
+	font-family: Verdana, arial, helvetica, sans-serif;
+	font-size: x-small;
+	background-color: 999999;
+}
+
+td.MainMenu {
+	font-family: Verdana, arial, helvetica, sans-serif;
+	font-size: x-small;
+	font-color: 000000;
+	background-color: 999999;
+}
+
+tr.Calendar {
+	font-family: Verdana, arial, helvetica, sans-serif;
+	font-size: x-small;
+	background-color: E9E1FA;
+}
+
+td.CalendarSelect {
+	font-family: Verdana, arial, helvetica, sans-serif;
+	font-size: x-small;
+	background-color: 8080C0;
+}
+
+td.CalendarHeader {
+	background-color: 999999;
+}
+
+td.CalendarDayHeader {
+	background-color: 999999;
+}
+
+td.CalendarDayEmpty {
+	background-color: cccccc;
+}
+
+td.IndexContent {
+	font-family: Verdana, arial, helvetica, sans-serif;
+	font-size: x-small;
+	background-color: 999999;
+}
+
+hr {
+	color: 999999;
+}
+
+hr.SiteMap {
+	color: 8080C0;
+}
+
+hr.Journal {
+	color: 8080C0;
+}
+
+hr.Journal2 {
+	color: aaaaaa;
+}
+
+hr.States {
+	color: 808080;
+}
+
+hr.GuestBook {
+	color: 8080C0;
+}
+
+hr.Equipment {
+	color: 8080C0;
+}
+
+hr.Ads {
+	color: 999999;
+}
+
+hr.Comment {
+	color: 8080C0;
+}
+
+td.PicRotator{
+	background-color: 999999;
+}
+
+tr.Footer {
+	font-family: Verdana, arial, helvetica, sans-serif;
+	font-size: x-small;
+	background-color: 999999;
+}
+
+input.SetFieldColor {
+	background-color:  E9E1FA;
+}
+
+textarea.SetFieldColor {
+	background-color: E9E1FA;
+}
+
+input.SetButtonColor {
+	background-color: bbbbbb;
+}
+
+img.PicBorder {
+	border-color: 808080;
+}
+
+img.CommentPreview {
+	border-color: black;
+}
+
+A.CalNormal {
+	color: black;
+}
+
+a.CalChosen {
+	font-color: red;
+	background-color: 999999;
+}
+</style><html><center><body topmargin=0 leftmargin=0 marginheight=0 marginwidth=0 alink=black vlink=black link=black>
+<p><p>&nbsp;
+<table border=1 cellpadding=0 cellspacing=0 bordercolor=black>
+<tr><td>
+		<table cellspacing=0 cellpadding=0 width=710>
+			<tr><td colspan=3><img src=http://www.mybigadventure.com/Graphics/emailbanner_green2.gif></td></tr>
+		</table>
+		<table height=1000 width=710 bgcolor=cccccc>
+			<tr><td><center>
+<table width=95% border=0 cellspacing=0 borderwidth=5 cellpadding=10>
+				<tr><td class=ContentArea colspan=10 valign=top bgcolor=cccccc>
+<p>
+Greetings!
+<p>
+It's been a long while, perhaps too long a while, since I've pushed any new content to my travel website.  To jog your memory, the last time I published was, believe it or not, last year in October upon arrival in Maine!!!  By God, you've probably given up on me, thinking I'd given up the cause to finish the website.  Well, the good news is the trip is -on- once again!  I may be back in Portland, but, as I complete my write-up of the last 3 months of my 6 month cross-country adventure, it'll seem like I'm still on the road, so to speak.
+<p>
+I completed my trip on January 10th.  Since then I've been working hard on the site, adding new functionality and reorganizing the travel information so it is much easier to browse.  The website is now running under a different domain.  Instead of 'jeffsadventure', it now lives and breaths under 'mybigadventure'.  I decided to go with a more generic domain in the hopes to somehow build a business and possibly a brand around it.  Only time will tell how things will pan out.  But, I figure I have to give it the old school try, otherwise I'll never know what may have been.
+<p>
+Shortly I will be pushing new content highlighting my experiences in Acadia National Park in Maine.  Activities during my stay include a scenic but chilly hike, two fun bike rides, and a spectacular sunrise viewed atop Cadillac Mountain.  I'm sending this email in advance to announce that I'm not only back in the travel writing game, but to also provide you some up-front information regarding the new functions I've added to the website.
+<p>
+Thank you for your continued interest in the website.  If you find value in the site, please share it with your friends and family.
+<p>
+-JD (<a href=http://www.mybigadventure.com>www.mybigadventure.com</a>)
+<p>
+<table class=ContentBanner width=100% cellspacing=0 cellpadding=7>
+	<tr><td class=BannerText align=center><b>N E W&nbsp;&nbsp;&nbsp;F E A T U R E S</b></td></tr></table>
+<p>
+I've added a number of useful features to the website.  My motivation is to provide you, the visitor, with better organized information and functions to allow for more efficient site navigation and participation.
+<p>
+Here is a list of the new features:
+<p>
+<hr>
+<p>
+<ul>
+<li><b>Page Comments:</b> Have a comment to share?  Well, you can now add your own comments to just about any page on the website.  Along with your comments, you have the option of uploading up to 4 pictures.  The idea is to provide the necessary tools to enable the telling of your own adventure stories.  Access to the page comments facility is simple, just click on the Page Comments link located at the bottom of any given page.  If page comments already exist for a page, the number of comments will be embedded within the link, ie, Page Comments(7).
+<p>
+<li><b>'More Adventures' Picture Rotator:</b> Most pages on the site now display a vertical column of 6 thumbnail pictures.  Located in the upper right-hand portion of the page, the clickable thumbnails randomly rotate with each new page fetch.  Click on any thumbnail to see an enlargement.  Once enlarged, a 'More of the story' link atop the enlarged picture will be made available.  Click on that link and the website will wisk you off to the particular page within the site that references the picture.
+<p>
+<li><b>Preferences:</b> Tired of looking at the same color scheme?  Wishing the content text was larger and easier to read?  You no longer want to receive sound from the website?  Well, I've got good news for you.  You now have more control over your website experience.  At the bottom of every page you'll find a Preferences link.  The link will take you to a form where you'll specify a number of preferences that'll influence the look and feel of the website.
+<p>
+<li><b>Map Flags:</b> The site's state maps have all been converted to allow direct navigation to all trip statistic information.  What this boils down to is you can go to a particular state and from there, you can go directly to whatever oddity, mishap, bike ride, hike, sight, etc. just by clicking on the associated flag.  The flags are color coded, so oddities are one color, parks are another, etc.
+<p>
+<li><b>Remember Page:</b> Since the website is so voluminous, if you have the mindset to partake in my entire adventure (or even a part of it), I guarantee you won't get through it all in one sitting.  So, I've added a new feature whereby the website will remember the page you finished on when you call it a day.  How is this done?  Well, when you get to the last page for the day, just click on the Remember Page link found at the bottom of that page.  More information on how this all works is available when you click the link.
+<p>
+<li><b>Adventure Preview:</b> This feature provides a quick and dirty way into the heart of the website's content.  When accessed, the feature serves up a random list of 10 venues, where even the category of the venue is random.  If you find yourself uninterested in the list of 10, just roll the dice again by clicking the Try Again button for a new random list of 10 venues.
+<p>
+<li><b>Favorites:</b> I've expanded the website's favorites offering to include not only my favorite pictures (which was all I used to provide), but also 15 other categories of favorites as well.  From sights to parks, memorials to oddities, I cover them all.
+<p>
+<li><b>Panoramics:</b> The website now contains panoramic pictures.  All full-sized panoramic pictures are displayed in a special viewer that allows you to pan left and right, up and down.
+<p>
+<li><b>Quick Navigation:</b> On the right side of most page banners you'll now find 4 or 5 tightly coupled links, each only two characters in length, namely, jt|tl|in|ca|st.  What are these little links you may wonder?  Well, from most website venues you can now navigate to the venue's (t)rip (j)ournal, (t)ravel (l)og, event/venue (in)dex, (ca)lendar day, or (st)ate.  Yes, with just a click of the mouse, you can easily refer back to these 5 website resources.
+<p>
+<li><b>Trip Statistic Indexing:</b> In order to facilitate 30,000 foot viewing of all my trip statistics, I've added high-level indexes to all categories.  On one page you can now see up to 20 venues (via thumbnail pics) at a crack.  From there you'll drill down into the details via web links.
+<p>
+<li><b>Thumbs-Up Rating System:</b> I've replaced the old rating system (ratings ranged from 1 to 10) with a new graphical thumbs-up rating system.  A perfect rating now stands at 5 thumbs-up, with half thumb graduations as one works down the rating scale.
+<p>
+<li><b>Google Adsense Ads:</b> Content related ads have been added to the website.  Google will do its best to provide you with appropriate ads promoting products and services that are related to the content you are reading.  For example, if you are reading about one of my bike rides, the served ads should relate to biking products and services.  On the flip side, I have to pay my hosting company to host this website, so collecting ad revenue will help in that effort.
+<p>
+<li><b>Giving to Charity:</b> A portion the website's ad revenue will go directly to charity.  I've selected Mercy Corps as the recipient.
+<p>
+<li><b>Post-Trip Fun:</b> Life goes on beyond my cross-country trip.  This feature will take you to things I've done since returning back to Portland in Jan 05.
+</ul>
+</td></tr></table>
+</center></td></tr>
+<tr><td>
+<hr>
+<p>
+<center>Click <a href=http://www.mybigadventure.com/index.php?action=EmailOptOut>here</a> if you do not wish to receive future MyBigAdventure&trade; email updates.</center>
+<p>
+</td></tr>
+<tr><td align=center><font size=1 color=black>Copyright &copy; 2004-2005. All Rights Reserved.  MyBigAdventure&trade;</font><br>&nbsp;</td></tr>
+		</table>
+	</body></center>
+</td></tr></table>
+	</html>";
+	mail("drilling@aracnet.com,zeekerzulu@yahoo.com", "I'm Back In The Travel Writing Saddle Again!", $message, $header);
+?>

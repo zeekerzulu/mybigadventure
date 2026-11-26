@@ -1,0 +1,1 @@
+<span class='ShareControl' title='Share page' onclick='ShowShare()'><img src='Graphics/<?php echo(($cookie['theme']) == 'theme1' ? 'share_day.png' : 'share_night.png');?>'></span>

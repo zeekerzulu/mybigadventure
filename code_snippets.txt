@@ -1,0 +1,15 @@
+<?php
+$heading = '';
+$headingsecondary = '';
+$headingdate = '';
+include 'renderheading.php';
+?>
+<p>
+
+ name='valid_link'
+
+ class='MapThumbnailWide'
+ 
+ class='MapThumbnailTall'
+ 
+ class='FullPanorama'

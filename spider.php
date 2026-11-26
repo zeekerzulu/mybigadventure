@@ -1,0 +1,3 @@
+Jeff's Adventure Website containing information about his travels around the USA
+
+Jeff's Adventure,Adventure,Biking,Hiking,Maps,Portland,Oregon,trails.com,MS MapPoint,Trek,Trek 1000,Trek 4500,TMobile,Starbucks,IBM Laptop,IBM,DeLORME,GPS,Topo USA,Camping,Oddities,Mishaps,Stupid Pet Trips,Revelations,Parks,Friends,Driving,Pictures,Guestbook,Contact,Site Usage,Site Map,Money Blown,Calendar,Trip Journal,Build-A-Camper,build a camper,camper,build,Biking Bio,Bio,Mission

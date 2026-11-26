@@ -1,0 +1,1 @@
+<a href="index.php?action=Pics&name=Daily/20041027/DSCN0538.jpg"><img src="Pics/Daily/20041027/Small/DSCN0538.jpg"></a>

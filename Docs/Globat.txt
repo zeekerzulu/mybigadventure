@@ -1,0 +1,11 @@
+Email to GLobat.com on 3/29/4 @ 10:45am.
+
+Hi,
+
+For the past three or so days, the Bali Server has been a slug during business hours.   Most loads take over 30 seconds to complete... and my site is predominately static HTML.  Earlier this was a fast server but it appears to be way overloaded now...  My other site, jeffsadventure.com is on the Rhodes Server and it is still rocket fast.
+
+Wondering if you folks are aware of this situation and if you are actively doing anything to correct the slowdown.
+
+Thanks!
+
+-Jeff
