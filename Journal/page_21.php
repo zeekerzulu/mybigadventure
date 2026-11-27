@@ -91,6 +91,11 @@ I follow Denise and Gordon back down to Idaho Springs where I meet the rest of h
 <a href="index.php?action=Pics&name=Daily/20041127/DSCN0422.jpg&nocomments=1"><img src="Pics/Daily/20041127/Small/DSCN0422.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041127/DSCN0371.jpg&nocomments=1"><img src="Pics/Daily/20041127/Small/DSCN0371.jpg"></a>
 <p>
+I wake in Frisco, Colorado to my first truly cold night in the van, 11 degrees outside and not a whole lot warmer inside.  I slept poorly and wake with a sore throat, so the day's skiing plans get shelved.  Instead I spend a small fortune at Wal-Mart on winter gear, boots, gloves and chains for the van, then head west over Vail Pass on a nearly empty tank.
+<p>
+Vail, Colorado is a ski village built to look like a Bavarian town, and I spend about an hour and a half walking it in the cold, taking pictures of shops, restaurants, bronze bears and the covered bridge over Gore Creek.  I'm not a shopper, so I don't go into a single store.  The outsides are more interesting anyway.  A good lunch and a snowboard video on the restaurant TV warm me up some.
+<p>
+The rest of the day is spent hiding from the cold in a coffee shop, travel writing and processing photos.  Come evening I drive down the valley to Avon, then back toward Vail to overnight at the local Wal-Mart.  Tomorrow, if I'm feeling better, I ski.
 <p>
 <a href="index.php?action=DailyEvents&date=20041127&page=1" title="Travel Log">Description & Pics</a>
 <p>
