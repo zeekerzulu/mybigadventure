@@ -10,32 +10,34 @@ include 'renderheading.php';
 Goodbye, big copper kettle.  Somewhere between the lounge and the parking lot the Keystone Light sticker has migrated to my forehead.  I blame the free beer.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0448.jpg"><img src="Pics/Daily/20041122/Small/DSCN0448.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0442.jpg"><img src="Pics/Daily/20041122/Small/DSCN0442.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0437.jpg"><img src="Pics/Daily/20041122/Small/DSCN0437.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0439.jpg"><img src="Pics/Daily/20041122/Small/DSCN0439.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0446.jpg"><img src="Pics/Daily/20041122/Small/DSCN0446.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0454.jpg"><img src="Pics/Daily/20041122/Small/DSCN0454.jpg"></a>
 <p>
-Howdy Folks!  Welcome to Golden, Where the West Lives.  Try being in a bad mood under a sign like that.  A bronze bust keeps an eye on the traffic.  [Whose bust is it?]
+Howdy Folks!  Welcome to Golden, Where the West Lives.  Try being in a bad mood under a sign like that.  A bronze bust keeps an eye on the traffic. 
 <p>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0484.jpg"><img src="Pics/Daily/20041122/Small/DSCN0484.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0493.jpg"><img src="Pics/Daily/20041122/Small/DSCN0493.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0508.jpg"><img src="Pics/Daily/20041122/Small/DSCN0508.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0459.jpg"><img src="Pics/Daily/20041122/Small/DSCN0459.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0510.jpg"><img src="Pics/Daily/20041122/Small/DSCN0510.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0454.jpg"><img src="Pics/Daily/20041122/Small/DSCN0454.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0455.jpg"><img src="Pics/Daily/20041122/Small/DSCN0455.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0456.jpg"><img src="Pics/Daily/20041122/Small/DSCN0456.jpg"></a>
 <p>
-Golden is lousy with bronze.  A cowboy, a woman in turquoise, a miner, and a bear who'd rather be somewhere else.  I know the feeling, bear.  Mondays.
+Golden is filled with bronze statues. Apparently the bear has a tendency to wonder off?
 <p>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0466.jpg"><img src="Pics/Daily/20041122/Small/DSCN0466.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0459.jpg"><img src="Pics/Daily/20041122/Small/DSCN0459.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0463.jpg"><img src="Pics/Daily/20041122/Small/DSCN0463.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0496.jpg"><img src="Pics/Daily/20041122/Small/DSCN0496.jpg"></a>
 <p>
 Clear Creek runs right through town, cold and fast with ice on the edges, and I'll bet you a Coors Light it's the same water in the cans.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0520.jpg"><img src="Pics/Daily/20041122/Small/DSCN0520.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0527.jpg"><img src="Pics/Daily/20041122/Small/DSCN0527.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0524.jpg"><img src="Pics/Daily/20041122/Small/DSCN0524.jpg"></a>
+<p>
+Golden Liquors sums up the local economy: No Fresher Coors Sold Anywhere.  My walking tour runs up Washington Avenue between 11th and 13th and ends with a late lunch, a chicken salad sandwich with walnuts and apples.  Spectacular.  I'd drive back to Golden for that sandwich, and I don't even like Coors.
+<p>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0533.jpg"><img src="Pics/Daily/20041122/Small/DSCN0533.jpg"></a>
-<p>
-Golden Liquors sums up the local economy: No Fresher Coors Sold Anywhere.  My walking tour runs up Washington Avenue between 11th and 13th and ends with a late lunch, a chicken salad sandwich with walnuts and apples.  Spectacular.  I'd drive back to Golden for that sandwich, and I don't even like Coors.  [Which shop was it?]
-<p>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0531.jpg"><img src="Pics/Daily/20041122/Small/DSCN0531.jpg"></a>
 <p>
 One last look at the brewery from the Clear Creek bridge.  The whole town smells faintly of barley, and I'm starting not to mind.
 <p>
