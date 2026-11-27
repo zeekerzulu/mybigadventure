@@ -1,5 +1,5 @@
 <?php
-$heading = "Goodbye, Paul";
+$heading = "Striking Gold in Idaho Springs";
 $headingdate = 'Friday, November 26, 2004';
 include 'renderheading.php';
 ?>
@@ -33,6 +33,6 @@ The two of us, and the inside of the van ready for the mountains: the two Indian
 &nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041126&page=2" title="Next Page">>>></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041125&page=1" title="Mile High Morning">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041127&page=1" title="[Nov 27 heading]">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041125&page=1" title="Thanksgiving in the Mile High City">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041127&page=1" title="[Nov 27 heading]">Next Day</a>
 <p>
 </center>

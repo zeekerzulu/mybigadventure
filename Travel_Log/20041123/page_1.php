@@ -36,6 +36,6 @@ As an aside, I have to admit it's nice sleeping inside.  A real bed, a real furn
 <b>1</b>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041122&page=1" title="Dancing Beer Cans">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041124&page=1" title="Fifty Miles Out">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041122&page=1" title="Touring Beer Country">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041124&page=1" title="Pikes Peak and the Cliff Dwellings">Next Day</a>
 <p>
 </center>

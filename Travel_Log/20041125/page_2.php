@@ -1,5 +1,5 @@
 <?php
-$heading = "The Gold Dome";
+$heading = "Thanksgiving in the Mile High City";
 $headingdate = 'Thursday, November 25, 2004';
 include 'renderheading.php';
 ?>
@@ -48,6 +48,6 @@ Across the street is the Colorado Veterans Monument, a tall red sandstone obelis
 &nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041125&page=3" title="Next Page">>>></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041124&page=1" title="Fifty Miles Out">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041126&page=1" title="[Nov 26 heading]">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=1" title="Pikes Peak and the Cliff Dwellings">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041126&page=1" title="[Nov 26 heading]">Next Day</a>
 <p>
 </center>

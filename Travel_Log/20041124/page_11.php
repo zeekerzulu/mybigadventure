@@ -1,5 +1,5 @@
 <?php
-$heading = "Break Your Own Geodes";
+$heading = "Pikes Peak and the Cliff Dwellings";
 $headingdate = 'Wednesday, November 24, 2004';
 include 'renderheading.php';
 ?>
@@ -51,6 +51,6 @@ I stayed till sunset, and by the time I'm back on I-25 it's dark and the moon is
 
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041123&page=1" title="Paper Trail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041125&page=1" title="Mile High Morning">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041123&page=1" title="Paper Trail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041125&page=1" title="Thanksgiving in the Mile High City">Next Day</a>
 <p>
 </center>

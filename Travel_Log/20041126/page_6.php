@@ -1,5 +1,5 @@
 <?php
-$heading = "Tommyknockers";
+$heading = "Striking Gold in Idaho Springs";
 $headingdate = 'Friday, November 26, 2004';
 include 'renderheading.php';
 ?>
@@ -54,6 +54,6 @@ In the end I don't sleep in Idaho Springs at all.  I point the van west on I-70,
 
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041125&page=1" title="Mile High Morning">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041127&page=1" title="[Nov 27 heading]">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041125&page=1" title="Thanksgiving in the Mile High City">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041127&page=1" title="[Nov 27 heading]">Next Day</a>
 <p>
 </center>

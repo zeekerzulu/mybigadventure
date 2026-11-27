@@ -1,5 +1,5 @@
 <?php
-$heading = "The Fresh Beer Room";
+$heading = "Touring Beer Country";
 $headingdate = 'Monday, November 22, 2004';
 include 'renderheading.php';
 ?>

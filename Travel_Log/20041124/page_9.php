@@ -1,5 +1,5 @@
 <?php
-$heading = "Three Families and a Turkey Roost";
+$heading = "Pikes Peak and the Cliff Dwellings";
 $headingdate = 'Wednesday, November 24, 2004';
 include 'renderheading.php';
 ?>

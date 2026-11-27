@@ -1,5 +1,5 @@
 <?php
-$heading = "The Sailing Bridge";
+$heading = "Thanksgiving in the Mile High City";
 $headingdate = 'Thursday, November 25, 2004';
 include 'renderheading.php';
 ?>
@@ -48,6 +48,6 @@ Back through LoDo as the light goes, past a carved tree, and the clock tower one
 &nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041125&page=9" title="Next Page">>>></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041124&page=1" title="Fifty Miles Out">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041126&page=1" title="[Nov 26 heading]">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=1" title="Pikes Peak and the Cliff Dwellings">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041126&page=1" title="[Nov 26 heading]">Next Day</a>
 <p>
 </center>

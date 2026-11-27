@@ -1,5 +1,5 @@
 <?php
-$heading = "Up Ute Pass";
+$heading = "Pikes Peak and the Cliff Dwellings";
 $headingdate = 'Wednesday, November 24, 2004';
 include 'renderheading.php';
 ?>

@@ -52,6 +52,6 @@ After saying goodbye to Paul's folks, the day slowly winds down.  We have dinner
 <b>1</b>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041120&page=1" title="Hanging With Paul">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041122&page=1" title="Dancing Beer Cans">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041120&page=1" title="Hanging With Paul">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041122&page=1" title="Touring Beer Country">Next Day</a>
 <p>
 </center>
