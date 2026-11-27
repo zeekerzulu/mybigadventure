@@ -1,7 +1,6 @@
   # === Block aggressive / AI crawlers (403) — backstop for robots.txt ===
   # Googlebot/Bingbot intentionally NOT listed, so search still works.
-  SetEnvIfNoCase User-Agent "(ClaudeBot|anthropic-ai|Claude-Web|GPTBot|OAI-SearchBot|ChatGPT-User|PerplexityBot|CCBot|Bytespider|Amazonbot|Meta-Ext
-  ernalAgent|FacebookBot|Diffbot|ImagesiftBot|PetalBot|AhrefsBot|SemrushBot|DataForSeoBot|MJ12bot|DotBot)" bad_bot
+  SetEnvIfNoCase User-Agent "(ClaudeBot|anthropic-ai|Claude-Web|GPTBot|OAI-SearchBot|ChatGPT-User|PerplexityBot|CCBot|Bytespider|Amazonbot|Meta-ExternalAgent|FacebookBot|Diffbot|ImagesiftBot|PetalBot|AhrefsBot|SemrushBot|DataForSeoBot|MJ12bot|DotBot)" bad_bot
 
 
   # Begin cache control #
