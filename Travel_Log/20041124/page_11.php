@@ -51,6 +51,6 @@ I stayed till sunset, and by the time I'm back on I-25 it's dark and the moon is
 
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041123&page=1" title="Paper Trail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041125&page=1" title="[Nov 25 heading]">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041123&page=1" title="Paper Trail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041125&page=1" title="Mile High Morning">Next Day</a>
 <p>
 </center>
