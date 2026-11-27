@@ -29,6 +29,7 @@ The Vail Information center, a wall of brochures, and the visitor center hours. 
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041127&page=3" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041127&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041127&page=2">2</a>

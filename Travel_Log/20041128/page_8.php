@@ -29,7 +29,8 @@ Christmas trees lit up along the road, a snowy crawl back down I-70, and the McD
 <p>
 <center>
 <hr>
-<a href="index.php?action=DailyEvents&date=20041128&page=7" title="Prev Page"><<<</a>&nbsp;&nbsp;<b>Page</b>
+<a href="index.php?action=DailyEvents&date=20041128&page=7" title="Prev Page"><<<</a>&nbsp;&nbsp;
+<b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041128&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041128&page=2">2</a>
 <a href="index.php?action=DailyEvents&date=20041128&page=3">3</a>
@@ -38,7 +39,6 @@ Christmas trees lit up along the road, a snowy crawl back down I-70, and the McD
 <a href="index.php?action=DailyEvents&date=20041128&page=6">6</a>
 <a href="index.php?action=DailyEvents&date=20041128&page=7">7</a>
 <b>8</b>
-
 <hr>
 <p>
 <a href="index.php?action=DailyEvents&date=20041127&page=1" title="A Very Cold Tour of Vail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041129&page=1" title="[Nov 29 heading]">Next Day</a>

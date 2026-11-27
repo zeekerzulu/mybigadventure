@@ -29,7 +29,8 @@ Run two.  Born Free again, with a side trip down Cub's Way, which sounds about m
 <p>
 <center>
 <hr>
-<a href="index.php?action=DailyEvents&date=20041128&page=5" title="Prev Page"><<<</a>&nbsp;&nbsp;<b>Page</b>
+<a href="index.php?action=DailyEvents&date=20041128&page=5" title="Prev Page"><<<</a>&nbsp;&nbsp;
+<b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041128&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041128&page=2">2</a>
 <a href="index.php?action=DailyEvents&date=20041128&page=3">3</a>

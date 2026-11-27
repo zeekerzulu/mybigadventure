@@ -29,6 +29,7 @@ Under the tents it's more than dinner: tables of donated coats and shoes, and pe
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041125&page=2" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041125&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041125&page=2">2</a>

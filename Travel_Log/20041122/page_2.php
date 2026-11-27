@@ -35,6 +35,7 @@ Here's a good one.  Prohibition hit Colorado in 1916, four years early, and Coor
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041122&page=1" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041122&page=1">1</a>
 <b>2</b>

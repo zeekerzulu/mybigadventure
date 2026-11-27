@@ -30,6 +30,7 @@ West on Highway 24 and the laptop map agrees with the windshield.  Pikes Peak is
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041124&page=1" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041124&page=1">1</a>
 <b>2</b>

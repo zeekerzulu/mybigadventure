@@ -29,6 +29,7 @@ Idaho Springs, a mining town that still looks like one, mountains close on both 
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041126&page=1" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041126&page=1">1</a>
 <b>2</b>

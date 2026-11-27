@@ -28,6 +28,7 @@ Every mile has a little green sign with a map, so you know how far you've come a
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041124&page=3" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041124&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041124&page=2">2</a>

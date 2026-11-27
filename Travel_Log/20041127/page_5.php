@@ -35,6 +35,7 @@ More chalet.  Let me say this now: I'm not a shopper.  I didn't go into a single
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041127&page=4" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041127&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041127&page=2">2</a>

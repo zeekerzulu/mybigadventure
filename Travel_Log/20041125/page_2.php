@@ -35,6 +35,7 @@ Across the street, the Colorado Veterans Monument, a red sandstone obelisk dedic
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041125&page=1" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041125&page=1">1</a>
 <b>2</b>

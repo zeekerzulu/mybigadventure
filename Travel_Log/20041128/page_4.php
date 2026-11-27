@@ -29,7 +29,8 @@ One more look at the trail map, in case it changed.  Then the top of the mountai
 <p>
 <center>
 <hr>
-<a href="index.php?action=DailyEvents&date=20041128&page=3" title="Prev Page"><<<</a>&nbsp;&nbsp;<b>Page</b>
+<a href="index.php?action=DailyEvents&date=20041128&page=3" title="Prev Page"><<<</a>&nbsp;&nbsp;
+<b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041128&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041128&page=2">2</a>
 <a href="index.php?action=DailyEvents&date=20041128&page=3">3</a>

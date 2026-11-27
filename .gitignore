@@ -10,3 +10,6 @@ _vti_cnf/
 /dbconnector.php
 # hit-counter and visitor logs
 /Mgmt/*.txt
+
+# local day editor (writes files; never uploaded) — JD, 2026-11-26
+/editor/

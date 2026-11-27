@@ -35,6 +35,7 @@ A little bronze with a sunflower, a cowboy on a rock in a snow hat, and a mural 
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041127&page=6" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041127&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041127&page=2">2</a>

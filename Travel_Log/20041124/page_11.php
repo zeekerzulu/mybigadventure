@@ -36,6 +36,7 @@ I stay till sunset, and by the time I'm back on I-25 it's dark and the moon is u
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041124&page=10" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041124&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041124&page=2">2</a>
@@ -48,7 +49,6 @@ I stay till sunset, and by the time I'm back on I-25 it's dark and the moon is u
 <a href="index.php?action=DailyEvents&date=20041124&page=9">9</a>
 <a href="index.php?action=DailyEvents&date=20041124&page=10">10</a>
 <b>11</b>
-
 <hr>
 <p>
 <a href="index.php?action=DailyEvents&date=20041123&page=1" title="Paper Trail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041125&page=1" title="Thanksgiving in the Mile High City">Next Day</a>

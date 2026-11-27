@@ -41,6 +41,7 @@ Denise and Gordon under the sign, an ore cart, and the office flag as we say our
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041126&page=4" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041126&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041126&page=2">2</a>

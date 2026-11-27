@@ -32,7 +32,6 @@ Several hours later the cabbage is a zip-lock bag, flat, sorted and dated.  Fina
 <hr>
 <b>Page</b>
 <b>1</b>
-
 <hr>
 <p>
 <a href="index.php?action=DailyEvents&date=20041122&page=1" title="Touring Beer Country">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041124&page=1" title="Pikes Peak and the Cliff Dwellings">Next Day</a>

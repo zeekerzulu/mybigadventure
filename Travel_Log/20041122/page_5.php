@@ -37,6 +37,7 @@ The hospitality lounge, where a room full of strangers suddenly all get along.  
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041122&page=4" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041122&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041122&page=2">2</a>

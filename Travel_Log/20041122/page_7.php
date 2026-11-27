@@ -29,6 +29,7 @@ Snow in the shade, the sun dropping behind the Front Range, radio towers on top.
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041122&page=6" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041122&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041122&page=2">2</a>

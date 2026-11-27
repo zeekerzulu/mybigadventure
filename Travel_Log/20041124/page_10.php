@@ -47,6 +47,7 @@ A diorama of life in the dwellings, more pottery than I can shoot, and the hallw
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041124&page=9" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041124&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041124&page=2">2</a>

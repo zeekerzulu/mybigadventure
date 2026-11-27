@@ -28,6 +28,7 @@ Gore Creek from the bridge, then the Starbucks (I told you) and another $3 for p
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041127&page=8" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041127&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041127&page=2">2</a>
@@ -38,7 +39,6 @@ Gore Creek from the bridge, then the Starbucks (I told you) and another $3 for p
 <a href="index.php?action=DailyEvents&date=20041127&page=7">7</a>
 <a href="index.php?action=DailyEvents&date=20041127&page=8">8</a>
 <b>9</b>
-
 <hr>
 <p>
 <a href="index.php?action=DailyEvents&date=20041126&page=1" title="Striking Gold in Idaho Springs">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041128&page=1" title="Four Runs on Vail Mountain">Next Day</a>

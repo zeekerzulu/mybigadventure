@@ -34,6 +34,7 @@ The Quality Control Laboratory, where a fellow in a blue shirt stares into a com
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041122&page=2" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041122&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041122&page=2">2</a>

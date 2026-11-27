@@ -29,7 +29,8 @@ A trail map for my pocket, the welcome board (Bwana is a blue run, Chair 15 is o
 <p>
 <center>
 <hr>
-<a href="index.php?action=DailyEvents&date=20041128&page=2" title="Prev Page"><<<</a>&nbsp;&nbsp;<b>Page</b>
+<a href="index.php?action=DailyEvents&date=20041128&page=2" title="Prev Page"><<<</a>&nbsp;&nbsp;
+<b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041128&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041128&page=2">2</a>
 <b>3</b>

@@ -30,6 +30,7 @@ Here's why I'm not one of them.  ROAD CLOSED TEMPORARILY, while the graders dig 
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041124&page=5" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041124&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041124&page=2">2</a>

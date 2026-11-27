@@ -29,7 +29,8 @@ Born Free to Lionshead, Bwana Loop, Villages Catwalk, Easy Way.  I'll take Easy 
 <p>
 <center>
 <hr>
-<a href="index.php?action=DailyEvents&date=20041128&page=4" title="Prev Page"><<<</a>&nbsp;&nbsp;<b>Page</b>
+<a href="index.php?action=DailyEvents&date=20041128&page=4" title="Prev Page"><<<</a>&nbsp;&nbsp;
+<b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041128&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041128&page=2">2</a>
 <a href="index.php?action=DailyEvents&date=20041128&page=3">3</a>

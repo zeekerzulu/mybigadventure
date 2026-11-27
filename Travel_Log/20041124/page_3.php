@@ -28,6 +28,7 @@ Two things greet you at the bottom of the Pikes Peak Highway: Santa's Workshop a
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041124&page=2" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041124&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041124&page=2">2</a>

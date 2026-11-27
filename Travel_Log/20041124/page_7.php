@@ -29,6 +29,7 @@ Thank you for visiting.  I stop in [which town?  Cascade or Manitou Springs] for
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041124&page=6" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041124&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041124&page=2">2</a>

@@ -28,6 +28,7 @@ Ten Mile Canyon in fresh snow.  The mountains look like somebody shook powdered 
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041127&page=1" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041127&page=1">1</a>
 <b>2</b>

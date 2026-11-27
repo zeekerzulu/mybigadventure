@@ -39,6 +39,7 @@ Somewhere around 7,400 feet [check the GPS photo], and the sun says go.  Down th
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041122&page=7" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041122&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041122&page=2">2</a>
@@ -48,7 +49,6 @@ Somewhere around 7,400 feet [check the GPS photo], and the sun says go.  Down th
 <a href="index.php?action=DailyEvents&date=20041122&page=6">6</a>
 <a href="index.php?action=DailyEvents&date=20041122&page=7">7</a>
 <b>8</b>
-
 <hr>
 <p>
 <a href="index.php?action=DailyEvents&date=20041121&page=1" title="A Day of Rest">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041123&page=1" title="Paper Trail">Next Day</a>

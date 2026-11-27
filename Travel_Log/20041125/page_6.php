@@ -35,6 +35,7 @@ Departure boards, empty platforms, nobody around.  Thanksgiving is a good day to
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041125&page=5" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041125&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041125&page=2">2</a>

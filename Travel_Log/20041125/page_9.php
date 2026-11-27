@@ -35,6 +35,7 @@ Back at Paul's we talk for a bit, I look into ad bannering for the website, and 
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041125&page=8" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041125&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041125&page=2">2</a>
@@ -45,7 +46,6 @@ Back at Paul's we talk for a bit, I look into ad bannering for the website, and 
 <a href="index.php?action=DailyEvents&date=20041125&page=7">7</a>
 <a href="index.php?action=DailyEvents&date=20041125&page=8">8</a>
 <b>9</b>
-
 <hr>
 <p>
 <a href="index.php?action=DailyEvents&date=20041124&page=1" title="Pikes Peak and the Cliff Dwellings">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041126&page=1" title="Striking Gold in Idaho Springs">Next Day</a>

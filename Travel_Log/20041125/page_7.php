@@ -53,6 +53,7 @@ Tracks 7 and 8, the back of the station, and the light rail stop that does most 
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041125&page=6" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041125&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041125&page=2">2</a>

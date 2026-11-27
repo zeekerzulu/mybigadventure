@@ -35,6 +35,7 @@ One Way, a row of shops, and Wild Bill's, which looks like the only place in Vai
 <p>
 <center>
 <hr>
+<a href="index.php?action=DailyEvents&date=20041127&page=7" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
 <a href="index.php?action=DailyEvents&date=20041127&page=1">1</a>
 <a href="index.php?action=DailyEvents&date=20041127&page=2">2</a>
