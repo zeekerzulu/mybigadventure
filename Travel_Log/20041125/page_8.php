@@ -7,25 +7,25 @@ include 'renderheading.php';
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0577.jpg"><img src="Pics/Daily/20041125/Small/DSCN0577.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0580.jpg"><img src="Pics/Daily/20041125/Small/DSCN0580.jpg"></a>
 <p>
-Just past the station, 16th Street crosses the railroad tracks on a footbridge with a 200-foot mast and cables like a sailboat [the Millennium Bridge?].  I'm calling it the sailing bridge.
+Past the station, 16th Street crosses the tracks on a footbridge with a 200-foot mast and cables like a sailboat [the Millennium Bridge?].  I'm calling it the sailing bridge, and it gets its own Oddity.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0588.jpg"><img src="Pics/Daily/20041125/Small/DSCN0588.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0590.jpg"><img src="Pics/Daily/20041125/Small/DSCN0590.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0593.jpg"><img src="Pics/Daily/20041125/Small/DSCN0593.jpg"></a>
 <p>
-The mast from underneath, with the cables fanning out against the clouds.  This gets its own entry in the Oddities.
+The mast from underneath, cables fanning out against the clouds.  I take too many pictures of this.  Here are three.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0597.jpg"><img src="Pics/Daily/20041125/Small/DSCN0597.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0599.jpg"><img src="Pics/Daily/20041125/Small/DSCN0599.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0605.jpg"><img src="Pics/Daily/20041125/Small/DSCN0605.jpg"></a>
 <p>
-The bridge deck, its steel underside, and a glass elevator for anyone who doesn't want the stairs.
+The deck, its steel underside, and a glass elevator for anyone who doesn't want the stairs.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0606.jpg"><img src="Pics/Daily/20041125/Small/DSCN0606.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0609.jpg"><img src="Pics/Daily/20041125/Small/DSCN0609.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0611.jpg"><img src="Pics/Daily/20041125/Small/DSCN0611.jpg"></a>
 <p>
-The best view of the skyline all day is from the top of the bridge: the ballpark, the old brick warehouses and the towers all lined up.
+Best skyline view of the day, from the top of the bridge: ballpark, brick warehouses and towers all lined up.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0613.jpg"><img src="Pics/Daily/20041125/Small/DSCN0613.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0616.jpg"><img src="Pics/Daily/20041125/Small/DSCN0616.jpg"></a>

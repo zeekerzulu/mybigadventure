@@ -7,13 +7,13 @@ include 'renderheading.php';
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0302.jpg"><img src="Pics/Daily/20041125/Small/DSCN0302.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0307.jpg"><img src="Pics/Daily/20041125/Small/DSCN0307.jpg"></a>
 <p>
-The Daniels & Fisher tower, Denver's clock tower, which was the tallest thing in town for a long time and still looks like it should be.
+The Daniels & Fisher tower, Denver's clock tower, the tallest thing in town for a long time and still looking like it should be.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0314.jpg"><img src="Pics/Daily/20041125/Small/DSCN0314.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0315.jpg"><img src="Pics/Daily/20041125/Small/DSCN0315.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0310.jpg"><img src="Pics/Daily/20041125/Small/DSCN0310.jpg"></a>
 <p>
-The clock faces up close.  It was somewhere near here that a guy came up to me wanting to ask a question, and before he could finish I told him I had no change.  He said, "It's more complicated than that, but it's cool."  I felt bad about that one, but...
+It was near here that a guy came up wanting to ask me a question, and before he could finish I told him I had no change.  He said, "It's more complicated than that, but it's cool."  I felt bad about that one, but...
 <p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0343.jpg"><img src="Pics/Daily/20041125/Small/DSCN0343.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0350.jpg"><img src="Pics/Daily/20041125/Small/DSCN0350.jpg"></a>
@@ -25,13 +25,13 @@ More towers, and a herd of painted buffalo grazing on the sidewalk, each one a d
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0359.jpg"><img src="Pics/Daily/20041125/Small/DSCN0359.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0362.jpg"><img src="Pics/Daily/20041125/Small/DSCN0362.jpg"></a>
 <p>
-A marker for the Clark and Gruber Mint, which coined Denver's gold back in 1860 before the government took over the job, and a glass pavilion that turns out to be the way down into the underground bus station.
+A marker for the Clark and Gruber Mint, which coined Denver's gold back in 1860, and a glass pavilion that turns out to be the way down to the bus station.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0363.jpg"><img src="Pics/Daily/20041125/Small/DSCN0363.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0364.jpg"><img src="Pics/Daily/20041125/Small/DSCN0364.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0367.jpg"><img src="Pics/Daily/20041125/Small/DSCN0367.jpg"></a>
 <p>
-Down the escalator: departure boards, empty platforms and nobody around.  Thanksgiving is a good day to have a bus station to yourself.
+Departure boards, empty platforms, nobody around.  Thanksgiving is a good day to have a bus station to yourself.
 <p>
 <center>
 <hr>

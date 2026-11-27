@@ -7,7 +7,7 @@ include 'renderheading.php';
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0115.jpg"><img src="Pics/Daily/20041125/Small/DSCN0115.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0117.jpg"><img src="Pics/Daily/20041125/Small/DSCN0117.jpg"></a>
 <p>
-Map in hand, I head down through the Civic Center, the long park that runs from the Capitol to the City and County Building at the other end.
+Map in hand, I head down through the Civic Center, the long park that runs from the Capitol to the City and County Building.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0124.jpg"><img src="Pics/Daily/20041125/Small/DSCN0124.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0127.jpg"><img src="Pics/Daily/20041125/Small/DSCN0127.jpg"></a>
@@ -19,13 +19,13 @@ The City and County Building is already decked out for Christmas, tree and all, 
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0141.jpg"><img src="Pics/Daily/20041125/Small/DSCN0141.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0144.jpg"><img src="Pics/Daily/20041125/Small/DSCN0144.jpg"></a>
 <p>
-It turns out the Civic Center is where Denver holds its annual Thanksgiving dinner for anyone who needs one, and a lot of people need one.  Tables full of folks eating, a band playing on the amphitheater steps, and the skyline standing over the whole thing.
+It turns out the Civic Center is where Denver holds its annual Thanksgiving dinner for anyone who needs one, and a lot of people need one.  Tables full of folks eating, a band on the amphitheater steps, and the skyline standing over the whole thing.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0165.jpg"><img src="Pics/Daily/20041125/Small/DSCN0165.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0168.jpg"><img src="Pics/Daily/20041125/Small/DSCN0168.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0120.jpg"><img src="Pics/Daily/20041125/Small/DSCN0120.jpg"></a>
 <p>
-Under the tents it's more than dinner: tables of donated clothes and shoes, and people sorting through them for a coat.  There are a lot of homeless folks in this city, and today at least, somebody is feeding them.  It's a mix of things to see on a holiday, and it stays with me as I walk on.
+Under the tents it's more than dinner: tables of donated coats and shoes, and people sorting through them.  There are a lot of homeless folks in this city, and today somebody is feeding them.  It stays with me as I walk on.
 <p>
 <center>
 <hr>

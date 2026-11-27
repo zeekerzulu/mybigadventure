@@ -7,13 +7,13 @@ include 'renderheading.php';
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0519.jpg"><img src="Pics/Daily/20041124/Small/DSCN0519.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0526.jpg"><img src="Pics/Daily/20041124/Small/DSCN0526.jpg"></a>
 <p>
-The museum.  Altitude 6,530 feet, says the sign, which after this morning sounds like sea level.  Outside the door is a reconstructed mesa-top structure.
+The museum.  Altitude 6,530 feet, says the sign, which after this morning sounds like sea level.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0535.jpg"><img src="Pics/Daily/20041124/Small/DSCN0535.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0541.jpg"><img src="Pics/Daily/20041124/Small/DSCN0541.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0549.jpg"><img src="Pics/Daily/20041124/Small/DSCN0549.jpg"></a>
 <p>
-A tree with a face, a horno oven, and a pair of wooden Indians guarding the door.  I toured the whole thing and it is really well laid out.
+A tree with a face, a horno oven, and a pair of wooden Indians guarding the door.  I tour the whole thing, and it is really well laid out.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0565.jpg"><img src="Pics/Daily/20041124/Small/DSCN0565.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0574.jpg"><img src="Pics/Daily/20041124/Small/DSCN0574.jpg"></a>
@@ -31,7 +31,7 @@ Cradleboards, pottery, and a golden eagle that is not going anywhere.
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0636.jpg"><img src="Pics/Daily/20041124/Small/DSCN0636.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0653.jpg"><img src="Pics/Daily/20041124/Small/DSCN0653.jpg"></a>
 <p>
-The pit house exhibit shows how the earliest homes were built, step by step in little models: dig the pit, set the posts, cover the frame, mud it over.  Then hoop games, which is what you did when you weren't building a pit house.
+The pit house exhibit builds the earliest homes step by step in little models: dig the pit, set the posts, cover the frame, mud it over.  Then hoop games, for when you weren't building a pit house.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0657.jpg"><img src="Pics/Daily/20041124/Small/DSCN0657.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0686.jpg"><img src="Pics/Daily/20041124/Small/DSCN0686.jpg"></a>
@@ -43,7 +43,7 @@ Fire making, dry-land farming, and a room full of pots.
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0745.jpg"><img src="Pics/Daily/20041124/Small/DSCN0745.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0771.jpg"><img src="Pics/Daily/20041124/Small/DSCN0771.jpg"></a>
 <p>
-A diorama of life in the dwellings, more pottery than I can shoot, and the hallway out.  There was a lot here and it never felt crowded, which is more than I can say for most museums.
+A diorama of life in the dwellings, more pottery than I can shoot, and the hallway out.  A lot here, and it never felt crowded.  More than I can say for most museums.
 <p>
 <center>
 <hr>

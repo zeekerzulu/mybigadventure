@@ -7,7 +7,7 @@ include 'renderheading.php';
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0043.jpg"><img src="Pics/Daily/20041124/Small/DSCN0043.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0046.jpg"><img src="Pics/Daily/20041124/Small/DSCN0046.jpg"></a>
 <p>
-For a good stretch of the interstate I'm stuck behind a house.  An entire house, cut in half and crawling down the freeway on a flatbed, with a load of Polaris crates following it for good measure.  Passing it takes a while.
+For a good stretch of I-25 I'm stuck behind a house.  An entire house, cut in half, crawling down the freeway on a flatbed, with a load of Polaris crates behind it for good measure.  Passing a house takes a while.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0056.jpg"><img src="Pics/Daily/20041124/Small/DSCN0056.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0060.jpg"><img src="Pics/Daily/20041124/Small/DSCN0060.jpg"></a>
@@ -26,7 +26,7 @@ Colorado Springs welcomes me with sound walls and a McDonald's.  Fine dining it 
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0094.jpg"><img src="Pics/Daily/20041124/Small/DSCN0094.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0096.jpg"><img src="Pics/Daily/20041124/Small/DSCN0096.jpg"></a>
 <p>
-West out of the Springs on Highway 24 and the laptop map agrees with the windshield: Pikes Peak is dead ahead, sitting right over the top of Manitou Springs.
+West on Highway 24 and the laptop map agrees with the windshield.  Pikes Peak is dead ahead, sitting right on top of Manitou Springs.
 <p>
 <center>
 <hr>

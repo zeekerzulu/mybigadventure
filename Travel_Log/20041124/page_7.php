@@ -7,7 +7,7 @@ include 'renderheading.php';
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0277.jpg"><img src="Pics/Daily/20041124/Small/DSCN0277.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0284.jpg"><img src="Pics/Daily/20041124/Small/DSCN0284.jpg"></a>
 <p>
-So I make do with the vistas I've got.  Not the ones I came for, but from 11,000-some feet the plains and the reservoir are nothing to complain about.
+So I make do with the vistas I've got.  Not the ones I came for, but from 11,000-some feet the plains and the reservoir are nothing to complain about.  I complain a little.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0286.jpg"><img src="Pics/Daily/20041124/Small/DSCN0286.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0293.jpg"><img src="Pics/Daily/20041124/Small/DSCN0293.jpg"></a>
@@ -19,13 +19,13 @@ The van, and the Peak from down at Crystal Reservoir, which is as good a picture
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0299.jpg"><img src="Pics/Daily/20041124/Small/DSCN0299.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0300.jpg"><img src="Pics/Daily/20041124/Small/DSCN0300.jpg"></a>
 <p>
-The signs at the reservoir fill in what the summit would have: Pikes Peak is a mountain of many names, and the one that stuck belongs to a guy who never made it to the top either.  I feel better already.
+The signs at the reservoir fill in what the summit would have.  Pikes Peak is a mountain of many names, and the one that stuck belongs to a guy who never made it to the top either.  I feel better already.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0302.jpg"><img src="Pics/Daily/20041124/Small/DSCN0302.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0304.jpg"><img src="Pics/Daily/20041124/Small/DSCN0304.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0309.jpg"><img src="Pics/Daily/20041124/Small/DSCN0309.jpg"></a>
 <p>
-Thank you for visiting.  Back down the highway I stop in [which town? Cascade or Manitou Springs] to buy batteries, regular and rechargeable, then follow the red rock around to Plan B: the Manitou Cliff Dwellings and Museum, which isn't far.
+Thank you for visiting.  I stop in [which town?  Cascade or Manitou Springs] for batteries, regular and rechargeable, then follow the red rock around to Plan B: the Manitou Cliff Dwellings and Museum.
 <p>
 <center>
 <hr>

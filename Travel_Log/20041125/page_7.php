@@ -7,25 +7,25 @@ include 'renderheading.php';
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0377.jpg"><img src="Pics/Daily/20041125/Small/DSCN0377.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0386.jpg"><img src="Pics/Daily/20041125/Small/DSCN0386.jpg"></a>
 <p>
-Lower downtown, LoDo to the locals, is the old brick end of the city, dressed up for Christmas already, with painted benches on the corners.
+Lower downtown, LoDo to the locals, is the old brick end of the city, dressed for Christmas already.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0433.jpg"><img src="Pics/Daily/20041125/Small/DSCN0433.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0437.jpg"><img src="Pics/Daily/20041125/Small/DSCN0437.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0442.jpg"><img src="Pics/Daily/20041125/Small/DSCN0442.jpg"></a>
 <p>
-Denver Union Station, 1880 to 1914 according to the historic register plaque, with TRAVEL BY TRAIN in big orange letters across the front.  Hard to argue with.
+Denver Union Station, with TRAVEL BY TRAIN in big orange letters across the front.  Hard to argue with.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0452.jpg"><img src="Pics/Daily/20041125/Small/DSCN0452.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0456.jpg"><img src="Pics/Daily/20041125/Small/DSCN0456.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0461.jpg"><img src="Pics/Daily/20041125/Small/DSCN0461.jpg"></a>
 <p>
-Inside, the waiting room is a great hall of tall windows and long wooden benches, polished by about a century of waiting.
+Inside, a great hall of tall windows and long wooden benches, polished by a century of waiting.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0466.jpg"><img src="Pics/Daily/20041125/Small/DSCN0466.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0479.jpg"><img src="Pics/Daily/20041125/Small/DSCN0479.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0455.jpg"><img src="Pics/Daily/20041125/Small/DSCN0455.jpg"></a>
 <p>
-The ticket office, the Railcar Diner, and the welcome board.  Here's the state of rail travel in 2004: one Amtrak train a day from San Francisco to Chicago, one a day coming back, and that's it, except for the Ski Train that runs up to Winter Park in the winter and keeps the place busy on weekends.
+The ticket office, the Railcar Diner, and the welcome board.  Here's the state of rail travel in 2004: one Amtrak train a day from San Francisco to Chicago, one a day coming back, and that's it, except for the Ski Train up to Winter Park on winter weekends.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0487.jpg"><img src="Pics/Daily/20041125/Small/DSCN0487.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0493.jpg"><img src="Pics/Daily/20041125/Small/DSCN0493.jpg"></a>
@@ -37,13 +37,13 @@ The Ski Train board, and a display from the Colorado Railroad Museum with the ki
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0525.jpg"><img src="Pics/Daily/20041125/Small/DSCN0525.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0530.jpg"><img src="Pics/Daily/20041125/Small/DSCN0530.jpg"></a>
 <p>
-To Trains.  Down the tunnel to the platforms, past the California Zephyr's door and the Ski Train's gate.
+To Trains.  Down the tunnel past the California Zephyr's door and the Ski Train's gate.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0535.jpg"><img src="Pics/Daily/20041125/Small/DSCN0535.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0541.jpg"><img src="Pics/Daily/20041125/Small/DSCN0541.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0549.jpg"><img src="Pics/Daily/20041125/Small/DSCN0549.jpg"></a>
 <p>
-The walls down here are a museum: menus from the Union Station Restaurant, old timetables, and photos of the station when it was the busiest place in Denver.
+The walls down here are a museum: menus from the Union Station Restaurant, old timetables, photos of the station when it was the busiest place in Denver.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0557.jpg"><img src="Pics/Daily/20041125/Small/DSCN0557.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0570.jpg"><img src="Pics/Daily/20041125/Small/DSCN0570.jpg"></a>

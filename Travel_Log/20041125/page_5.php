@@ -13,25 +13,25 @@ Looking back down 16th toward the gold dome, and a plaza of dancing figures in s
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0219.jpg"><img src="Pics/Daily/20041125/Small/DSCN0219.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0221.jpg"><img src="Pics/Daily/20041125/Small/DSCN0221.jpg"></a>
 <p>
-Street musicians, as promised.  This one is in pink, playing to the pigeons, with a cardboard sign that says he has CDs from Europe, Asia, Africa, the Americas, Iraq and Afghanistan, and wishes everyone a merry Christmas and a happy new year.
+Street musicians, as promised.  This one is in pink, playing to the pigeons, with a cardboard sign offering CDs from Europe, Asia, Africa, the Americas, Iraq and Afghanistan, and a merry Christmas to all.  Full-service.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0225.jpg"><img src="Pics/Daily/20041125/Small/DSCN0225.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0239.jpg"><img src="Pics/Daily/20041125/Small/DSCN0239.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0247.jpg"><img src="Pics/Daily/20041125/Small/DSCN0247.jpg"></a>
 <p>
-The old buildings along the Mall are the kind they don't make anymore, all cornices and carved stone, with Welcome to Denver banners between them.  The city is clean, I'll give it that.
+The old buildings along the Mall are the kind they don't make anymore, all cornices and carved stone.  The city is clean, I'll give it that.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0259.jpg"><img src="Pics/Daily/20041125/Small/DSCN0259.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0262.jpg"><img src="Pics/Daily/20041125/Small/DSCN0262.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0265.jpg"><img src="Pics/Daily/20041125/Small/DSCN0265.jpg"></a>
 <p>
-A giant chess set in the middle of the sidewalk, with pieces taller than I am.  The plaque says the pieces were cast from the real thing, only bigger.
+A chess set in the middle of the sidewalk with pieces taller than I am.  Nobody's playing.  Probably takes two people and a forklift.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0279.jpg"><img src="Pics/Daily/20041125/Small/DSCN0279.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0282.jpg"><img src="Pics/Daily/20041125/Small/DSCN0282.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0296.jpg"><img src="Pics/Daily/20041125/Small/DSCN0296.jpg"></a>
 <p>
-A street clock, a Thanksgiving buffet banner for the people with somewhere to be, and a drinking fountain with a view.
+A street clock, a Thanksgiving buffet banner for folks with somewhere to be, and a drinking fountain with a view.
 <p>
 <center>
 <hr>

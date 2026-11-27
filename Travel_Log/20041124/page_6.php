@@ -14,19 +14,19 @@ And this is as far as it goes: Glen Cove.  A parking lot full of people who had 
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0256.jpg"><img src="Pics/Daily/20041124/Small/DSCN0256.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0259.jpg"><img src="Pics/Daily/20041124/Small/DSCN0259.jpg"></a>
 <p>
-Inside it's warm and everything is for sale.  Log furniture, sweatshirts, bins of polished rocks and beads, and a wall of mugs.
+Inside it's warm and everything is for sale.  Log furniture, sweatshirts, bins of polished rocks, a wall of mugs.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0260.jpg"><img src="Pics/Daily/20041124/Small/DSCN0260.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0262.jpg"><img src="Pics/Daily/20041124/Small/DSCN0262.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0263.jpg"><img src="Pics/Daily/20041124/Small/DSCN0263.jpg"></a>
 <p>
-They even had a mug with my name on it [confirm: the photo shows JEFF].  Out on the deck the signs tell the story of the mountain: the race to the clouds, and the odd vehicles that have made it to the top over the years, from carriages to Corvettes.
+They even had a mug with my name on it [confirm: the photo shows JEFF].  Out on the deck the signs tell the story of the mountain: the race to the clouds, and the odd vehicles that have made it to the top, from carriages to Corvettes.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0264.jpg"><img src="Pics/Daily/20041124/Small/DSCN0264.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0268.jpg"><img src="Pics/Daily/20041124/Small/DSCN0268.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0266.jpg"><img src="Pics/Daily/20041124/Small/DSCN0266.jpg"></a>
 <p>
-Here's why I'm not one of them.  The road above Glen Cove is closed, temporarily, while the graders dig out the mountain of snow that got dumped up here yesterday afternoon.  I ask about hiking to the top instead.  Nope.  Bastards!  Even if they'd let me, it's 12:15, the round trip is something like 10 miles and 3,000 feet up, and time has run out.
+Here's why I'm not one of them.  ROAD CLOSED TEMPORARILY, while the graders dig out the mountain of snow that got dumped up here yesterday.  Okay, I say, I'll hike to the top instead.  Nope.  Not allowed.  Bastards!  Even if they'd let me, it's 12:15, and the round trip is something like 10 miles and 3,000 feet up.  Time has run out, and so has my goodwill.
 <p>
 <center>
 <hr>

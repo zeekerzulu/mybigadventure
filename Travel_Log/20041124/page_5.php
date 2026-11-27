@@ -7,13 +7,13 @@ include 'renderheading.php';
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0168.jpg"><img src="Pics/Daily/20041124/Small/DSCN0168.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0184.jpg"><img src="Pics/Daily/20041124/Small/DSCN0184.jpg"></a>
 <p>
-Welcome to Pike National Forest.  The pines close in, the aspens are bare, and the road has that nice combination of dry pavement in the sun and packed snow in the shade.
+Welcome to Pike National Forest.  Dry pavement in the sun, packed snow in the shade, bare aspens in between.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0197.jpg"><img src="Pics/Daily/20041124/Small/DSCN0197.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0198.jpg"><img src="Pics/Daily/20041124/Small/DSCN0198.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0205.jpg"><img src="Pics/Daily/20041124/Small/DSCN0205.jpg"></a>
 <p>
-Around Crystal Reservoir there's a cabin that serves as the gift shop and a sign reminding you that this is somebody's drinking water, so behave.  Above the trees the top of the Peak keeps showing up, white and a lot closer than it was at breakfast.
+Crystal Reservoir has a cabin for a gift shop and a sign reminding you this is somebody's drinking water, so behave.  Above the trees the top of the Peak keeps showing up, closer every time.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0206.jpg"><img src="Pics/Daily/20041124/Small/DSCN0206.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0227.jpg"><img src="Pics/Daily/20041124/Small/DSCN0227.jpg"></a>
@@ -25,7 +25,7 @@ The reservoir from above, and mile 10.  Up here the snow is winning.
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0244.jpg"><img src="Pics/Daily/20041124/Small/DSCN0244.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0247.jpg"><img src="Pics/Daily/20041124/Small/DSCN0247.jpg"></a>
 <p>
-Mile 11 and the road is a white groove between the trees.  The van doesn't mind, but I'm glad I'm not on the bike.
+Mile 11 and the road is a white groove between the trees.  The van doesn't mind.  I'm glad I'm not on the bike.
 <p>
 <center>
 <hr>

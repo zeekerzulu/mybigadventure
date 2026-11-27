@@ -7,7 +7,7 @@ include 'renderheading.php';
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0627.jpg"><img src="Pics/Daily/20041125/Small/DSCN0627.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0628.jpg"><img src="Pics/Daily/20041125/Small/DSCN0628.jpg"></a>
 <p>
-Running late.  I-25 back to Parker as the sun goes down behind the mountains, and now the Wal-Mart research pays off: I need to bring something to Thanksgiving and every grocery store in town is closed.  I drive around anyway, then give in.  Wal-Mart it is.  [What did you bring?]
+Running late.  I-25 back to Parker as the sun drops behind the mountains, and now the Wal-Mart research pays off.  I need to bring something to Thanksgiving and every grocery store in town is closed.  I drive around anyway, then give in.  Wal-Mart it is.  [What did you bring?]
 <p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0631.jpg"><img src="Pics/Daily/20041125/Small/DSCN0631.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0635.jpg"><img src="Pics/Daily/20041125/Small/DSCN0635.jpg"></a>
@@ -25,7 +25,7 @@ Great company, great food, and I ate too much, of course.  [Who's who at the tab
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0665.jpg"><img src="Pics/Daily/20041125/Small/DSCN0665.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0671.jpg"><img src="Pics/Daily/20041125/Small/DSCN0671.jpg"></a>
 <p>
-The post-turkey coma claims its first victim on the couch while the rest of us break out the Game of Life.  There weren't enough little cars to go around, so I played as the dragon from the chess set.  Came in third.  We played Monopoly too, and I lost that one as well.
+The post-turkey coma claims its first victim on the couch while the rest of us break out the Game of Life.  Not enough little cars to go around, so I play as the dragon from the chess set.  I come in third.  Monopoly next, and I lose that one too.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0674.jpg"><img src="Pics/Daily/20041125/Small/DSCN0674.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0675.jpg"><img src="Pics/Daily/20041125/Small/DSCN0675.jpg"></a>
