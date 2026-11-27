@@ -21,6 +21,12 @@ There's blue sky up there somewhere, I can see pieces of it through the snow on 
 <p>
 The van from the outside, every other car in the lot, and my brand new Wal-Mart snow brush earning its keep.  Nobody has to tell me what today is.  Today I ski.  Okay folks, let's go find some skis.
 <p>
+<a href="index.php?action=Pics&name=Driving/20041128_Topo.jpg"><img src="Pics/Driving/20041128_Topo_sm.jpg"></a>
+<p>
+<a href="index.php?action=Pics&name=Driving/20041128_Profile.jpg"><img src="Pics/Driving/20041128_Profile_sm.jpg"></a>
+<p>
+Avon to Vail's Lionshead and back, 21 miles, the shortest drive of the trip.  Today the skis do the traveling.
+<p>
 <a href="index.php?action=Pics&name=Daily/20041128/DSCN0038.jpg"><img src="Pics/Daily/20041128/Small/DSCN0038.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041128/DSCN0041.jpg"><img src="Pics/Daily/20041128/Small/DSCN0041.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041128/DSCN0045.jpg"><img src="Pics/Daily/20041128/Small/DSCN0045.jpg"></a>

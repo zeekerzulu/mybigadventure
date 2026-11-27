@@ -14,6 +14,8 @@ include 'renderheading.php';
 <p>
 <b>Population:</b> 20,399 (2020 U.S. Census)
 <p>
+<?php $rating = 4; include 'thumbs-up.php'; ?>
+<p>
 <hr>
 <p>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0448.jpg"><img src="Pics/Daily/20041122/Small/DSCN0448.jpg"></a>

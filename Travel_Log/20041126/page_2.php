@@ -3,6 +3,12 @@ $heading = "Striking Gold in Idaho Springs";
 $headingdate = 'Friday, November 26, 2004';
 include 'renderheading.php';
 ?>
+<a href="index.php?action=Pics&name=Driving/20041126_Topo.jpg"><img src="Pics/Driving/20041126_Topo_sm.jpg"></a>
+<p>
+<a href="index.php?action=Pics&name=Driving/20041126_Profile.jpg"><img src="Pics/Driving/20041126_Profile_sm.jpg"></a>
+<p>
+Today I move on: Parker up I-25, west on I-70 into the mountains to Idaho Springs, and on to Frisco for the night.  94 miles, most of them uphill.
+<p>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0039.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0039.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0043.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0043.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0049.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0049.jpg"></a>

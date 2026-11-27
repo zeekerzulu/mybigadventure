@@ -14,6 +14,12 @@ My Wal-Mart digs in Frisco.  Apparently the whole county had the same idea this 
 <p>
 The haul, and the empty box it came in.  I am now equipped for winter.  Winter remains unimpressed.
 <p>
+<a href="index.php?action=Pics&name=Driving/20041127_Topo.jpg"><img src="Pics/Driving/20041127_Topo_sm.jpg"></a>
+<p>
+<a href="index.php?action=Pics&name=Driving/20041127_Profile.jpg"><img src="Pics/Driving/20041127_Profile_sm.jpg"></a>
+<p>
+Frisco to Vail and down the valley to Avon, 37 miles over Vail Pass.  Not far, unless you're on fumes.  Stay tuned.
+<p>
 <a href="index.php?action=Pics&name=Daily/20041127/DSCN0073.jpg"><img src="Pics/Daily/20041127/Small/DSCN0073.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041127/DSCN0076.jpg"><img src="Pics/Daily/20041127/Small/DSCN0076.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041127/DSCN0079.jpg"><img src="Pics/Daily/20041127/Small/DSCN0079.jpg"></a>

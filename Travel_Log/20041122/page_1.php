@@ -16,6 +16,12 @@ Good morning.  You know what?  I slept pretty well last night, and I think I kno
 <p>
 A little housekeeping first.  I owe my buddy Sean a call tonight about Vegas, so I spend a few minutes with the calendar.  Then, driving duty calls.  If you like beer and you are in Denver, you are obligated to take the Coors Brewery Tour in Golden.  Paul's off doing whatever Paul does on a Monday, so this one's a solo mission.
 <p>
+<a href="index.php?action=Pics&name=Driving/20041122_Topo.jpg"><img src="Pics/Driving/20041122_Topo_sm.jpg"></a>
+<p>
+<a href="index.php?action=Pics&name=Driving/20041122_Profile.jpg"><img src="Pics/Driving/20041122_Profile_sm.jpg"></a>
+<p>
+Today's driving is a loop: Parker to Golden on I-70, up Lookout Mountain and back, 60 miles all told.  Short, for once.
+<p>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0032.jpg"><img src="Pics/Daily/20041122/Small/DSCN0032.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0043.jpg"><img src="Pics/Daily/20041122/Small/DSCN0043.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0060.jpg"><img src="Pics/Daily/20041122/Small/DSCN0060.jpg"></a>

@@ -9,6 +9,12 @@ include 'renderheading.php';
 <p>
 Happy Thanksgiving!  Up at 8:30, and I'm thankful for two things right off: the sun is out, and I'll be spending the holiday with Paul's family tonight, dinner and board games.  Paul is in good spirits.  The van is still parked in Monday's snow.
 <p>
+<a href="index.php?action=Pics&name=Driving/20041125_Topo.jpg"><img src="Pics/Driving/20041125_Topo_sm.jpg"></a>
+<p>
+<a href="index.php?action=Pics&name=Driving/20041125_Profile.jpg"><img src="Pics/Driving/20041125_Profile_sm.jpg"></a>
+<p>
+Parker to downtown Denver and back, 39 miles, the shortest leg in a while.  Even the van gets a holiday.
+<p>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0007.jpg"><img src="Pics/Daily/20041125/Small/DSCN0007.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0009.jpg"><img src="Pics/Daily/20041125/Small/DSCN0009.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041125/DSCN0019.jpg"><img src="Pics/Daily/20041125/Small/DSCN0019.jpg"></a>

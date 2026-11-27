@@ -9,6 +9,12 @@ include 'renderheading.php';
 <p>
 Up at 8:30 and the sky is cooperating this time.  The van still wears Monday's snow, the thermometer on the mirror says cold, and the watch says daylight's a-burnin'.  Pikes Peak, take two.
 <p>
+<a href="index.php?action=Pics&name=Driving/20041124_Topo.jpg"><img src="Pics/Driving/20041124_Topo_sm.jpg"></a>
+<p>
+<a href="index.php?action=Pics&name=Driving/20041124_Profile.jpg"><img src="Pics/Driving/20041124_Profile_sm.jpg"></a>
+<p>
+The plan on paper: Parker south on I-25 to Colorado Springs, west on Highway 24 to Pikes Peak, and home the same way.  144 miles, the longest day of driving since Taos.
+<p>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0020.jpg"><img src="Pics/Daily/20041124/Small/DSCN0020.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041124/DSCN0021.jpg"><img src="Pics/Daily/20041124/Small/DSCN0021.jpg"></a>
 <p>
