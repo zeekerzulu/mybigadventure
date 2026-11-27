@@ -7,7 +7,7 @@ include 'renderheading.php';
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0005.jpg"><img src="Pics/Daily/20041122/Small/DSCN0005.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0008.jpg"><img src="Pics/Daily/20041122/Small/DSCN0008.jpg"></a>
 <p>
-Good morning.  You know what?  I slept pretty well last night, and I think I know why.  Dancing beer cans.  All night long, a chorus line of silver cans high-kicking through my dreams like the Rockettes.  Why beer cans?  Because today I have plans to go on a tour that involves alcohol, and if luck prevails, free alcohol.  The van is still wearing Saturday's snow like a bad toupee, but the sky is scrubbed Colorado blue.  I take this as a sign.
+Gooooood morning.  You know what?  I slept pretty well last night, and I think I know why.  Dancing beer cans.  All night long, a chorus line of silver cans high-kicking through my dreams like the Rockettes.  Why beer cans?  Because today I have plans to go on a tour that involves alcohol, and if luck prevails, free alcohol.  The van is still wearing Saturday's snow like a bad toupee, but the sky is scrubbed Colorado blue.  I take this as a sign.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0010.jpg"><img src="Pics/Daily/20041122/Small/DSCN0010.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0023.jpg"><img src="Pics/Daily/20041122/Small/DSCN0023.jpg"></a>
