@@ -1,40 +1,49 @@
-<center>
-<a name="#200" alt=""><b><h1>XXX&nbsp;&nbsp;YYY&nbsp;&nbsp;ZZZ&nbsp;&nbsp;PPP&nbsp;&nbsp;DDD&nbsp;&nbsp;QQQ<br><img src="Graphics/titlespace.gif"><br>City, State</h1></b>
-</center>
+<?php
+$heading = "Plan B";
+$headingdate = 'Wednesday, November 24, 2004';
+include 'renderheading.php';
+?>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0272.jpg"><img src="Pics/Daily/20041124/Small/DSCN0272.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0277.jpg"><img src="Pics/Daily/20041124/Small/DSCN0277.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0284.jpg"><img src="Pics/Daily/20041124/Small/DSCN0284.jpg"></a>
 <p>
+So I make do with the vistas I've got.  Not the ones I came for, but from 11,000-some feet the plains and the reservoir are nothing to complain about.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0286.jpg"><img src="Pics/Daily/20041124/Small/DSCN0286.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0293.jpg"><img src="Pics/Daily/20041124/Small/DSCN0293.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0294.jpg"><img src="Pics/Daily/20041124/Small/DSCN0294.jpg"></a>
+<p>
+The van, and the Peak from down at Crystal Reservoir, which is as good a picture of it as I'm getting today.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0296.jpg"><img src="Pics/Daily/20041124/Small/DSCN0296.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0299.jpg"><img src="Pics/Daily/20041124/Small/DSCN0299.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0300.jpg"><img src="Pics/Daily/20041124/Small/DSCN0300.jpg"></a>
+<p>
+The signs at the reservoir fill in what the summit would have: Pikes Peak is a mountain of many names, and the one that stuck belongs to a guy who never made it to the top either.  I feel better already.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0302.jpg"><img src="Pics/Daily/20041124/Small/DSCN0302.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0304.jpg"><img src="Pics/Daily/20041124/Small/DSCN0304.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0309.jpg"><img src="Pics/Daily/20041124/Small/DSCN0309.jpg"></a>
+<p>
+Thank you for visiting.  Back down the highway I stop in [which town? Cascade or Manitou Springs] to buy batteries, regular and rechargeable, then follow the red rock around to Plan B: the Manitou Cliff Dwellings and Museum, which isn't far.
 <p>
 <center>
 <hr>
-<a href="index.php?action=DailyEvents&date=CurDate&page=6" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
-<a href="index.php?action=DailyEvents&date=CurDate&page=1">1</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=2">2</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=3">3</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=4">4</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=5">5</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=6">6</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=1">1</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=2">2</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=3">3</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=4">4</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=5">5</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=6">6</a>
 <b>7</b>
-<a href="index.php?action=DailyEvents&date=CurDate&page=8">8</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=9">9</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=10">10</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=11">11</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=12">12</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=13">13</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=14">14</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=15">15</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=16">16</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=17">17</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=18">18</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=19">19</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=20">20</a>
-&nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=CurDate&page=8" title="Next Page">>>></a>
+<a href="index.php?action=DailyEvents&date=20041124&page=8">8</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=9">9</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=10">10</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=11">11</a>
+&nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041124&page=8" title="Next Page">>>></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=CurDate&page=gallery">Photo Gallery</a>
-<p>
-<a href="index.php?action=DailyEvents&date=CurDate&page=1" title="Top of Travel Log">Travel Log</a>
-<p>
-<a href="index.php?action=Stats&stat=Days&date=PrevDayDate&page=PrevDayPage" title="PrevDayName">Prev Day</a> |
-<a href="index.php?action=Stats&stat=Days&date=NextDayDate&page=NextDayPage" title="NextDayName">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041123&page=1" title="Paper Trail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041125&page=1" title="[Nov 25 heading]">Next Day</a>
 <p>
 </center>

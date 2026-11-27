@@ -1,40 +1,50 @@
-<center>
-<a name="#200" alt=""><b><h1>XXX&nbsp;&nbsp;YYY&nbsp;&nbsp;ZZZ&nbsp;&nbsp;PPP&nbsp;&nbsp;DDD&nbsp;&nbsp;QQQ<br><img src="Graphics/titlespace.gif"><br>City, State</h1></b>
-</center>
+<?php
+$heading = "Lunch Under the Arches";
+$headingdate = 'Wednesday, November 24, 2004';
+include 'renderheading.php';
+?>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0041.jpg"><img src="Pics/Daily/20041124/Small/DSCN0041.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0043.jpg"><img src="Pics/Daily/20041124/Small/DSCN0043.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0046.jpg"><img src="Pics/Daily/20041124/Small/DSCN0046.jpg"></a>
 <p>
+For a good stretch of the interstate I'm stuck behind a house.  An entire house, cut in half and crawling down the freeway on a flatbed, with a load of Polaris crates following it for good measure.  Passing it takes a while.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0056.jpg"><img src="Pics/Daily/20041124/Small/DSCN0056.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0060.jpg"><img src="Pics/Daily/20041124/Small/DSCN0060.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0064.jpg"><img src="Pics/Daily/20041124/Small/DSCN0064.jpg"></a>
+<p>
+The Front Range unrolls on the right the whole way down.  Hard to keep my eyes on the road, which is a problem when there's a house in front of you.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0076.jpg"><img src="Pics/Daily/20041124/Small/DSCN0076.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0081.jpg"><img src="Pics/Daily/20041124/Small/DSCN0081.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0084.jpg"><img src="Pics/Daily/20041124/Small/DSCN0084.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0087.jpg"><img src="Pics/Daily/20041124/Small/DSCN0087.jpg"></a>
+<p>
+Colorado Springs welcomes me with sound walls and a McDonald's.  Fine dining it isn't, but it's fast, and I've got a mountain to climb.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0089.jpg"><img src="Pics/Daily/20041124/Small/DSCN0089.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0094.jpg"><img src="Pics/Daily/20041124/Small/DSCN0094.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0096.jpg"><img src="Pics/Daily/20041124/Small/DSCN0096.jpg"></a>
+<p>
+West out of the Springs on Highway 24 and the laptop map agrees with the windshield: Pikes Peak is dead ahead, sitting right over the top of Manitou Springs.
 <p>
 <center>
 <hr>
-<a href="index.php?action=DailyEvents&date=CurDate&page=1" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
-<a href="index.php?action=DailyEvents&date=CurDate&page=1">1</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=1">1</a>
 <b>2</b>
-<a href="index.php?action=DailyEvents&date=CurDate&page=3">3</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=4">4</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=5">5</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=6">6</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=7">7</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=8">8</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=9">9</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=10">10</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=11">11</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=12">12</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=13">13</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=14">14</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=15">15</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=16">16</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=17">17</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=18">18</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=19">19</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=20">20</a>
-&nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=CurDate&page=3" title="Next Page">>>></a>
+<a href="index.php?action=DailyEvents&date=20041124&page=3">3</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=4">4</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=5">5</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=6">6</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=7">7</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=8">8</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=9">9</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=10">10</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=11">11</a>
+&nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041124&page=3" title="Next Page">>>></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=CurDate&page=gallery">Photo Gallery</a>
-<p>
-<a href="index.php?action=DailyEvents&date=CurDate&page=1" title="Top of Travel Log">Travel Log</a>
-<p>
-<a href="index.php?action=Stats&stat=Days&date=PrevDayDate&page=PrevDayPage" title="PrevDayName">Prev Day</a> |
-<a href="index.php?action=Stats&stat=Days&date=NextDay&page=9" title="NextDayName">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041123&page=1" title="Paper Trail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041125&page=1" title="[Nov 25 heading]">Next Day</a>
 <p>
 </center>

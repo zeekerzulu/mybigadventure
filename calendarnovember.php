@@ -491,19 +491,18 @@
 				<table cellspacing="0" cellpadding="0">
 				<tr>
 					<td width="100">
-<!--
- 						<a href="index.php?action=zDailyEvents&date=20041124&page=1" onclick="return ShowDayLinks(this,'right')" title="Travel Log">24</a><br>
+ 						<a href="index.php?action=DailyEvents&date=20041124&page=1" onclick="return ShowDayLinks(this,'right')" title="Travel Log">24</a><br>
 						<center class='DayLinks'>
 						<br>
-						<a href="index.php?action=zDailyEvents&date=20041124&page=1" title="The Entire Day">Travel Log<br>
+						<a href="index.php?action=DailyEvents&date=20041124&page=1" title="The Entire Day">Travel Log<br>
 						<a href="index.php?action=Stats&stat=Driving&nocomments=1&page=17#20041124" title="Parker, CO (round trip to Pikes Peak, CO)">Driving</a><br>
-						<a href="index.php?action=Stats&stat=Driving&date=20041124&page=2" title="Pike National Forest">Forest</a><br>
-						<a href="index.php?action=Stats&stat=Driving&date=20041124.1&page=5" title="Buffalo Bill Museum/Grave & Manitou Cliff Dwellings/Museum">Museums</a><br>
-						<a href="index.php?action=Stats&stat=Oddities&date=20041124&page=63" title="Stonework RIP">Oddities</a><br>
+						<a href="index.php?action=zStats&stat=Forests&date=20041124&page=2" title="Pike National Forest">Forest</a><br>
+						<a href="index.php?action=zStats&stat=Museums&date=20041124.1&page=5" title="Buffalo Bill Museum/Grave & Manitou Cliff Dwellings/Museum">Museums</a><br>
+						<a href="index.php?action=zStats&stat=Oddities&date=20041124&page=63" title="Stonework RIP">Oddities</a><br>
 						<br>
-						<a href="" title="Sight Website">Pikes Peak</a><br>
+						<a href="javascript:myPopup1('https://drivepikespeak.com/')" title="Sight Website">Pikes Peak</a><br>
 						<a href="index.php?action=Maps&state=CO" title="Colorado">CO</a>
-						</center>-->
+						</center>
 						<span class="CalendarDayUnderConstruction" onclick="return ShowDayLinks(this,'right',true)">24</span><br><center class='DayLinks'><img src="Graphics/underconstruction.gif"><br>Under<br>Construction<br><img src="Graphics/underconstruction.gif"></center>
 					</td>
 				</tr></table>

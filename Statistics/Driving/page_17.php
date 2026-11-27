@@ -56,7 +56,7 @@
 <p>
 <b>Desc:</b> Country, city, rolling hills
 <p>
-<a href="index.php?action=UnderConstruction&date=20041122&page=1">Travel Log</a>
+<a href="index.php?action=DailyEvents&date=20041122&page=1">Travel Log</a>
 </div>
 <div class='DrivingSeparatorSingle'><p><hr><p></div>
 <div class='DrivingDay'>
@@ -76,7 +76,7 @@
 <p>
 <b>Desc:</b> Country, forest, mountains
 <p>
-<a href="index.php?action=UnderConstruction&date=20041124&page=1">Travel Log</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=1">Travel Log</a>
 </div>
 <div class='Clear'></div>
 <p>

@@ -1,40 +1,48 @@
-<center>
-<a name="#200" alt=""><b><h1>XXX&nbsp;&nbsp;YYY&nbsp;&nbsp;ZZZ&nbsp;&nbsp;PPP&nbsp;&nbsp;DDD&nbsp;&nbsp;QQQ<br><img src="Graphics/titlespace.gif"><br>City, State</h1></b>
-</center>
+<?php
+$heading = "Up Ute Pass";
+$headingdate = 'Wednesday, November 24, 2004';
+include 'renderheading.php';
+?>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0100.jpg"><img src="Pics/Daily/20041124/Small/DSCN0100.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0101.jpg"><img src="Pics/Daily/20041124/Small/DSCN0101.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0103.jpg"><img src="Pics/Daily/20041124/Small/DSCN0103.jpg"></a>
 <p>
+Highway 24 climbs out of Manitou through Ute Pass, and the road cuts are red.  Really red.  Somebody tilted these layers up on end a long time ago and the highway slices right through them.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0108.jpg"><img src="Pics/Daily/20041124/Small/DSCN0108.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0112.jpg"><img src="Pics/Daily/20041124/Small/DSCN0112.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0115.jpg"><img src="Pics/Daily/20041124/Small/DSCN0115.jpg"></a>
+<p>
+More red rock, a little snow in the shady spots, and then the sign I've been waiting for: Pikes Peak Highway, next exit.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0117.jpg"><img src="Pics/Daily/20041124/Small/DSCN0117.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0122.jpg"><img src="Pics/Daily/20041124/Small/DSCN0122.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0124.jpg"><img src="Pics/Daily/20041124/Small/DSCN0124.jpg"></a>
+<p>
+The turn-off runs through the little town of Cascade, which is mostly a couple of lodges and parking lots at this time of year.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0130.jpg"><img src="Pics/Daily/20041124/Small/DSCN0130.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041124/DSCN0135.jpg"><img src="Pics/Daily/20041124/Small/DSCN0135.jpg"></a>
+<p>
+Two things greet you at the start of the Pikes Peak Highway: Santa's Workshop at the North Pole, with an empty parking lot (you'd think this was their busy season), and a toll booth that is very much open.
 <p>
 <center>
 <hr>
-<a href="index.php?action=DailyEvents&date=CurDate&page=2" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
-<a href="index.php?action=DailyEvents&date=CurDate&page=1">1</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=2">2</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=1">1</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=2">2</a>
 <b>3</b>
-<a href="index.php?action=DailyEvents&date=CurDate&page=4">4</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=5">5</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=6">6</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=7">7</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=8">8</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=9">9</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=10">10</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=11">11</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=12">12</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=13">13</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=14">14</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=15">15</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=16">16</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=17">17</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=18">18</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=19">19</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=20">20</a>
-&nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=CurDate&page=4" title="Next Page">>>></a>
+<a href="index.php?action=DailyEvents&date=20041124&page=4">4</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=5">5</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=6">6</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=7">7</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=8">8</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=9">9</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=10">10</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=11">11</a>
+&nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041124&page=4" title="Next Page">>>></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=CurDate&page=gallery">Photo Gallery</a>
-<p>
-<a href="index.php?action=DailyEvents&date=CurDate&page=1" title="Top of Travel Log">Travel Log</a>
-<p>
-<a href="index.php?action=Stats&stat=Days&date=PrevDayDate&page=PrevDayPage" title="PrevDayName">Prev Day</a> |
-<a href="index.php?action=Stats&stat=Days&date=NextDayDate&page=NextDayPage" title="NextDayName">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041123&page=1" title="Paper Trail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041125&page=1" title="[Nov 25 heading]">Next Day</a>
 <p>
 </center>
