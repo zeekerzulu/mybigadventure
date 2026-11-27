@@ -9,13 +9,13 @@
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0339.jpg&nocomments=1"><img src="Pics/Daily/20041122/Small/DSCN0339.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0367.jpg&nocomments=1"><img src="Pics/Daily/20041122/Small/DSCN0367.jpg"></a>
 <p>
-Good morning. You know what? I slept pretty well last night. I think it's related to all the dancing beer cans in my dreams. Beer cans? Yes, beer cans. Today I have plans to go on a tour that involves alcohol. And if luck prevails, perhaps free beer will be offered to all who take the tour.
+A real bed at Paul's place in Denver, and a plan for the day: Golden, Colorado, fifteen minutes up the road and home of the Coors brewery.  I'm a sucker for a factory tour, and this one ends in free samples.
 <p>
-If you like beer, you are a man, are in Denver, and have a little time on your hands, you are obligated to take the Coors Brewery Tour in Golden, Colorado. Golden is a horseshoe-throw away from Denver, just head northwest a little ways and you'll find yourself at the doorstep of Beer Country.  All in all, the tour proves to be interesting, leaving me both thirsty and in dire need of a beer, go figure.
+The tour winds past the copper kettles and the packaging lines, with a guide who has answered every question before and still smiles, and finishes in the tasting room as promised.  Afterwards I wander Golden's main street, an old mining town that cleaned up nicely, and find a late lunch.
 <p>
-After the factory tour I head to the center of Golden where I take a little walking tour, catch a late lunch, then hop into the van and head to the Buffalo Bill Museum and Grave.  Upon arrival, I notice dusk is quickly settling in and much to my displeasure, the museum is now closed, rats!  Not to worry though, there's still plenty of things to see outside, including Buffalo Bill's gravestone.
+Then up Lookout Mountain to Buffalo Bill's grave with the sun going down.  The museum closes before I get there, so I settle for the grave, a cold wind, and the lights of Denver coming on below.
 <p>
-After a quick, chilly tour, I head back to Denver where I sneak in a gym workout before returning to Paul's where I wind down the evening with a little travel writing and catch up with friends on the phone.
+A gym stop on the way back and an evening at Paul's, travel writing and phone calls.  Tomorrow, weather permitting, Pikes Peak.
 <p>
 <a href="index.php?action=DailyEvents&date=20041122&page=1" title="Travel Log">Description & Pics</a>
 <a id="Ref2"></a>
