@@ -75,6 +75,11 @@ All toured out, evening arrives and I head back to Paul's place. We then drive o
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0214.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0214.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0234.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0234.jpg"></a>
 <p>
+I wake at Paul's for the last time, pack up the van, and say my goodbyes.  Paul's been a great host and Denver's been a great base camp this past week, but it's time to move on.  Today's destination is the Phoenix Gold Mine, a small working mine up a snowy gulch above Idaho Springs, Colorado, less than an hour west of Denver on I-70.
+<p>
+On the way up I call ahead and get lucky, Al, the owner and operator, is giving tours today.  I join Denise and her father Gordon for a hard-hat walk a few hundred feet into the mountain, where Al points out veins of gold in the rock, lets us swing a pick, and explains how the ore gets crushed, floated and shaken until only the gold is left.  Al has big plans for the place, and it proves to be a really cool tour.
+<p>
+I follow Denise and Gordon back down to Idaho Springs where I meet the rest of her family over pizza, then hide out from the cold in a coffee house and, after closing time, in the Tommyknocker brewpub.  It's 9 degrees out when I finally leave.  I point the van west through the Eisenhower Tunnel and overnight in Frisco, Colorado, where I'm about to find out what sleeping in the van in single digits is all about.
 <p>
 <a href="index.php?action=DailyEvents&date=20041126&page=1" title="Travel Log">Description & Pics</a>
 <a id="Ref6"></a>
