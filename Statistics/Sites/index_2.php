@@ -30,7 +30,7 @@
 
 <div class='GalleryItem'><div class='GalleryHeading'>Sight #39</div><div><a href="index.php?action=Pics&name=Sites/20041118_1.JPG&nocomments=1"><img src="Pics/Sites/20041118_1_sm.jpg"></a></div><div class='GalleryLink'><a href="index.php?action=Stats&stat=Sites&date=20041118&page=39">San Francisco<br>de Asis Church</a></div></div>
 
-<div class='GalleryItem'><div class='GalleryHeading'>Sight #40</div><div><a href="index.php?action=Pics&name=Sites/20041122_1.JPG&nocomments=1"><img src="Pics/Sites/20041122_1_sm.jpg"></a></div><div class='GalleryLink'>Coors<br>Brewery</div></div>
+<div class='GalleryItem'><div class='GalleryHeading'>Sight #40</div><div><a href="index.php?action=Pics&name=Sites/20041122_1.JPG&nocomments=1"><img src="Pics/Sites/20041122_1_sm.jpg"></a></div><div class='GalleryLink'><a href="index.php?action=Stats&stat=Sites&date=20041122&page=40">Coors<br>Brewery Tour</a></div></div>
 
 <div class='GalleryItem'><div class='GalleryHeading'>Sight #41</div><div><a href="index.php?action=Pics&name=Sites/20041126_1.JPG&nocomments=1"><img src="Pics/Sites/20041126_1_sm.jpg"></a></div><div class='GalleryLink'>Phoenix<br>Gold Mine</div></div>
 

@@ -75,6 +75,7 @@ Due to the Museum's size, I'm going to have to take care to pick the best exhibi
 <b>2</b>
 <a href="index.php?action=Stats&stat=Museums&date=20041029&page=3" title="Smithsonian Institution National Museum of Natural History">3</a>
 <a href="index.php?action=Stats&stat=Museums&date=20041117&page=4" title="International UFO Museum and Research Center">4</a>
+<a href="index.php?action=Stats&stat=Museums&date=20041122&page=5" title="Buffalo Bill Museum & Grave">5</a>
 &nbsp;&nbsp;<a href="index.php?action=Stats&stat=Museums&date=20041029&page=3" title="Next Museum">>>></a>
 <hr>
 </center>

@@ -89,8 +89,8 @@ The White House is looming in the distance.  I can see how it got its name, not 
 <a href="index.php?action=Stats&stat=Sites&date=20041114&page=37" title="Space Center Houston">37</a>
 <a href="index.php?action=Stats&stat=Sites&date=20041115&page=38" title="The Alamo">38</a>
 <a href="index.php?action=Stats&stat=Sites&date=20041118&page=39" title="San Francisco de Asis Church">39</a>
-<!--<a href="index.php?action=Stats&stat=Sites&date=20041122&page=40" title="Coors Brewery">40</a>
-<a href="index.php?action=Stats&stat=Sites&date=20041126&page=41" title="Phoenix Gold Mine">41</a>
+<a href="index.php?action=Stats&stat=Sites&date=20041122&page=40" title="Coors Brewery Tour">40</a>
+<!--<a href="index.php?action=Stats&stat=Sites&date=20041126&page=41" title="Phoenix Gold Mine">41</a>
 <a href="index.php?action=Stats&stat=Sites&date=20041128&page=42" title="Vail Ski Center">42</a>
 <a href="index.php?action=Stats&stat=Sites&date=20041202&page=43" title="Indian Petroglyphs & Pictographs">43</a>
 <a href="index.php?action=Stats&stat=Sites&date=20041204&page=44" title="Christmas Parade">44</a>

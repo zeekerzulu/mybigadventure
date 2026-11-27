@@ -3,31 +3,31 @@ $heading = "Touring Beer Country";
 $headingdate = 'Monday, November 22, 2004';
 include 'renderheading.php';
 ?>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0231.jpg"><img src="Pics/Daily/20041122/Small/DSCN0231.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0233.jpg"><img src="Pics/Daily/20041122/Small/DSCN0233.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0235.jpg"><img src="Pics/Daily/20041122/Small/DSCN0235.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0622.jpg"><img src="Pics/Daily/20041122/Small/DSCN0622.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0624.jpg"><img src="Pics/Daily/20041122/Small/DSCN0624.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0625.jpg"><img src="Pics/Daily/20041122/Small/DSCN0625.jpg"></a>
 <p>
-Now we're talking.  The Fresh Beer Room, where the tour pauses for a little cup straight from the tank.  It's cold, it's fresh, and it's gone in about four seconds. 
+Snow in the shade, the sun dropping behind the Front Range.  Nearly there.  Nearly where?  Buffalo Bill's grave, that's where.
 <p>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0238.jpg"><img src="Pics/Daily/20041122/Small/DSCN0238.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0239.jpg"><img src="Pics/Daily/20041122/Small/DSCN0239.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0240.jpg"><img src="Pics/Daily/20041122/Small/DSCN0240.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0241.jpg"><img src="Pics/Daily/20041122/Small/DSCN0241.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0242.jpg"><img src="Pics/Daily/20041122/Small/DSCN0242.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0639.jpg"><img src="Pics/Daily/20041122/Small/DSCN0639.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0651.jpg"><img src="Pics/Daily/20041122/Small/DSCN0651.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0705.jpg"><img src="Pics/Daily/20041122/Small/DSCN0705.jpg"></a>
 <p>
-Hair containment required.  Not a lot to contain here because I have a crew cut.  The malting hallway walks you through the life of a barley kernel, with a neon sign over every doorway, like a very educational casino.
+<a id="Ref2"></a>
+Buffalo Bill Museum & Grave, and it's closed.  Not deterred, I walk the grounds: the information boards, the shut gift shop, and up the hill the grave of William F. Cody, under a slab of concrete for reasons that are a story in themselves.  Click <a href="index.php?action=Stats&stat=Museums&date=20041122&page=5">here</a> for more detail and pictures of the museum grounds and the grave.
 <p>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0255.jpg"><img src="Pics/Daily/20041122/Small/DSCN0255.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0268.jpg"><img src="Pics/Daily/20041122/Small/DSCN0268.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0724.jpg"><img src="Pics/Daily/20041122/Small/DSCN0724.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0730.jpg"><img src="Pics/Daily/20041122/Small/DSCN0730.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0742.jpg"><img src="Pics/Daily/20041122/Small/DSCN0742.jpg"></a>
 <p>
-A huge contraption controlled by a wall of lockout switches.  Comforting, when you're standing next to a few million gallons of anything.
+From the overlook the Front Range goes purple and Denver lights up in the haze, one block at a time.  A lenticular cloud hangs over the foothills like a UFO thinking it over.  After visiting Roswell, I keep an eye on it.
 <p>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0273.jpg"><img src="Pics/Daily/20041122/Small/DSCN0273.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0278.jpg"><img src="Pics/Daily/20041122/Small/DSCN0278.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0277.jpg"><img src="Pics/Daily/20041122/Small/DSCN0277.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0280.jpg"><img src="Pics/Daily/20041122/Small/DSCN0280.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0753.jpg"><img src="Pics/Daily/20041122/Small/DSCN0753.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0761.jpg"><img src="Pics/Daily/20041122/Small/DSCN0761.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0771.jpg"><img src="Pics/Daily/20041122/Small/DSCN0771.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0774.jpg"><img src="Pics/Daily/20041122/Small/DSCN0774.jpg"></a>
 <p>
-Coors trucks then and now.  Same beer, bigger truck, no competition.
+Somewhere around 7,400 feet, and the sun says go.  Down the mountain in the dark, Denver spills out below like a jewelry box.  I sneak in a workout at 24 Hour Fitness, which after a day in a brewery seems only fair, then I-25 south to Paul's.  Travel writing, a message for Sean (Vegas on December 9th works), and lights out at 10:30.  If the beer cans want to dance again tonight, they know where to find me.
 <p>
 <center>
 <hr>
@@ -37,11 +37,6 @@ Coors trucks then and now.  Same beer, bigger truck, no competition.
 <a href="index.php?action=DailyEvents&date=20041122&page=2">2</a>
 <a href="index.php?action=DailyEvents&date=20041122&page=3">3</a>
 <b>4</b>
-<a href="index.php?action=DailyEvents&date=20041122&page=5">5</a>
-<a href="index.php?action=DailyEvents&date=20041122&page=6">6</a>
-<a href="index.php?action=DailyEvents&date=20041122&page=7">7</a>
-<a href="index.php?action=DailyEvents&date=20041122&page=8">8</a>
-&nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041122&page=5" title="Next Page">>>></a>
 <hr>
 <p>
 <a href="index.php?action=DailyEvents&date=20041121&page=1" title="A Day of Rest">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041123&page=1" title="Paper Trail">Next Day</a>

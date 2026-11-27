@@ -3,34 +3,38 @@ $heading = "Touring Beer Country";
 $headingdate = 'Monday, November 22, 2004';
 include 'renderheading.php';
 ?>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0161.jpg"><img src="Pics/Daily/20041122/Small/DSCN0161.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0162.jpg"><img src="Pics/Daily/20041122/Small/DSCN0162.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0166.jpg"><img src="Pics/Daily/20041122/Small/DSCN0166.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0466.jpg"><img src="Pics/Daily/20041122/Small/DSCN0466.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0459.jpg"><img src="Pics/Daily/20041122/Small/DSCN0459.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0463.jpg"><img src="Pics/Daily/20041122/Small/DSCN0463.jpg"></a>
 <p>
-A wall of barrels wearing every brand in the family: Coors, Coors Light, Killian's, Blue Moon, Keystone, Zima.  Zima!  Remember Zima?  Clear beer for people who didn't like beer.
+Clear Creek runs right through town, cold and fast with ice on the edges, and I'll bet you a Coors Light it's the same water in the cans.
 <p>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0173.jpg"><img src="Pics/Daily/20041122/Small/DSCN0173.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0177.jpg"><img src="Pics/Daily/20041122/Small/DSCN0177.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0179.jpg"><img src="Pics/Daily/20041122/Small/DSCN0179.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0181.jpg"><img src="Pics/Daily/20041122/Small/DSCN0181.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0520.jpg"><img src="Pics/Daily/20041122/Small/DSCN0520.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0527.jpg"><img src="Pics/Daily/20041122/Small/DSCN0527.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0524.jpg"><img src="Pics/Daily/20041122/Small/DSCN0524.jpg"></a>
 <p>
-Ingredients.  You get to put your hands in the bins, so I do.  Two-row barley, hops, cereal grain like cool sand.  I give the hops a good long sniff and a lady behind me gives me a look. Funny thought. Imagine they have a special brew of beer made from the ingredients touched by tourists. It's called Coor's International. 
+Golden Liquors sums up the local economy: No Fresher Coors Sold Anywhere.  My walking tour runs up Washington Avenue between 11th and 13th and ends with a late lunch, a chicken salad sandwich with walnuts and apples.  Spectacular.  I'd drive back to Golden for that sandwich, and I don't even like Coors.
 <p>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0183.jpg"><img src="Pics/Daily/20041122/Small/DSCN0183.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0205.jpg"><img src="Pics/Daily/20041122/Small/DSCN0205.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0204.jpg"><img src="Pics/Daily/20041122/Small/DSCN0204.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0533.jpg"><img src="Pics/Daily/20041122/Small/DSCN0533.jpg"></a>
 <p>
-Now for the interesting part of the tour. The brewhouse.  Copper kettles the size of small houses, and the largest single brewery site in the world, something like 81,000 gallons a day, if I heard the guide right.  Hard to say, because she's moving us along at a pretty good clip.  I'd call it a brisk walk with occasional facts.  Would Adolph approve? Good thing I'm taking pictures.
+One last look at the brewery from the Clear Creek bridge.  The whole town smells faintly of barley, and I'm starting not to mind.
 <p>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0213.jpg"><img src="Pics/Daily/20041122/Small/DSCN0213.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0214.jpg"><img src="Pics/Daily/20041122/Small/DSCN0214.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0540.jpg"><img src="Pics/Daily/20041122/Small/DSCN0540.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0547.jpg"><img src="Pics/Daily/20041122/Small/DSCN0547.jpg"></a>
 <p>
-Adolph Coors himself, signature and all.  He was 26 when he opened this place.  At 26 I was drinking in one.  Different career path.
+Mid-afternoon, the light going gold, and the moon up over Castle Rock.  I take roughly forty pictures of it.  Here are two.  You're welcome.
 <p>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0219.jpg"><img src="Pics/Daily/20041122/Small/DSCN0219.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0218.jpg"><img src="Pics/Daily/20041122/Small/DSCN0218.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0563.jpg"><img src="Pics/Daily/20041122/Small/DSCN0563.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0565.jpg"><img src="Pics/Daily/20041122/Small/DSCN0565.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0575.jpg"><img src="Pics/Daily/20041122/Small/DSCN0575.jpg"></a>
 <p>
-The Quality Control Laboratory, where a fellow in a blue shirt stares into a computer while a few hundred tourists stare at him through the glass.  Surely he was trained to stare at his screen and look serious.
+Lookout Mountain Road starts climbing at a pair of stone pillars, Golden spreads out below, brewery and all.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0595.jpg"><img src="Pics/Daily/20041122/Small/DSCN0595.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0597.jpg"><img src="Pics/Daily/20041122/Small/DSCN0597.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0607.jpg"><img src="Pics/Daily/20041122/Small/DSCN0607.jpg"></a>
+<p>
+Two kinds of people on this road: cyclists grinding uphill in November, and a car I follow switchback after switchback.  I admire the cyclists.  I own a bike.  It's in the van.  Today it stays in the van. No regrets.
 <p>
 <center>
 <hr>
@@ -40,10 +44,6 @@ The Quality Control Laboratory, where a fellow in a blue shirt stares into a com
 <a href="index.php?action=DailyEvents&date=20041122&page=2">2</a>
 <b>3</b>
 <a href="index.php?action=DailyEvents&date=20041122&page=4">4</a>
-<a href="index.php?action=DailyEvents&date=20041122&page=5">5</a>
-<a href="index.php?action=DailyEvents&date=20041122&page=6">6</a>
-<a href="index.php?action=DailyEvents&date=20041122&page=7">7</a>
-<a href="index.php?action=DailyEvents&date=20041122&page=8">8</a>
 &nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041122&page=4" title="Next Page">>>></a>
 <hr>
 <p>

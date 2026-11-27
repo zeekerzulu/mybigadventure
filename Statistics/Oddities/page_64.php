@@ -16,7 +16,7 @@ Thursday, November 25, 2004
 <p>
 <center>
 <hr>
-<a href="index.php?action=Stats&stat=Oddities&date=20041124&page=63" title="Prev Oddity"><<<</a>&nbsp;&nbsp;
+<a href="index.php?action=Stats&stat=Oddities&date=20041122&page=63" title="Prev Oddity"><<<</a>&nbsp;&nbsp;
 <b>Oddity</b>
 <a href="index.php?action=Stats&stat=Oddities&date=20040708.1&page=1" title="Long Trek to the Bathroom">1</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20040708.2&page=2" title="Where the Rubber Meets the Road">2</a>
@@ -80,7 +80,7 @@ Thursday, November 25, 2004
 <a href="index.php?action=Stats&stat=Oddities&date=20041119.2&page=60" title="Dirty Straw">60</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041119.3&page=61" title="Sinking Window">61</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041121&page=62" title="Verbal Van">62</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20041124&page=63" title="Stonework RIP">63</a>
+<a href="index.php?action=Stats&stat=Oddities&date=20041122&page=63" title="Stonework RIP">63</a>
 <b>64</b>
 <a href="index.php?action=Stats&stat=Oddities&date=20041126&page=65" title="Lucky Bucket">65</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041201.1&page=66" title="Got Hides?">66</a>

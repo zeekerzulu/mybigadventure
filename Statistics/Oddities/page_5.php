@@ -79,8 +79,8 @@ While biking San Juan Island in Washingto State, I pass by this single-wide trai
 <a href="index.php?action=Stats&stat=Oddities&date=20041119.2&page=60" title="Dirty Straw">60</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041119.3&page=61" title="Sinking Window">61</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041121&page=62" title="Verbal Van">62</a>
-<!--<a href="index.php?action=Stats&stat=Oddities&date=20041124&page=63" title="Stonework RIP">63</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20041125&page=64" title="Sailing Bridge">64</a>
+<a href="index.php?action=Stats&stat=Oddities&date=20041122&page=63" title="Stonework RIP">63</a>
+<!--<a href="index.php?action=Stats&stat=Oddities&date=20041125&page=64" title="Sailing Bridge">64</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041126&page=65" title="Lucky Bucket">65</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041201.1&page=66" title="Got Hides?">66</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041201.2&page=67" title="Friendly Fowl">67</a>

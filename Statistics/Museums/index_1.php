@@ -8,7 +8,7 @@
 
 <div class='GalleryItem'><div class='GalleryHeading'>Museum #4</div><div><a href="index.php?action=Pics&name=Sites/20041117_1.JPG&nocomments=1"><img src="Pics/Sites/20041117_1_sm.jpg"></a></div><div class='GalleryLink'><a href="index.php?action=Stats&stat=Museums&date=20041117&page=4">International<br>UFO Museum &<br>Research Center</a></div></div>
 
-<div class='GalleryItem'><div class='GalleryHeading'>Museum #5</div><div><a href="index.php?action=Pics&name=Sites/20041122_3.JPG&nocomments=1"><img src="Pics/Sites/20041122_3_sm.jpg"></a></div><div class='GalleryLink'>Buffalo Bill<br>Museum & Grave</div></div>
+<div class='GalleryItem'><div class='GalleryHeading'>Museum #5</div><div><a href="index.php?action=Pics&name=Sites/20041122_3.JPG&nocomments=1"><img src="Pics/Sites/20041122_3_sm.jpg"></a></div><div class='GalleryLink'><a href="index.php?action=Stats&stat=Museums&date=20041122&page=5">Buffalo Bill<br>Museum & Grave</a></div></div>
 
 <div class='GalleryItem'><div class='GalleryHeading'>Museum #6</div><div><a href="index.php?action=Pics&name=Sites/20041124_2.JPG&nocomments=1"><img src="Pics/Sites/20041124_2_sm.jpg"></a></div><div class='GalleryLink'>Manitou Cliff Dwellings<br>& Museum</div></div>
 

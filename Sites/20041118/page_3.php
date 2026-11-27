@@ -45,7 +45,7 @@ Wow, what an interesting church.  While I wasn't able to get inside for any amou
 <p>
 <a href="index.php?action=DailyEvents&date=20041118&page=1" title="Top of Travel Log">Travel Log</a> | <a href="index.php?action=DailyEvents&date=20041118&page=5#Ref1" title="Travel Log Reference">Reference</a>
 <p>
-<a href="index.php?action=Stats&stat=Sites&date=20041115&page=38" title="The Alamo">Prev Sight</a><!-- |
-<a href="index.php?action=Stats&stat=Sites&date=20041122&page=40" title="Coors Brewery">Next Sight</a>-->
+<a href="index.php?action=Stats&stat=Sites&date=20041115&page=38" title="The Alamo">Prev Sight</a> |
+<a href="index.php?action=Stats&stat=Sites&date=20041122&page=40" title="Coors Brewery Tour">Next Sight</a>
 <p>
 </center>

@@ -1,18 +1,26 @@
+<?php
+$heading = 'Stonework RIP';
+$headingsecondary = 'Golden, Colorado';
+$headingdate = 'Monday, November 22, 2004';
+include 'renderheading.php';
+?>
+<p>
 <center>
-<a name="#O63" alt="Stonework RIP - Pike National Forest, Central Colorado"><b><h1>STONEWORK&nbsp;&nbsp;RIP<br><img src="Graphics/titlespace.gif"><br>Pike National Forest<br>Central Colorado</h1></b>
-<p>
-Monday, November 22, 2004
-<p>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0705.jpg"><img src="Temp/20041122/DSCN0705.jpg" width="160" height="120"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0712.jpg"><img src="Temp/20041122/DSCN0712.jpg" width="160" height="120"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0706.jpg"><img src="Temp/20041122/DSCN0706.jpg" width="160" height="120"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0711.jpg"><img src="Temp/20041122/DSCN0711.jpg" width="160" height="120"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0705.jpg"><img src="Pics/Daily/20041122/Small/DSCN0705.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0712.jpg"><img src="Pics/Daily/20041122/Small/DSCN0712.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0706.jpg"><img src="Pics/Daily/20041122/Small/DSCN0706.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0711.jpg"><img src="Pics/Daily/20041122/Small/DSCN0711.jpg"></a>
 </center>
 <p>
+Here lies Buffalo Bill, on top of Lookout Mountain above Golden, Colorado, and here he stays.  Take a look at the stonework.  That's not a fancy border, that's a reinforced grave.
+<p>
+When William F. Cody died in Denver in 1917, the town of Cody, Wyoming, which he founded, said he'd wanted to be buried there and never forgave Colorado for keeping him.  In 1948 the Cody American Legion put up a $10,000 reward for anyone who'd bring the body home.  Denver's answer was to post a guard at the grave and pour several tons of concrete over it.  Body-snatching proof.
+<p>
+So the odd thing about this grave isn't who's in it.  It's that somebody once figured they'd need a jackhammer to get him out.
 <p>
 <center>
 <hr>
-<a href="index.php?action=Stats&stat=Oddities&date=20041121&page=62" title="Prev Oddity"><<<</a>&nbsp;&nbsp;
+<a href="index.php?action=Stats&stat=Oddities&date=20041120&page=62" title="Prev Oddity"><<<</a>&nbsp;&nbsp;
 <b>Oddity</b>
 <a href="index.php?action=Stats&stat=Oddities&date=20040708.1&page=1" title="Long Trek to the Bathroom">1</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20040708.2&page=2" title="Where the Rubber Meets the Road">2</a>
@@ -67,7 +75,7 @@ Monday, November 22, 2004
 <a href="index.php?action=Stats&stat=Oddities&date=20041111&page=51" title="Great White Truck">51</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041112.1&page=52" title="Later Gater">52</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041112.2&page=53" title="Kinky Leather">53</a>
-<!--<a href="index.php?action=Stats&stat=Oddities&date=20041116&page=54" title="Dripping Concoction">54</a>
+<a href="index.php?action=Stats&stat=Oddities&date=20041116&page=54" title="Dripping Concoction">54</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041117.1&page=55" title="Eyes from Above">55</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041117.2&page=56" title="Bored Aliens">56</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041117.3&page=57" title="Alien Exposed">57</a>
@@ -75,9 +83,9 @@ Monday, November 22, 2004
 <a href="index.php?action=Stats&stat=Oddities&date=20041119.1&page=59" title="Elephant Footprints">59</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041119.2&page=60" title="Dirty Straw">60</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041119.3&page=61" title="Sinking Window">61</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20041121&page=62" title="Verbal Van">62</a>
+<a href="index.php?action=Stats&stat=Oddities&date=20041120&page=62" title="Verbal Van">62</a>
 <b>63</b>
-<a href="index.php?action=Stats&stat=Oddities&date=20041125&page=64" title="Sailing Bridge">64</a>
+<!--<a href="index.php?action=Stats&stat=Oddities&date=20041125&page=64" title="Sailing Bridge">64</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041126&page=65" title="Lucky Bucket">65</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041201.1&page=66" title="Got Hides?">66</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041201.2&page=67" title="Friendly Fowl">67</a>
@@ -125,7 +133,7 @@ Monday, November 22, 2004
 <a href="index.php?action=Stats&stat=Oddities&date=20050108.2&page=109" title="Redwood Truck">109</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20050109.1&page=110" title="Run for the Hills!">110</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20050109.2&page=111" title="Mountain Injection">111</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20051010&page=112" title="Psychedelic Sand">112</a>-->
-&nbsp;&nbsp;<a href="index.php?action=Stats&stat=Oddities&date=20041125&page=64" title="Next Oddity">>>></a>
+<a href="index.php?action=Stats&stat=Oddities&date=20051010&page=112" title="Psychedelic Sand">112</a>
+&nbsp;&nbsp;<a href="index.php?action=Stats&stat=Oddities&date=20041125&page=64" title="Next Oddity">>>></a>-->
 <hr>
 </center>

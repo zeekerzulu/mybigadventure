@@ -239,6 +239,7 @@ Classical Chinese Garden", "2" => "dr sun yat sen classical chinese garden,class
 	"Sites20041115" => array("1" => "The Alamo", "2" => "the alamo,battle of the alamo,san antonio attractions,san antonio alamo,sam houston alamo", "3" => "http://www.mybigadventure.com/Pics/Sites/20041115_1.JPG"),
 	
 	"Sites20041115" => array("1" => "San Francisco de Asis Church", "2" => "taos new mexico,classic adobe architecture,catholic,spanish architecture,adobe flying buttresses", "3" => "http://www.mybigadventure.com/Pics/Sites/20041118_1.JPG"),
+	"Sites20041122" => array("1" => "Coors Brewery Tour", "2" => "coors brewery tour,golden colorado,coors brewery,brewery tour,largest brewery in the world,free beer,adolph coors", "3" => "http://www.mybigadventure.com/Pics/Sites/20041122_1.JPG"),
 
 	// COMMUNITIES //
 
@@ -355,6 +356,7 @@ Classical Chinese Garden", "2" => "dr sun yat sen classical chinese garden,class
 	"Museums20041029" => array("1" => "Smithsonian Institution National Museum of Natural History", "2" => "national museum of natural history,washington smithsonian museums,smithsonian national museum of history,museum of history washington", "3" => "http://www.mybigadventure.com/Pics/Sites/20041029_4.JPG"),
 
 	"Museums20041117" => array("1" => "International UFO Museum and Research Center", "2" => "international ufo museum and research center,roswell new mexico,ufo museum,new mexico tourist attraction,crop circles,roswell incident", "3" => "http://www.mybigadventure.com/Pics/Sites/20041117_1.JPG"),
+	"Museums20041122" => array("1" => "Buffalo Bill Museum and Grave", "2" => "buffalo bill museum and grave,lookout mountain,golden colorado,william f cody,buffalo bill grave,wild west show", "3" => "http://www.mybigadventure.com/Pics/Sites/20041122_3.JPG"),
 	
   // ODDITIES //
   
@@ -420,6 +422,7 @@ Classical Chinese Garden", "2" => "dr sun yat sen classical chinese garden,class
 	"Oddities20041119.2" => array("1" => "Dirty Straw", "2" => "", "3" => "http://www.mybigadventure.com/Pics/Oddities/20041119_10.JPG"),
 	"Oddities20041119.3" => array("1" => "Sinking Window", "2" => "", "3" => "http://www.mybigadventure.com/Pics/Oddities/20041119_21.JPG"),
 	"Oddities20041121" => array("1" => "Verbal Van", "2" => "", "3" => "http://www.mybigadventure.com/Pics/Oddities/20041121_2.JPG"),
+	"Oddities20041122" => array("1" => "Stonework RIP", "2" => "", "3" => "http://www.mybigadventure.com/Pics/Oddities/20041122_1.JPG"),
 	
   // MISHAPS //
   

@@ -113,6 +113,7 @@ $adventurepreviewmap = array (
 	array("Sights","TN","Beale Street - Memphis Blues Mecca","Stats&stat=Sites&date=20041110.2&page=36"),
 	array("Sights","TX","Space Center Houston","Stats&stat=Sites&date=20041114&page=37"),
 	array("Sights","TX","The Alamo","Stats&stat=Sites&date=20041115&page=38"),
+	array("Sights","CO","Coors Brewery Tour","Stats&stat=Sites&date=20041122&page=40"),
 
 	// COMMUNITIES
 
@@ -173,6 +174,7 @@ $adventurepreviewmap = array (
 	array("Museums","W_MT","Museum of the Rockies","Stats&stat=Museums&date=20040801&page=1"),
 	array("Museums","DC","Smithsonian Institution National Air & Space Museum","Stats&stat=Museums&date=20041028&page=2"),
 	array("Museums","DC","Smithsonian Institution National Museum of Natural History","Stats&stat=Museums&date=20041029&page=3"),
+	array("Museums","CO","Buffalo Bill Museum & Grave","Stats&stat=Museums&date=20041122&page=5"),
 
 	// ODDITIES
 
@@ -230,6 +232,7 @@ $adventurepreviewmap = array (
 	array("Oddities","LA","Later Gater","Stats&stat=Oddities&date=20041112&page=52"),
 	array("Oddities","LA","Kinky Leather","Stats&stat=Oddities&date=20041112&page=53"),
 	array("Oddities","NM","Dripping Concoction","Stats&stat=Oddities&date=20041116&page=54"),
+	array("Oddities","CO","Stonework RIP","Stats&stat=Oddities&date=20041122&page=63"),
 
 	// MISHAPS
 

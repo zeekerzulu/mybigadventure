@@ -75,6 +75,6 @@ Popular publications that have addressed the skepticism issue.
 <p>
 <a href="index.php?action=DailyEvents&date=20041117&page=1">Travel Log</a> | <a href="index.php?action=DailyEvents&date=20041117&page=7#Ref1">Reference</a>
 <p>
-<a href="index.php?action=Stats&stat=Museums&date=20041029&page=3" title="Smithsonian Institute National Museum of Natural History">Prev Museum</a><!-- |
-<a href="index.php?action=Stats&stat=Museums&date=NextDate&page=1" title="">Next Museums2</a>-->
+<a href="index.php?action=Stats&stat=Museums&date=20041029&page=3" title="Smithsonian Institute National Museum of Natural History">Prev Museum</a> |
+<a href="index.php?action=Stats&stat=Museums&date=20041122&page=5" title="Buffalo Bill Museum & Grave">Next Museum</a>
 </center>

@@ -146,6 +146,7 @@ http://www.mybigadventure.com/index.php?action=Stats&stat=Sites&date=20041110.1&
 http://www.mybigadventure.com/index.php?action=Stats&stat=Sites&date=20041110.2&page=36
 http://www.mybigadventure.com/index.php?action=Stats&stat=Sites&date=20041115&page=38
 http://www.mybigadventure.com/index.php?action=Stats&stat=Sites&date=20041118&page=39
+http://www.mybigadventure.com/index.php?action=Stats&stat=Sites&date=20041122&page=40
 http://www.mybigadventure.com/index.php?action=StatsIndex&stat=Communities&date=20040712&page=1
 http://www.mybigadventure.com/index.php?action=Stats&stat=Communities&date=20040712&page=1
 http://www.mybigadventure.com/index.php?action=Stats&stat=Communities&date=20040716&page=2
@@ -205,6 +206,7 @@ http://www.mybigadventure.com/index.php?action=Stats&stat=Museums&date=20040801&
 http://www.mybigadventure.com/index.php?action=Stats&stat=Museums&date=20041028&page=2
 http://www.mybigadventure.com/index.php?action=Stats&stat=Museums&date=20041029&page=3
 http://www.mybigadventure.com/index.php?action=Stats&stat=Museums&date=20041117&page=4
+http://www.mybigadventure.com/index.php?action=Stats&stat=Museums&date=20041122&page=5
 http://www.mybigadventure.com/index.php?action=StatsIndex&stat=Oddities&page=1
 http://www.mybigadventure.com/index.php?action=StatsIndex&stat=Oddities&page=2
 http://www.mybigadventure.com/index.php?action=StatsIndex&stat=Oddities&page=3
@@ -272,6 +274,7 @@ http://www.mybigadventure/index.php?action=Stats&stat=Oddities&date=20041119.1&p
 http://www.mybigadventure/index.php?action=Stats&stat=Oddities&date=20041119.2&page=60
 http://www.mybigadventure/index.php?action=Stats&stat=Oddities&date=20041119.3&page=61
 http://www.mybigadventure/index.php?action=Stats&stat=Oddities&date=20041121&page=62
+http://www.mybigadventure.com/index.php?action=Stats&stat=Oddities&date=20041122&page=63
 http://www.mybigadventure/index.php?action=StatsIndex&stat=Mishaps&page=1
 http://www.mybigadventure/index.php?action=StatsIndex&stat=Mishaps&page=2
 http://www.mybigadventure/index.php?action=Stats&stat=Mishaps&date=20040709.1&page=1

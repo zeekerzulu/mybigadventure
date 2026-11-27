@@ -47,6 +47,8 @@ Are you interesting in learning more about UFOs?  I know I am.  Come with me now
 <a href="index.php?action=Stats&stat=Museums&date=20041028&page=2" title="Smithsonian Institution National Air & Space Museum">2</a>
 <a href="index.php?action=Stats&stat=Museums&date=20041028&page=3" title="Smithsonian Institution National Museum of Natural History">3</a>
 <b>4</b>
+<a href="index.php?action=Stats&stat=Museums&date=20041122&page=5" title="Buffalo Bill Museum & Grave">5</a>
+&nbsp;&nbsp;<a href="index.php?action=Stats&stat=Museums&date=20041122&page=5" title="Next Museum">>>></a>
 <hr>
 </center>
 <p>

@@ -28,7 +28,7 @@
 
 <div class='GalleryItem'><div class='GalleryHeading'>Oddity #62</div><div><a href="index.php?action=Pics&name=Oddities/20041121_2.JPG&nocomments=1"><img src="Pics/Oddities/20041121_2_sm.jpg"></a></div><div class='GalleryLink'><a href="index.php?action=Stats&stat=Oddities&date=20041120&page=62">Verbal Van</a></div></div>
 
-<div class='GalleryItem'><div class='GalleryHeading'>Oddity #63</div><div><a href="index.php?action=Pics&name=Oddities/20041122_1.JPG&nocomments=1"><img src="Pics/Oddities/20041122_1_sm.jpg"></a></div><div class='GalleryLink'>Stonework RIP</div></div>
+<div class='GalleryItem'><div class='GalleryHeading'>Oddity #63</div><div><a href="index.php?action=Pics&name=Oddities/20041122_1.JPG&nocomments=1"><img src="Pics/Oddities/20041122_1_sm.jpg"></a></div><div class='GalleryLink'><a href="index.php?action=Stats&stat=Oddities&date=20041122&page=63">Stonework RIP</a></div></div>
 
 <div class='GalleryItem'><div class='GalleryHeading'>Oddity #64</div><div><a href="index.php?action=Pics&name=Oddities/20041125_1_1.jpg&nocomments=1"><img src="Pics/Oddities/20041125_1_1_sm.jpg"></a></div><div class='GalleryLink'>Sailing Bridge</div></div>
 

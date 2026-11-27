@@ -35,10 +35,6 @@ Golden sits right where the plains quit and the foothills start.  That flat-topp
 <a href="index.php?action=DailyEvents&date=20041122&page=2">2</a>
 <a href="index.php?action=DailyEvents&date=20041122&page=3">3</a>
 <a href="index.php?action=DailyEvents&date=20041122&page=4">4</a>
-<a href="index.php?action=DailyEvents&date=20041122&page=5">5</a>
-<a href="index.php?action=DailyEvents&date=20041122&page=6">6</a>
-<a href="index.php?action=DailyEvents&date=20041122&page=7">7</a>
-<a href="index.php?action=DailyEvents&date=20041122&page=8">8</a>
 &nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041122&page=2" title="Next Page">>>></a>
 <hr>
 <p>

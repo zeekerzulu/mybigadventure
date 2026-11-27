@@ -79,8 +79,8 @@ Come join me as I venture into the old mission complex.  As they say, "Remember 
 <a href="index.php?action=Stats&stat=Sites&date=20041114&page=37" title="Space Center Houston">37</a>
 <b>38</b>
 <a href="index.php?action=Stats&stat=Sites&date=20041118&page=39" title="San Francisco de Asis Church">39</a>
-<!--<a href="index.php?action=Stats&stat=Sites&date=20041122&page=40" title="Coors Brewery">40</a>
-<a href="index.php?action=Stats&stat=Sites&date=20041126&page=41" title="Phoenix Gold Mine">41</a>
+<a href="index.php?action=Stats&stat=Sites&date=20041122&page=40" title="Coors Brewery Tour">40</a>
+<!--<a href="index.php?action=Stats&stat=Sites&date=20041126&page=41" title="Phoenix Gold Mine">41</a>
 <a href="index.php?action=Stats&stat=Sites&date=20041128&page=42" title="Vail Ski Center">42</a>
 <a href="index.php?action=Stats&stat=Sites&date=20041202&page=43" title="Indian Petroglyphs & Pictographs">43</a>
 <a href="index.php?action=Stats&stat=Sites&date=20041204&page=44" title="Christmas Parade">44</a>

@@ -37,6 +37,7 @@ Do you like dinosaurs, old fossils, or generally anything that's older than the 
 <a href="index.php?action=Stats&stat=Museums&date=20041028&page=2" title="Smithsonian Institution National Air & Space Museum">2</a>
 <a href="index.php?action=Stats&stat=Museums&date=20041029&page=3" title="Smithsonian Institution National Museum of Natural History">3</a>
 <a href="index.php?action=Stats&stat=Museums&date=20041117&page=4" title="International UFO Museum and Research Center">4</a>
+<a href="index.php?action=Stats&stat=Museums&date=20041122&page=5" title="Buffalo Bill Museum & Grave">5</a>
 &nbsp;&nbsp;<a href="index.php?action=Stats&stat=Museums&date=20041028&page=2" title="Next Museum">>>></a>
 <hr>
 </center>

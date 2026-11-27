@@ -77,8 +77,8 @@ I've just arrived at the church property.  Come with me for a glimpse at a good 
 <a href="index.php?action=Stats&stat=Sites&date=20041114&page=37" title="Space Center Houston">37</a>
 <a href="index.php?action=Stats&stat=Sites&date=20041115&page=38" title="The Alamo">38</a>
 <b>39</b>
-<!--<a href="index.php?action=Stats&stat=Sites&date=20041122&page=40" title="Coors Brewery">40</a>
-<a href="index.php?action=Stats&stat=Sites&date=20041126&page=41" title="Phoenix Gold Mine">41</a>
+<a href="index.php?action=Stats&stat=Sites&date=20041122&page=40" title="Coors Brewery Tour">40</a>
+<!--<a href="index.php?action=Stats&stat=Sites&date=20041126&page=41" title="Phoenix Gold Mine">41</a>
 <a href="index.php?action=Stats&stat=Sites&date=20041128&page=42" title="Vail Ski Center">42</a>
 <a href="index.php?action=Stats&stat=Sites&date=20041202&page=43" title="Indian Petroglyphs & Pictographs">43</a>
 <a href="index.php?action=Stats&stat=Sites&date=20041204&page=44" title="Christmas Parade">44</a>
@@ -96,8 +96,8 @@ I've just arrived at the church property.  Come with me for a glimpse at a good 
 <a href="index.php?action=Stats&stat=Sites&date=20050109&page=56" title="Oregon Coast">56</a>
 <a href="index.php?action=Stats&stat=Sites&date=20050110.1&page=57" title="Sand Lake">57</a>
 <a href="index.php?action=Stats&stat=Sites&date=20050110.2&page=58" title="Largest U.S. Sitka Spruce Tree">58</a>
-<a href="index.php?action=Stats&stat=Sites&date=20050110.3&page=59" title="Camp 18">59</a>
-&nbsp;&nbsp;<a href="index.php?action=Stats&stat=Sites&date=20041122&page=40" title="Next Sight">>>></a>-->
+<a href="index.php?action=Stats&stat=Sites&date=20050110.3&page=59" title="Camp 18">59</a>-->
+&nbsp;&nbsp;<a href="index.php?action=Stats&stat=Sites&date=20041122&page=40" title="Next Sight">>>></a>
 <hr>
 <p>
 </center>
