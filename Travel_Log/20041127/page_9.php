@@ -41,6 +41,6 @@ Gore Creek from the bridge, then the Starbucks (I told you) and another $3 for p
 
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041126&page=1" title="Striking Gold in Idaho Springs">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041128&page=1" title="[Nov 28 heading]">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041126&page=1" title="Striking Gold in Idaho Springs">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041128&page=1" title="Four Runs on Vail Mountain">Next Day</a>
 <p>
 </center>

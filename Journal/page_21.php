@@ -108,6 +108,11 @@ The rest of the day is spent hiding from the cold in a coffee shop, travel writi
 <a href="index.php?action=Pics&name=Daily/20041128/DSCN0114.jpg&nocomments=1"><img src="Pics/Daily/20041128/Small/DSCN0114.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041128/DSCN0277.jpg&nocomments=1"><img src="Pics/Daily/20041128/Small/DSCN0277.jpg"></a>
 <p>
+I wake at the Avon Wal-Mart under a foot of new powder, feeling better than yesterday, and there's no question what today is.  I drive the few miles up to Lionshead, pay $15 to park, $41.50 for rental skis and $49 for a lift ticket, and ride the Eagle Bahn gondola to the top of Vail Mountain in a snowstorm.
+<p>
+Born Free is my run, an intermediate that comes right back down to the gondola.  I ski it four times.  The first run the legs remember, the third the sun comes out over the Gore Range, and by the fourth the powder is skied off to ice and moguls and I'm wiped out.  I take a few pictures through my new orange goggles so you can see the day the way I did.
+<p>
+Rentals returned, a Subway sandwich, a beer at a Lionshead bar until they close early for Sunday, then back to the Wal-Mart McDonald's to soak up some heat.  My sinuses are full and I'm running a temperature.  Tomorrow I head for Black Canyon and Montrose, and if I'm still sick, a hotel room.
 <p>
 <a href="index.php?action=DailyEvents&date=20041128&page=1" title="Travel Log">Description & Pics</a>
 <p>

@@ -41,7 +41,7 @@ Be active and adventurous, the world is waiting for you!
 <p>
 <hr>
 <b>
-This site was last updated on Thursday, November 26, 2026.  Current content covers my travels from Portland, Oregon (<a href="index.php?action=TripJournal&daterange=20040708-20040711&page=1#Ref1">07/08</a>) to Vail, Colorado (<a href="index.php?action=TripJournal&daterange=20041122-20041128&page=21#Ref6">11/27</a>).  This is a work-in-progress website.</b>
+This site was last updated on Thursday, November 26, 2026.  Current content covers my travels from Portland, Oregon (<a href="index.php?action=TripJournal&daterange=20040708-20040711&page=1#Ref1">07/08</a>) to Vail, Colorado (<a href="index.php?action=TripJournal&daterange=20041122-20041128&page=21#Ref7">11/28</a>).  This is a work-in-progress website.</b>
 <p>
 <hr>
 <p>

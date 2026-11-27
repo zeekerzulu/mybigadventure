@@ -41,6 +41,6 @@ Ten Mile Canyon in fresh snow.  The mountains look like somebody shook powdered 
 &nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041127&page=3" title="Next Page">>>></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041126&page=1" title="Striking Gold in Idaho Springs">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041128&page=1" title="[Nov 28 heading]">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041126&page=1" title="Striking Gold in Idaho Springs">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041128&page=1" title="Four Runs on Vail Mountain">Next Day</a>
 <p>
 </center>

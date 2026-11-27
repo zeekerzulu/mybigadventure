@@ -562,21 +562,18 @@
 
 		<tr class="Calendar">		
 			
-				<?php if ($currdate == '200') $calendarclass = "CalendarSelect"; else $calendarclass = "Calendar";?>
-				<?php $calendarclass = "CalendarDay";?>
+				<?php if ($currdate == '20041128') $calendarclass = "CalendarSelect"; else $calendarclass = "Calendar";?>
 				<td class=<?php echo $calendarclass?> valign="top">
 				<table cellspacing="0" cellpadding="0">
 				<tr>
 				
 					<td width="100">
-<!--
- 						<a href="index.php?action=zDailyEvents&date=20041128&page=1" onclick="return ShowDayLinks(this,'right')" title="Travel Log">28</a><br>
+ 						<a href="index.php?action=DailyEvents&date=20041128&page=1" onclick="return ShowDayLinks(this,'right')" title="Travel Log">28</a><br>
 						<center class='DayLinks'>
 						<br>
-						<a href="index.php?action=zDailyEvents&date=20041128&page=1" title="The Entire Day">Travel Log<br>
+						<a href="index.php?action=DailyEvents&date=20041128&page=1" title="The Entire Day">Travel Log<br>
 						<br><br><br><br><br>
-						</center>-->
-						<span class="CalendarDayUnderConstruction" onclick="return ShowDayLinks(this,'right',true)">28</span><br><center class='DayLinks'><img src="Graphics/underconstruction.gif"><br>Under<br>Construction<br><img src="Graphics/underconstruction.gif"></center>
+						</center>
 					</td>
 				
 				</tr></table>
