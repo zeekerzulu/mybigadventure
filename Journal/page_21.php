@@ -9,7 +9,7 @@
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0339.jpg&nocomments=1"><img src="Pics/Daily/20041122/Small/DSCN0339.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0367.jpg&nocomments=1"><img src="Pics/Daily/20041122/Small/DSCN0367.jpg"></a>
 <p>
-A real bed at Paul's place in Denver, and a plan for the day: Golden, Colorado, fifteen minutes up the road and home of the Coors brewery.  I'm a sucker for a factory tour, and this one ends in free samples.
+Today I'm heading to Golden, Colorado, fifteen minutes up the road and home of the Coors brewery.  I'm a sucker for a factory tour, and this one ends in free samples.
 <p>
 The tour winds past the copper kettles and the packaging lines, with a guide who has answered every question before and still smiles, and finishes in the tasting room as promised.  Afterwards I wander Golden's main street, an old mining town that cleaned up nicely, and find a late lunch.
 <p>
