@@ -144,6 +144,7 @@ I decide to stay in Jackson Hole, Wyoming for a few days to catch up on my trave
 <a href="index.php?action=TripJournal&page=18&daterange=20041101-20041107" title="North Carolina, Tennessee, Kentucky">18</a>
 <a href="index.php?action=TripJournal&page=19&daterange=20041108-20041114" title="Tennessee, Mississippi, Louisiana, Texas">19</a>
 <a href="index.php?action=TripJournal&page=20&daterange=20041115-20041121" title="Texas, New Mexico, Colorado">20</a>
+<a href="index.php?action=TripJournal&page=21&daterange=20041122-20041128" title="Colorado">21</a>
 &nbsp;&nbsp;<a href="index.php?action=TripJournal&page=6&daterange=20040809-20040815" title="Next Week">>>></a>
 <hr class="Journal2">
 <p>

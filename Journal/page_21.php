@@ -108,7 +108,7 @@ I follow Denise and Gordon back down to Idaho Springs where I meet the rest of h
 <p>
 <hr class="Journal2">
 <center>
-<a href="index.php?action=TripJournal&page=19&daterange=20041108-20041114" title="Prev Week"><<<</a>&nbsp;&nbsp;
+<a href="index.php?action=TripJournal&page=20&daterange=20041115-20041121" title="Prev Week"><<<</a>&nbsp;&nbsp;
 <b>Week</b>
 <a href="index.php?action=TripJournal&page=1&daterange=20040708-20040711" title="Washington State">1</a>
 <a href="index.php?action=TripJournal&page=2&daterange=20040712-20040718" title="Washington State, British Columbia">2</a>
@@ -129,7 +129,8 @@ I follow Denise and Gordon back down to Idaho Springs where I meet the rest of h
 <a href="index.php?action=TripJournal&page=17&daterange=20041025-20041031" title="Maryland, District of Columbia,Virginia,North Carolina">17</a>
 <a href="index.php?action=TripJournal&page=18&daterange=20041101-20041107" title="North Carolina, Tennessee, Kentucky">18</a>
 <a href="index.php?action=TripJournal&page=19&daterange=20041108-20041114" title="Tennessee, Mississippi, Louisiana, Texas">19</a>
-<b>20</b>
+<a href="index.php?action=TripJournal&page=20&daterange=20041115-20041121" title="Texas, New Mexico, Colorado">20</a>
+<b>21</b>
 <hr class="Journal2">
 <p>
 </center>
