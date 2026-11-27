@@ -35,7 +35,7 @@
 <p>
 <b>Desc:</b> Country, city, forest, mountains
 <p>
-<a href="index.php?action=UnderConstruction&date=20041126&page=1">Travel Log</a>
+<a href="index.php?action=DailyEvents&date=20041126&page=1">Travel Log</a>
 </div>
 <div class='Clear'></div>
 <div class='DrivingSeparator'><p><hr><p></div>

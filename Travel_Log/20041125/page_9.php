@@ -48,6 +48,6 @@ Back at Paul's we talk for a bit, I look into ad bannering for the website, and 
 
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041124&page=1" title="Fifty Miles Out">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041126&page=1" title="[Nov 26 heading]">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=1" title="Fifty Miles Out">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041126&page=1" title="Goodbye, Paul">Next Day</a>
 <p>
 </center>

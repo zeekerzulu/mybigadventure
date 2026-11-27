@@ -1,40 +1,56 @@
-<center>
-<a name="#200" alt=""><b><h1>XXX&nbsp;&nbsp;YYY&nbsp;&nbsp;ZZZ&nbsp;&nbsp;PPP&nbsp;&nbsp;DDD&nbsp;&nbsp;QQQ<br><img src="Graphics/titlespace.gif"><br>City, State</h1></b>
-</center>
+<?php
+$heading = "Veins";
+$headingdate = 'Friday, November 26, 2004';
+include 'renderheading.php';
+?>
+<a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0197.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0197.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0199.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0199.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0206.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0206.jpg"></a>
 <p>
+Today I struck gold.  Well, I saw it anyway, veins of it running through the wall of the mine, which is as close as most people get.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0212.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0212.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0215.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0215.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0216.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0216.jpg"></a>
+<p>
+The secondary escape route, and the blue-green mineral veins that tell a miner he's in the right neighborhood.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0218.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0218.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0219.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0219.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0220.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0220.jpg"></a>
+<p>
+How the gold gets out of the rock: the rock is pulverized, then goes into a drum full of iron balls that grinds it down to sand, then into a flotation machine, then onto a vibrating table that shakes the gold out from everything else.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0225.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0225.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0227.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0227.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0229.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0229.jpg"></a>
+<p>
+Maps of the workings, and the office walls papered with the mine's history.  Somewhere in here my camera ran out of memory.  Stupid me, I'd been shooting 3-megabyte pictures all day.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0232.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0232.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0234.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0234.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0237.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0237.jpg"></a>
+<p>
+Ore samples, and Al at the portal.  He has plans.  With the price of gold going up, he wants to start the mine up again for real, strike it rich, and in the end turn the place into a museum whose profits go to handicapped children.  Really cool place, and a really interesting fellow.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0238.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0238.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0241.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0241.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0243.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0243.jpg"></a>
+<p>
+Denise and Gordon under the sign, an ore cart, and the office with the flag out front as we say our goodbyes.  The Phoenix Mine gets its own entry in the Sights, and Denise and Gordon in the People Met.
 <p>
 <center>
 <hr>
-<a href="index.php?action=DailyEvents&date=CurDate&page=4" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
-<a href="index.php?action=DailyEvents&date=CurDate&page=1">1</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=2">2</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=3">3</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=4">4</a>
+<a href="index.php?action=DailyEvents&date=20041126&page=1">1</a>
+<a href="index.php?action=DailyEvents&date=20041126&page=2">2</a>
+<a href="index.php?action=DailyEvents&date=20041126&page=3">3</a>
+<a href="index.php?action=DailyEvents&date=20041126&page=4">4</a>
 <b>5</b>
-<a href="index.php?action=DailyEvents&date=CurDate&page=6">6</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=7">7</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=8">8</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=9">9</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=10">10</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=11">11</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=12">12</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=13">13</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=14">14</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=15">15</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=16">16</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=17">17</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=18">18</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=19">19</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=20">20</a>
-&nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=CurDate&page=6" title="Next Page">>>></a>
+<a href="index.php?action=DailyEvents&date=20041126&page=6">6</a>
+&nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041126&page=6" title="Next Page">>>></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=CurDate&page=gallery">Photo Gallery</a>
-<p>
-<a href="index.php?action=DailyEvents&date=CurDate&page=1" title="Top of Travel Log">Travel Log</a>
-<p>
-<a href="index.php?action=Stats&stat=Days&date=PrevDayDate&page=PrevDayPage" title="PrevDayName">Prev Day</a> |
-<a href="index.php?action=Stats&stat=Days&date=NextDayDate&page=NextDayPage" title="NextDayName">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041125&page=1" title="Mile High Morning">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041127&page=1" title="[Nov 27 heading]">Next Day</a>
 <p>
 </center>
