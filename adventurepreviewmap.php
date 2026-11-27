@@ -129,6 +129,7 @@ $adventurepreviewmap = array (
 	array("Communities","DC","Washington","Stats&stat=Communities&date=20041025&page=10"),
 	array("Communities","TN","Memphis","Stats&stat=Communities&date=20041110&page=11"),
 	array("Communities","LA","New Orleans","Stats&stat=Communities&date=20041112&page=12"),
+	array("Communities","CO","Golden","Stats&stat=Communities&date=20041122&page=15"),
 
 	// PARKS
 

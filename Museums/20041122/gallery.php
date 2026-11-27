@@ -18,7 +18,7 @@ include 'renderheading.php';
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0712.jpg"><img src="Pics/Daily/20041122/Small/DSCN0712.jpg"></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041122&page=1" title="Top of Travel Log">Travel Log</a> | <a href="index.php?action=DailyEvents&date=20041122&page=4#Ref2" title="Travel Log Reference">Reference</a>
+<a href="index.php?action=DailyEvents&date=20041122&page=1" title="Top of Travel Log">Travel Log</a> | <a href="index.php?action=DailyEvents&date=20041122&page=4#Ref3" title="Travel Log Reference">Reference</a>
 <p>
 <a href="index.php?action=Stats&stat=Museums&date=20041117&page=4" title="International UFO Museum and Research Center">Prev Museum</a><!-- |
 <a href="index.php?action=Stats&stat=Museums&date=20041124&page=6" title="Manitou Cliff Dwellings & Museum">Next Museum</a>-->

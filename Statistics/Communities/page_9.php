@@ -59,6 +59,7 @@ I'm getting a late start today, but I'm hopeful to get an eyeful of Boston befor
 <a href="index.php?action=Stats&stat=Communities&date=20041112&page=12" title="New Orleans, Louisiana">12</a>
 <a href="index.php?action=Stats&stat=Communities&date=20041119&page=13" title="Taos, New Mexico">13</a>
 <a href="index.php?action=Stats&stat=Communities&date=20041119.2&page=14" title="Taos Pueblo, New Mexico">14</a>
+<a href="index.php?action=Stats&stat=Communities&date=20041122&page=15" title="Golden, Colorado">15</a>
 &nbsp;&nbsp;<a href="index.php?action=Stats&stat=Communities&date=20041025&page=10" title="Next Community">>>></a>
 <hr>
 <p>

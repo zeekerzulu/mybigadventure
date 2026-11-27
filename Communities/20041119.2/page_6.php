@@ -54,6 +54,6 @@ After talking with Crucita I decide to wrap things up and call it a day, my tour
 <p>
 <a href="index.php?action=DailyEvents&date=20041119&page=1" title="Top of Travel Log">Travel Log</a> | <a href="index.php?action=DailyEvents&date=20041119&page=3#Ref1" title="Travel Log Reference">Reference</a>
 <p>
-<a href="index.php?action=Stats&stat=Communities&date=20041119.1&page=13" title="Taos, New Mexico">Prev Community</a><!-- | <a href="index.php?action=Stats&stat=Communities&date=" title="">Next Community</a>--
+<a href="index.php?action=Stats&stat=Communities&date=20041119.1&page=13" title="Taos, New Mexico">Prev Community</a> | <a href="index.php?action=Stats&stat=Communities&date=20041122&page=15" title="Golden, Colorado">Next Community</a>
 <p>
 </center>

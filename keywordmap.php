@@ -270,6 +270,7 @@ Classical Chinese Garden", "2" => "dr sun yat sen classical chinese garden,class
 	"Communities20041119.1" => array("1" => "Taos, New Mexico", "2" => "taos new mexico,", "3" => "http://www.mybigadventure.com/Pics/Sites/20041119_1.JPG"),
 	
 	"Communities20041119.2" => array("1" => "Taos Pueblo, New Mexico", "2" => "", "3" => "http://www.mybigadventure.com/Pics/Sites/20041119_2.JPG"),
+	"Communities20041122" => array("1" => "Golden, Colorado", "2" => "golden colorado,coors brewery,colorado school of mines,clear creek,territorial capital,where the west lives", "3" => "http://www.mybigadventure.com/Pics/Sites/20041122_2.JPG"),
 
 	// PARKS //
 

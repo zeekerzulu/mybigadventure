@@ -3,17 +3,11 @@ $heading = "Touring Beer Country";
 $headingdate = 'Monday, November 22, 2004';
 include 'renderheading.php';
 ?>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0622.jpg"><img src="Pics/Daily/20041122/Small/DSCN0622.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0624.jpg"><img src="Pics/Daily/20041122/Small/DSCN0624.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0625.jpg"><img src="Pics/Daily/20041122/Small/DSCN0625.jpg"></a>
-<p>
-Snow in the shade, the sun dropping behind the Front Range.  Nearly there.  Nearly where?  Buffalo Bill's grave, that's where.
-<p>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0639.jpg"><img src="Pics/Daily/20041122/Small/DSCN0639.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0651.jpg"><img src="Pics/Daily/20041122/Small/DSCN0651.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0705.jpg"><img src="Pics/Daily/20041122/Small/DSCN0705.jpg"></a>
 <p>
-<a id="Ref2"></a>
+<a id="Ref3"></a>
 Buffalo Bill Museum & Grave, and it's closed.  Not deterred, I walk the grounds: the information boards, the shut gift shop, and up the hill the grave of William F. Cody, under a slab of concrete for reasons that are a story in themselves.  Click <a href="index.php?action=Stats&stat=Museums&date=20041122&page=5">here</a> for more detail and pictures of the museum grounds and the grave.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0724.jpg"><img src="Pics/Daily/20041122/Small/DSCN0724.jpg"></a>

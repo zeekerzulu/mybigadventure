@@ -59,6 +59,7 @@ I'm about ready to tour the town's Historic District and surrounding community. 
 <a href="index.php?action=Stats&stat=Communities&date=20041112&page=12" title="New Orleans, Louisana">12</a>
 <b>13</b>
 <a href="index.php?action=Stats&stat=Communities&date=20041119.2&page=14" title="Taos Pueblo, New Mexico">14</a>
+<a href="index.php?action=Stats&stat=Communities&date=20041122&page=15" title="Golden, Colorado">15</a>
 &nbsp;&nbsp;<a href="index.php?action=Stats&stat=Communities&date=20041119.2&page=14" title="Next Community">>>></a>
 <hr>
 <p>

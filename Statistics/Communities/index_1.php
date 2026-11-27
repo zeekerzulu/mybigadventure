@@ -28,7 +28,7 @@
 
 <div class='GalleryItem'><div class='GalleryHeading'>Community #14</div><div><a href="index.php?action=Pics&name=Sites/20041119_2.JPG&nocomments=1"><img src="Pics/Sites/20041119_2_sm.jpg"></a></div><div class='GalleryLink'><a href="index.php?action=Stats&stat=Communities&date=20041119.2&page=14">Taos Pueblo<br>New Mexico</a></div></div>
 
-<div class='GalleryItem'><div class='GalleryHeading'>Community #15</div><div><a href="index.php?action=Pics&name=Sites/20041122_2.JPG&nocomments=1"><img src="Pics/Sites/20041122_2_sm.jpg"></a></div><div class='GalleryLink'>Golden<br>Colorado</div></div>
+<div class='GalleryItem'><div class='GalleryHeading'>Community #15</div><div><a href="index.php?action=Pics&name=Sites/20041122_2.JPG&nocomments=1"><img src="Pics/Sites/20041122_2_sm.jpg"></a></div><div class='GalleryLink'><a href="index.php?action=Stats&stat=Communities&date=20041122&page=15">Golden<br>Colorado</a></div></div>
 
 <div class='GalleryItem'><div class='GalleryHeading'>Community #16</div><div><a href="index.php?action=Pics&name=Sites/20041125_1.JPG&nocomments=1"><img src="Pics/Sites/20041125_1_sm.jpg"></a></div><div class='GalleryLink'>Denver<br>Colorado</div></div>
 

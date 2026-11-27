@@ -162,6 +162,7 @@ http://www.mybigadventure.com/index.php?action=Stats&stat=Communities&date=20041
 http://www.mybigadventure.com/index.php?action=Stats&stat=Communities&date=20041112&page=12
 http://www.mybigadventure.com/index.php?action=Stats&stat=Communities&date=20041119&page=13
 http://www.mybigadventure.com/index.php?action=Stats&stat=Communities&date=20041119.2&page=14
+http://www.mybigadventure.com/index.php?action=Stats&stat=Communities&date=20041122&page=15
 http://www.mybigadventure.com/index.php?action=StatsIndex&stat=Parks&page=1
 http://www.mybigadventure.com/index.php?action=Stats&stat=Parks&date=20040711&page=1
 http://www.mybigadventure.com/index.php?action=Stats&stat=Parks&date=20040719&page=2

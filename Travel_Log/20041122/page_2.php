@@ -11,20 +11,16 @@ include 'renderheading.php';
 The Coors Brewery tour: a shuttle bus, a copper kettle the size of my van at the front door, the brewhouse, a river of cans, and a free beer at the end.  Click <a href="index.php?action=Stats&stat=Sites&date=20041122&page=40">here</a> for more detail and pictures of the tour, Zima and all.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0448.jpg"><img src="Pics/Daily/20041122/Small/DSCN0448.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0437.jpg"><img src="Pics/Daily/20041122/Small/DSCN0437.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0439.jpg"><img src="Pics/Daily/20041122/Small/DSCN0439.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0446.jpg"><img src="Pics/Daily/20041122/Small/DSCN0446.jpg"></a>
-<p>
-Howdy Folks!  Welcome to Golden, Where the West Lives.  Try being in a bad mood under a sign like that.  A bronze bust keeps an eye on the traffic. 
-<p>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0484.jpg"><img src="Pics/Daily/20041122/Small/DSCN0484.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0508.jpg"><img src="Pics/Daily/20041122/Small/DSCN0508.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0510.jpg"><img src="Pics/Daily/20041122/Small/DSCN0510.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0454.jpg"><img src="Pics/Daily/20041122/Small/DSCN0454.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0455.jpg"><img src="Pics/Daily/20041122/Small/DSCN0455.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0456.jpg"><img src="Pics/Daily/20041122/Small/DSCN0456.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0466.jpg"><img src="Pics/Daily/20041122/Small/DSCN0466.jpg"></a>
 <p>
-Golden is filled with bronze statues. Apparently the bear has a tendency to wonder off?
+<a id="Ref2"></a>
+Welcome to Golden, Where the West Lives.  I spend the early afternoon on foot: the arch over Washington Avenue, a town full of bronze statues, Clear Creek running cold through the middle of it, and a late lunch.  Click <a href="index.php?action=Stats&stat=Communities&date=20041122&page=15">here</a> for more detail and pictures of my walking tour of Golden.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0540.jpg"><img src="Pics/Daily/20041122/Small/DSCN0540.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0547.jpg"><img src="Pics/Daily/20041122/Small/DSCN0547.jpg"></a>
+<p>
+Mid-afternoon, the light going gold, and the moon up over Castle Rock.  I take roughly forty pictures of it.  Here are two.  You're welcome.
 <p>
 <center>
 <hr>

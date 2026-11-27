@@ -47,7 +47,7 @@ There's plenty to see outside.  The gift shop is shut, but the information board
 <hr>
 <a href="index.php?action=Museums&date=20041122&page=gallery">Photo Gallery</a>
 <p>
-<a href="index.php?action=DailyEvents&date=20041122&page=1" title="Top of Travel Log">Travel Log</a> | <a href="index.php?action=DailyEvents&date=20041122&page=4#Ref2" title="Travel Log Reference">Reference</a>
+<a href="index.php?action=DailyEvents&date=20041122&page=1" title="Top of Travel Log">Travel Log</a> | <a href="index.php?action=DailyEvents&date=20041122&page=4#Ref3" title="Travel Log Reference">Reference</a>
 <p>
 <a href="index.php?action=Stats&stat=Museums&date=20041117&page=4" title="International UFO Museum and Research Center">Prev Museum</a><!-- |
 <a href="index.php?action=Stats&stat=Museums&date=20041124&page=6" title="Manitou Cliff Dwellings & Museum">Next Museum</a>-->

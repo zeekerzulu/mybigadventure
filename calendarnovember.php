@@ -457,7 +457,7 @@
 						<a href="index.php?action=DailyEvents&date=20041122&page=1" title="The Entire Day">Travel Log<br>
 						<a href="index.php?action=Stats&stat=Driving&nocomments=1&page=17#20041122" title="Parker, CO (round trip to Golden, CO)">Driving</a><br>
 						<a href="index.php?action=Stats&stat=Sites&date=20041122&page=40" title="Coors Brewery Tour">Sights<br>
-						<a href="index.php?action=zStats&stat=Communities&date=20041122&page=15" title="Golden, Colorado">Communities<br>
+						<a href="index.php?action=Stats&stat=Communities&date=20041122&page=15" title="Golden, Colorado">Communities<br>
 						<a href="index.php?action=Stats&stat=Museums&date=20041122&page=5" title="Buffalo Bill Museum & Grave">Museums<br>
 						<a href="index.php?action=Stats&stat=Oddities&date=20041122&page=63" title="Stonework RIP">Oddities<br>
 						<br><br>
