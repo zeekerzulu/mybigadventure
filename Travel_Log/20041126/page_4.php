@@ -13,19 +13,19 @@ Phoenix Mine.  Ring for tour.  Hard hats on, and in we go behind Al.
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0172.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0172.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0175.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0175.jpg"></a>
 <p>
-Hard hats must be worn in this area.  The tunnel is timbered and lit, and it goes a lot farther than we're allowed to: for safety reasons the tour stops maybe 300 feet in.
+The tunnel is timbered and lit and goes a lot farther than we're allowed.  For safety reasons the tour stops maybe 300 feet in.  I'd have gone farther.  That's probably why there's a rule.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0178.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0178.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0180.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0180.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0181.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0181.jpg"></a>
 <p>
-Al shows us how the old-timers drilled by hand, and then hands over the tools.  Denise takes a swing.
+Al shows us how the old-timers drilled by hand, then hands over the tools.  Denise takes a swing.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0183.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0183.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0184.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0184.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0186.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0186.jpg"></a>
 <p>
-Denise turned out to be a wealth of good questions for Al, which made the tour better for all of us.  Gordon gets a turn too, and the box of ore is heavier than it looks.
+Denise turns out to be a wealth of good questions, which makes the tour better for all of us.  Gordon gets a turn too, and the box of ore is heavier than it looks.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0188.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0188.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0189.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0189.jpg"></a>

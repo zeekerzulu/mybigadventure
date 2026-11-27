@@ -7,13 +7,13 @@ include 'renderheading.php';
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0043.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0043.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0049.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0049.jpg"></a>
 <p>
-Out of Parker just before one, up I-25 and onto I-70 west.  Even the sound walls in Denver have trees carved into them.
+Out of Parker just before one, up I-25 and onto I-70 west.  Even the sound walls in Denver have trees carved into them.  Show-offs.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0060.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0060.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0062.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0062.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0053.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0053.jpg"></a>
 <p>
-The brochure: Phoenix Mine, a safe way to see a working underground mine.  I'd planned to wait until I got there to ask about tours, so I wouldn't be obligated if the place turned out to be Mickey Mouse, but on the way up I call Al, the owner, and he's giving tours today.  He's just finished one for a party of 30.
+The brochure: Phoenix Mine, a safe way to see a working underground mine.  I'd planned to wait and ask about tours when I got there, so I wouldn't be obligated if the place turned out to be Mickey Mouse.  Instead I call Al, the owner, from the road.  He's giving tours today.  He just finished one for a party of 30.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0085.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0085.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0092.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0092.jpg"></a>
@@ -25,7 +25,7 @@ I-70 climbs into the foothills, the canyon narrows, and the road dives through t
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0112.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0112.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0115.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0115.jpg"></a>
 <p>
-Idaho Springs, a mining town that still looks like one, with the mountains close on both sides.  The mine is up Trail Creek Road on the far side of town.
+Idaho Springs, a mining town that still looks like one, mountains close on both sides.  The mine is up Trail Creek Road on the far side of town.
 <p>
 <center>
 <hr>

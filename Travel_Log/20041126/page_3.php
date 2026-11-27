@@ -7,7 +7,7 @@ include 'renderheading.php';
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0121.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0121.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0123.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0123.jpg"></a>
 <p>
-Trail Creek Road is dirt, snow and ice, and it follows the creek up the gulch.  The van takes it slow.
+Trail Creek Road is dirt, snow and ice, and it follows the creek up the gulch.  The van takes it slow.  The van takes everything slow.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0128.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0128.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0131.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0131.jpg"></a>
@@ -25,13 +25,13 @@ The road gets whiter and narrower until a sign says I've found it.
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0155.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0155.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0157.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0157.jpg"></a>
 <p>
-The mine office is a cabin full of maps, photos and a hundred years of stuff, and here's Al, the owner and operator, getting my tour ready.  I'm joined by Denise and her father Gordon, who've driven up from Idaho Springs for the same reason I have.
+The mine office is a cabin full of maps, photos and a hundred years of stuff, and here's Al, the owner and operator.  I'm joined by Denise and her father Gordon, up from Idaho Springs for the same reason I am.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0160.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0160.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0164.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0164.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041126.1/DSCN0166.jpg"><img src="Pics/Daily/20041126.1/Small/DSCN0166.jpg"></a>
 <p>
-The workings on the map, a sign that means what it says, and the portal itself tucked into the hillside.
+The workings on the map, a sign that means what it says, and the portal tucked into the hillside.
 <p>
 <center>
 <hr>
