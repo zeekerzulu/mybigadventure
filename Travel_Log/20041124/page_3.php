@@ -43,6 +43,6 @@ Two things greet you at the start of the Pikes Peak Highway: Santa's Workshop at
 &nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041124&page=4" title="Next Page">>>></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041123&page=1" title="Paper Trail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041125&page=1" title="[Nov 25 heading]">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041123&page=1" title="Paper Trail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041125&page=1" title="Thanksgiving in the Mile High City">Next Day</a>
 <p>
 </center>

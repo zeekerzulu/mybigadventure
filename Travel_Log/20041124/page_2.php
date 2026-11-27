@@ -45,6 +45,6 @@ West out of the Springs on Highway 24 and the laptop map agrees with the windshi
 &nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041124&page=3" title="Next Page">>>></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041123&page=1" title="Paper Trail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041125&page=1" title="[Nov 25 heading]">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041123&page=1" title="Paper Trail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041125&page=1" title="Thanksgiving in the Mile High City">Next Day</a>
 <p>
 </center>

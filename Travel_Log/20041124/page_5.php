@@ -44,6 +44,6 @@ Mile 11 and the road is a white groove between the trees.  The van doesn't mind,
 &nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041124&page=6" title="Next Page">>>></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041123&page=1" title="Paper Trail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041125&page=1" title="[Nov 25 heading]">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041123&page=1" title="Paper Trail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041125&page=1" title="Thanksgiving in the Mile High City">Next Day</a>
 <p>
 </center>

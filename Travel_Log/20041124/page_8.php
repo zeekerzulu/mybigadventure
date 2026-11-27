@@ -44,6 +44,6 @@ The Anasazi built these rooms around 800 years ago [check the museum's date], an
 &nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041124&page=9" title="Next Page">>>></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041123&page=1" title="Paper Trail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041125&page=1" title="[Nov 25 heading]">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041123&page=1" title="Paper Trail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041125&page=1" title="Thanksgiving in the Mile High City">Next Day</a>
 <p>
 </center>
