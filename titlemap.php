@@ -270,7 +270,7 @@ $titlemap = array (
 	"5187_1" => array("1" => "DailyEvents`date=20041120`page=1", "2" => "My Van Protests the First Snow Fall, Denver, CO", "3" => "8"),
 	"5187_2" => array("1" => "Sites`date=20041122`page=5", "2" => "Beer Can Tank, Coors Brewing, Golden, CO", "3" => "8"),
 	"5187_3" => array("1" => "DailyEvents`date=20041122`page=2", "2" => "South Table Mountain, Golden, CO", "3" => "8"),
-	"5188" => array("1" => "DailyEvents`date=20041123`page=1", "2" => "Wall Tapestry, created by Paul&rsquo;s Mom, Denver, CO", "3" => "8"),
+	"5188" => array("1" => "DailyEvents`date=20041121`page=1", "2" => "Wall Tapestry, created by Paul&rsquo;s Mom, Denver, CO", "3" => "8"),
 	"5188_1" => array("1" => "DailyEvents`date=20041124`page=9", "2" => "Manitou Cliff Dwelling, Manitou Springs, CO", "3" => "8"),
 	"5188_2" => array("1" => "DailyEvents`date=20041125`page=2", "2" => "Civil War Monument and State Capital Building, Denver, CO", "3" => "8"),
 	"5188_3" => array("1" => "DailyEvents`date=20041125`page=4", "2" => "Green Hall of Safety, Denver, CO", "3" => "8"),
