@@ -30,13 +30,13 @@ if (isset($_REQUEST['back'])) {
 
 <AREA SHAPE=POLY COORDS="464,309,492,309,492,326,464,326" HREF="index.php?action=DailyEvents&date=20041119&page=1&maplink=1" TITLE="Travel Log">
 
-<AREA SHAPE=POLY COORDS="341,265,371,265,371,280,341,280" HREF="index.php?action=UnderConstruction&date=200&page=1" TITLE="Travel Log">
+<AREA SHAPE=POLY COORDS="341,265,371,265,371,280,341,280" HREF="index.php?action=DailyEvents&date=20041126&page=1&maplink=1" TITLE="Travel Log - Idaho Springs to Frisco">
 
-<AREA SHAPE=POLY COORDS="288,268,318,268,318,283,288,283" HREF="index.php?action=UnderConstruction&date=200&page=1" TITLE="Travel Log">
+<AREA SHAPE=POLY COORDS="288,268,318,268,318,283,288,283" HREF="index.php?action=DailyEvents&date=20041127&page=1&maplink=1" TITLE="Travel Log - Vail">
 
-<AREA SHAPE=POLY COORDS="194,436,225,436,225,453,194,453" HREF="index.php?action=UnderConstruction&date=200&page=1" TITLE="Travel Log">
+<AREA SHAPE=POLY COORDS="194,436,225,436,225,453,194,453" HREF="index.php?action=UnderConstruction&date=20041129&page=1" TITLE="Travel Log - Montrose">
 
-<AREA SHAPE=POLY COORDS="0,381,31,381,31,397,0,397" HREF="index.php?action=UnderConstruction&date=200&page=1" TITLE="Travel Log">
+<AREA SHAPE=POLY COORDS="0,381,31,381,31,397,0,397" HREF="index.php?action=UnderConstruction&date=20041201&page=1" TITLE="Travel Log - Moab, Utah">
 
 <AREA SHAPE=POLY COORDS="28,572,59,572,59,590,28,590" HREF="index.php?action=UnderConstruction&date=200&page=1" TITLE="Travel Log">
 
@@ -46,19 +46,19 @@ if (isset($_REQUEST['back'])) {
 
 <!-- HIKING -->
 
-<AREA SHAPE=POLY COORDS="196,383,229,383,229,400,196,400" HREF="index.php?action=UnderConstruction&stat=Hiking&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="196,383,229,383,229,400,196,400" HREF="index.php?action=UnderConstruction&stat=Hiking&date=20041130&page=&maplink=1" TITLE="Black Canyon of the Gunnison">
 
 <AREA SHAPE=POLY COORDS="80,372,114,372,114,388,80,388" HREF="index.php?action=UnderConstruction&stat=Hiking&date=200&page=&maplink=1" TITLE="">
 
 <!-- FRIENDS -->
 
-<AREA SHAPE=POLY COORDS="385,315,423,315,423,329,385,329" HREF="index.php?action=UnderConstruction&stat=Friends&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="385,315,423,315,423,329,385,329" HREF="index.php?action=UnderConstruction&stat=Friends&date=20041120&page=&maplink=1" TITLE="Paul">
 
 <!-- PEOPLE -->
 
-<AREA SHAPE=POLY COORDS="372,337,409,337,409,352,372,352" HREF="index.php?action=UnderConstruction&stat=People&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="372,337,409,337,409,352,372,352" HREF="index.php?action=UnderConstruction&stat=People&date=20041126&page=&maplink=1" TITLE="Gordon & Denise">
 
-<AREA SHAPE=POLY COORDS="242,391,281,391,281,409,242,409" HREF="index.php?action=UnderConstruction&stat=People&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="242,391,281,391,281,409,242,409" HREF="index.php?action=UnderConstruction&stat=People&date=20041130&page=&maplink=1" TITLE="Jim">
 
 <AREA SHAPE=POLY COORDS="48,541,87,541,87,556,48,556" HREF="index.php?action=UnderConstruction&stat=People&date=200&page=&maplink=1" TITLE="">
 
@@ -66,15 +66,15 @@ if (isset($_REQUEST['back'])) {
 
 <AREA SHAPE=POLY COORDS="356,684,387,684,387,699,356,699" HREF="index.php?action=Stats&stat=Sites&date=20041118&page=39&maplink=1" TITLE="San Francisco de Asis Church">
 
-<AREA SHAPE=POLY COORDS="392,250,423,250,423,266,392,266" HREF="index.php?action=UnderConstruction&stat=Sites&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="392,250,423,250,423,266,392,266" HREF="index.php?action=Stats&stat=Sites&date=20041122&page=40&maplink=1" TITLE="Coors Brewery Tour">
 
-<AREA SHAPE=POLY COORDS="335,322,365,322,365,338,335,338" HREF="index.php?action=UnderConstruction&stat=Sites&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="335,322,365,322,365,338,335,338" HREF="index.php?action=UnderConstruction&stat=Sites&date=20041126&page=&maplink=1" TITLE="Phoenix Gold Mine">
 
-<AREA SHAPE=POLY COORDS="278,313,308,313,308,329,278,329" HREF="index.php?action=UnderConstruction&stat=Sites&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="278,313,308,313,308,329,278,329" HREF="index.php?action=UnderConstruction&stat=Sites&date=20041128&page=&maplink=1" TITLE="Vail Ski Center">
 
-<AREA SHAPE=POLY COORDS="17,407,48,407,48,423,17,423" HREF="index.php?action=UnderConstruction&stat=Sites&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="17,407,48,407,48,423,17,423" HREF="index.php?action=UnderConstruction&stat=Sites&date=20041202&page=&maplink=1" TITLE="Indian Petroglyphs & Pictographs">
 
-<AREA SHAPE=POLY COORDS="67,418,96,418,96,434,67,434" HREF="index.php?action=UnderConstruction&stat=Sites&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="67,418,96,418,96,434,67,434" HREF="index.php?action=UnderConstruction&stat=Sites&date=20041204&page=&maplink=1" TITLE="Christmas Parade">
 
 <!-- COMMUNITIES -->
 
@@ -82,21 +82,21 @@ if (isset($_REQUEST['back'])) {
 
 <AREA SHAPE=POLY COORDS="360,580,419,580,419,596,360,596" HREF="index.php?action=Stats&stat=Communities&date=20041119.2&page=14&maplink=1" TITLE="Taos Pueblo, New Mexico">
 
-<AREA SHAPE=POLY COORDS="323,233,382,233,382,249,323,249" HREF="index.php?action=UnderConstruction&stat=Communities&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="323,233,382,233,382,249,323,249" HREF="index.php?action=Stats&stat=Communities&date=20041122&page=15&maplink=1" TITLE="Golden, Colorado">
 
-<AREA SHAPE=POLY COORDS="442,256,501,256,501,273,442,273" HREF="index.php?action=UnderConstruction&stat=Communities&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="442,256,501,256,501,273,442,273" HREF="index.php?action=UnderConstruction&stat=Communities&date=20041125&page=&maplink=1" TITLE="Denver, Colorado">
 
 <!-- PARKS -->
 
-<AREA SHAPE=POLY COORDS="11,361,37,361,37,378,11,378" HREF="index.php?action=UnderConstruction&stat=Parks&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="11,361,37,361,37,378,11,378" HREF="index.php?action=UnderConstruction&stat=Parks&date=20041202&page=&maplink=1" TITLE="Arches National Park">
 
 <!-- FORESTS -->
 
-<AREA SHAPE=POLY COORDS="361,368,399,368,399,384,361,384" HREF="index.php?action=UnderConstruction&stat=Forests&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="361,368,399,368,399,384,361,384" HREF="index.php?action=UnderConstruction&stat=Forests&date=20041124&page=&maplink=1" TITLE="Pike National Forest">
 
-<AREA SHAPE=POLY COORDS="276,249,315,249,315,264,276,264" HREF="index.php?action=UnderConstruction&stat=Forests&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="276,249,315,249,315,264,276,264" HREF="index.php?action=UnderConstruction&stat=Forests&date=20041126&page=&maplink=1" TITLE="Arapaho National Forest">
 
-<AREA SHAPE=POLY COORDS="231,436,270,436,270,453,231,453" HREF="index.php?action=UnderConstruction&stat=Forests&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="231,436,270,436,270,453,231,453" HREF="index.php?action=UnderConstruction&stat=Forests&date=20041130&page=&maplink=1" TITLE="Gunnison National Forest">
 
 <!-- MONUMENTS -->
 
@@ -104,9 +104,9 @@ if (isset($_REQUEST['back'])) {
 
 <!-- MUSEUMS -->
 
-<AREA SHAPE=POLY COORDS="371,414,417,414,417,431,371,431" HREF="index.php?action=UnderConstruction&stat=Museums&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="371,414,417,414,417,431,371,431" HREF="index.php?action=UnderConstruction&stat=Museums&date=20041124&page=&maplink=1" TITLE="Manitou Cliff Dwellings & Museum">
 
-<AREA SHAPE=POLY COORDS="273,366,318,366,318,384,273,384" HREF="index.php?action=UnderConstruction&stat=Museums&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="273,366,318,366,318,384,273,384" HREF="index.php?action=UnderConstruction&stat=Museums&date=20041129&page=&maplink=1" TITLE="National Mining Hall of Fame & Museum">
 
 <!-- ODDITIES -->
 
@@ -118,13 +118,13 @@ if (isset($_REQUEST['back'])) {
 
 <AREA SHAPE=POLY COORDS="349,394,387,394,387,409,349,409" HREF="index.php?action=UnderConstruction&stat=Oddities&date=200&page=&maplink=1" TITLE="">
 
-<AREA SHAPE=POLY COORDS="418,224,456,224,456,239,418,239" HREF="index.php?action=UnderConstruction&stat=Oddities&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="418,224,456,224,456,239,418,239" HREF="index.php?action=UnderConstruction&stat=Oddities&date=20041125&page=&maplink=1" TITLE="Sailing Bridge">
 
-<AREA SHAPE=POLY COORDS="136,421,176,421,176,437,136,437" HREF="index.php?action=UnderConstruction&stat=Oddities&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="136,421,176,421,176,437,136,437" HREF="index.php?action=UnderConstruction&stat=Oddities&date=20041201.1&page=&maplink=1" TITLE="Got Hides?">
 
-<AREA SHAPE=POLY COORDS="144,320,185,320,185,337,144,337" HREF="index.php?action=UnderConstruction&stat=Oddities&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="144,320,185,320,185,337,144,337" HREF="index.php?action=UnderConstruction&stat=Oddities&date=20041201.2&page=&maplink=1" TITLE="Friendly Fowl">
 
-<AREA SHAPE=POLY COORDS="81,317,119,317,119,332,81,332" HREF="index.php?action=UnderConstruction&stat=Oddities&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="81,317,119,317,119,332,81,332" HREF="index.php?action=UnderConstruction&stat=Oddities&date=20041201.3&page=&maplink=1" TITLE="Elephant Skin">
 
 <AREA SHAPE=POLY COORDS="0,429,31,429,31,444,0,444" HREF="index.php?action=UnderConstruction&stat=Oddities&date=200&page=&maplink=1" TITLE="">
 
@@ -132,7 +132,7 @@ if (isset($_REQUEST['back'])) {
 
 <!-- MISHAPS -->
 
-<AREA SHAPE=POLY COORDS="232,298,270,298,270,313,232,313" HREF="index.php?action=UnderConstruction&stat=Mishaps&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="232,298,270,298,270,313,232,313" HREF="index.php?action=UnderConstruction&stat=Mishaps&date=20041128&page=&maplink=1" TITLE="Ski Taxi">
 
 <AREA SHAPE=POLY COORDS="37,442,76,442,76,458,37,458" HREF="index.php?action=UnderConstruction&stat=Mishaps&date=200&page=&maplink=1" TITLE="">
 
