@@ -3,6 +3,7 @@ $heading = "Touring Beer Country";
 $headingdate = 'Monday, November 22, 2004';
 include 'renderheading.php';
 ?>
+<div class='DayContext'>Day 136 of 186 &middot; page 4 of 4 &middot; <a href="index.php?action=TripJournal&daterange=20041122-20041128&page=21#Ref1" title="This week's synopsis">Week 21: Colorado</a> &middot; <a href="index.php?action=Maps&state=CO" title="Colorado map">Golden, Colorado</a> &middot; <a href="index.php?action=DailyEvents&date=20041121&page=1">&larr; Nov 21: A Day of Rest</a> | <a href="index.php?action=DailyEvents&date=20041123&page=1">Nov 23: Paper Trail &rarr;</a></div>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0639.jpg"><img src="Pics/Daily/20041122/Small/DSCN0639.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0651.jpg"><img src="Pics/Daily/20041122/Small/DSCN0651.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0705.jpg"><img src="Pics/Daily/20041122/Small/DSCN0705.jpg"></a>

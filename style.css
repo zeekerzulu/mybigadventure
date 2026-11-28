@@ -985,6 +985,18 @@ body {
   background-size: 100% auto;
 }
 
+/* trial 2026-11-27: context line under a day's heading (Nov 22 only) */
+.DayContext {
+  text-align: center;
+  font-size: 13px;
+  color: #555;
+  margin: 6px 0 14px;
+  line-height: 1.6;
+}
+.DayContext a {
+  color: #2f6f4f;
+}
+
 .GalleryNoHeadings,
 .GalleryNoHeadingsShort,
 .GalleryNoHeadingsTall,
