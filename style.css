@@ -1003,6 +1003,18 @@ body {
   font-size: 13px;
 }
 
+/* text legend under each state map (JD, 2026-11-27) */
+.MapLegend {
+  max-width: 800px;
+  margin: 10px auto 4px;
+  text-align: left;
+  font-size: 13px;
+  line-height: 1.6;
+}
+.MapLegendPlanned {
+  color: #777;
+}
+
 /* daily log: "Day X of Y" under the date (JD, 2026-11-27) */
 .DayOf {
   font-size: 13px;

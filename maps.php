@@ -4,4 +4,5 @@
 	  echo '<center>';
 	}
 	include "States/$state.php";
+	include 'statemaplegend.php';
 ?>
