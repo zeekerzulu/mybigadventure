@@ -985,6 +985,16 @@ body {
   background-size: 100% auto;
 }
 
+/* the Journal | Log | Index | Calendar | Map strip, spelled out (JD, 2026-11-27); small in the wide banner's right cell */
+td.ContentArea #BannerWide .NavShortcut,
+#BannerWide .NavShortcut {
+  font-size: 11px;
+  white-space: nowrap;
+}
+#BannerNarrow .NavShortcut {
+  font-size: 13px;
+}
+
 /* daily log: "Day X of Y" under the date (JD, 2026-11-27) */
 .DayOf {
   font-size: 13px;
