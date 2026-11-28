@@ -1,40 +1,50 @@
-<center>
-<a name="#200" alt=""><b><h1>XXX&nbsp;&nbsp;YYY&nbsp;&nbsp;ZZZ&nbsp;&nbsp;PPP&nbsp;&nbsp;DDD&nbsp;&nbsp;QQQ<br><img src="Graphics/titlespace.gif"><br>City, State</h1></b>
-</center>
+<?php
+$heading = "Leadville, a Mining Museum, and a Hotel Room";
+$headingdate = 'Monday, November 29, 2004';
+include 'renderheading.php';
+?>
+<a href="index.php?action=Pics&name=Daily/20041129/DSCN0183.jpg"><img src="Pics/Daily/20041129/Small/DSCN0183.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041129/DSCN0187.jpg"><img src="Pics/Daily/20041129/Small/DSCN0187.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041129/DSCN0188.jpg"><img src="Pics/Daily/20041129/Small/DSCN0188.jpg"></a>
 <p>
+Mount Massive straight down the street, and a historical marker with more words than I have patience for in 5 degrees.  I read it anyway: 1878, Horace Tabor, the Matchless Mine, Baby Doe.  There's a whole opera in there.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041129/DSCN0190.jpg"><img src="Pics/Daily/20041129/Small/DSCN0190.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041129/DSCN0191.jpg"><img src="Pics/Daily/20041129/Small/DSCN0191.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041129/DSCN0192.jpg"><img src="Pics/Daily/20041129/Small/DSCN0192.jpg"></a>
+<p>
+My reason for the detour: the National Mining Hall of Fame and Museum, in the old high school, red brick with a tower and snow to the sills.  $6, open 10 to 4, and I have the place to myself.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041129/DSCN0194.jpg"><img src="Pics/Daily/20041129/Small/DSCN0194.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041129/DSCN0195.jpg"><img src="Pics/Daily/20041129/Small/DSCN0195.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041129/DSCN0205.jpg"><img src="Pics/Daily/20041129/Small/DSCN0205.jpg"></a>
+<p>
+The welcome board, the floor plan, and a painting of what you'd see if the lights were on down there.  Four floors.  Let's go.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041129/DSCN0209.jpg"><img src="Pics/Daily/20041129/Small/DSCN0209.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041129/DSCN0210.jpg"><img src="Pics/Daily/20041129/Small/DSCN0210.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041129/DSCN0214.jpg"><img src="Pics/Daily/20041129/Small/DSCN0214.jpg"></a>
+<p>
+Rocks.  Lots of rocks.  Chrysocolla, malachite and quartz, which is what happens when copper gets wet for a few million years.  I like rocks.  Rocks rock.  Hold that thought.
 <p>
 <center>
 <hr>
-<a href="index.php?action=DailyEvents&date=CurDate&page=4" title="Prev Page"><<<</a>&nbsp;&nbsp;
+<a href="index.php?action=DailyEvents&date=20041129&page=4" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
-<a href="index.php?action=DailyEvents&date=CurDate&page=1">1</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=2">2</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=3">3</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=4">4</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=1">1</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=2">2</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=3">3</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=4">4</a>
 <b>5</b>
-<a href="index.php?action=DailyEvents&date=CurDate&page=6">6</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=7">7</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=8">8</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=9">9</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=10">10</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=11">11</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=12">12</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=13">13</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=14">14</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=15">15</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=16">16</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=17">17</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=18">18</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=19">19</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=20">20</a>
-&nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=CurDate&page=6" title="Next Page">>>></a>
+<a href="index.php?action=DailyEvents&date=20041129&page=6">6</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=7">7</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=8">8</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=9">9</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=10">10</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=11">11</a>
+&nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041129&page=6" title="Next Page">>>></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=CurDate&page=gallery">Photo Gallery</a>
-<p>
-<a href="index.php?action=DailyEvents&date=CurDate&page=1" title="Top of Travel Log">Travel Log</a>
-<p>
-<a href="index.php?action=Stats&stat=Days&date=PrevDayDate&page=PrevDayPage" title="PrevDayName">Prev Day</a> |
-<a href="index.php?action=Stats&stat=Days&date=NextDayDate&page=NextDayPage" title="NextDayName">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041128&page=1" title="Four Runs on Vail Mountain">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041130&page=1" title="[Nov 30 heading]">Next Day</a>
 <p>
 </center>

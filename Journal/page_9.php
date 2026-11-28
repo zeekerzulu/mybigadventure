@@ -122,6 +122,7 @@ I'm in Western NY visiting family and friends.  No traveling or sightseeing toda
 <a href="index.php?action=TripJournal&page=19&daterange=20041108-20041114" title="Tennessee, Mississippi, Louisiana, Texas">19</a>
 <a href="index.php?action=TripJournal&page=20&daterange=20041115-20041121" title="Texas, New Mexico, Colorado">20</a>
 <a href="index.php?action=TripJournal&page=21&daterange=20041122-20041128" title="Colorado">21</a>
+<a href="index.php?action=TripJournal&page=22&daterange=20041129-20041205" title="Colorado, Utah">22</a>
 &nbsp;&nbsp;<a href="index.php?action=TripJournal&page=10&daterange=20040906-20040912" title="Next Week">>>></a>
 <hr class="Journal2">
 <p>

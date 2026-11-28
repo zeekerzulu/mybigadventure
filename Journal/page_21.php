@@ -141,6 +141,8 @@ Rentals returned, a Subway sandwich, a beer at a Lionshead bar until they close 
 <a href="index.php?action=TripJournal&page=19&daterange=20041108-20041114" title="Tennessee, Mississippi, Louisiana, Texas">19</a>
 <a href="index.php?action=TripJournal&page=20&daterange=20041115-20041121" title="Texas, New Mexico, Colorado">20</a>
 <b>21</b>
+<a href="index.php?action=TripJournal&page=22&daterange=20041129-20041205" title="Colorado, Utah">22</a>
+&nbsp;&nbsp;<a href="index.php?action=TripJournal&page=22&daterange=20041129-20041205" title="Next Week">>>></a>
 <hr class="Journal2">
 <p>
 </center>

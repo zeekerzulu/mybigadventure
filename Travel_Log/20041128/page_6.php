@@ -42,6 +42,6 @@ Run two.  Born Free again, with a side trip down Cub's Way, which sounds about m
 &nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041128&page=7" title="Next Page">>>></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041127&page=1" title="A Very Cold Tour of Vail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041129&page=1" title="[Nov 29 heading]">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041127&page=1" title="A Very Cold Tour of Vail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041129&page=1" title="Leadville, a Mining Museum, and a Hotel Room">Next Day</a>
 <p>
 </center>

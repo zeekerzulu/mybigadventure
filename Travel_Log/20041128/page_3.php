@@ -42,6 +42,6 @@ A trail map for my pocket, the welcome board (Bwana is a blue run, Chair 15 is o
 &nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041128&page=4" title="Next Page">>>></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041127&page=1" title="A Very Cold Tour of Vail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041129&page=1" title="[Nov 29 heading]">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041127&page=1" title="A Very Cold Tour of Vail">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041129&page=1" title="Leadville, a Mining Museum, and a Hotel Room">Next Day</a>
 <p>
 </center>

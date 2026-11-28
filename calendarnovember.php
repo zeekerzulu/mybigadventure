@@ -581,21 +581,22 @@
 				</tr></table>
 				</td>
 
-				<?php if ($currdate == '200') $calendarclass = "CalendarSelect"; else $calendarclass = "Calendar";?>
-				<?php $calendarclass = "CalendarDay";?>
+				<?php if ($currdate == '20041129') $calendarclass = "CalendarSelect"; else $calendarclass = "Calendar";?>
 				<td class=<?php echo $calendarclass?> valign="top">
 				<table cellspacing="0" cellpadding="0">
 				<tr>
 				
 					<td width="100">
-<!--
- 						<a href="index.php?action=zDailyEvents&date=20041129&page=1" onclick="return ShowDayLinks(this,'right')" title="Travel Log">29</a><br>
+ 						<a id="Ref5"></a><a href="index.php?action=DailyEvents&date=20041129&page=1" onclick="return ShowDayLinks(this,'right')" title="Travel Log">29</a><br>
 						<center class='DayLinks'>
 						<br>
-						<a href="index.php?action=zDailyEvents&date=20041129&page=1" title="The Entire Day">Travel Log<br>
-						<br><br><br><br><br>
-						</center>-->
-						<span class="CalendarDayUnderConstruction" onclick="return ShowDayLinks(this,'right',true)">29</span><br><center class='DayLinks'><img src="Graphics/underconstruction.gif"><br>Under<br>Construction<br><img src="Graphics/underconstruction.gif"></center>
+						<a href="index.php?action=DailyEvents&date=20041129&page=1" title="The Entire Day">Travel Log<br>
+						<a href="index.php?action=Stats&stat=Driving&nocomments=1&page=19#20041129" title="Avon, CO to Montrose, CO">Driving</a><br>
+						<a href="index.php?action=zStats&stat=Museums&date=20041129&page=7" title="National Mining Hall of Fame & Museum">Museums<br>
+						<br><br><br>
+						<a href="javascript:myPopup1('https://www.leadville-co.gov/')" title="City Website">Leadville</a><br>
+						<a href="index.php?action=Maps&state=CO" title="Colorado">CO</a>
+						</center>
 					</td>
 				
 				</tr></table>

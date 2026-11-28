@@ -1,40 +1,37 @@
-<center>
-<a name="#200" alt=""><b><h1>XXX&nbsp;&nbsp;YYY&nbsp;&nbsp;ZZZ&nbsp;&nbsp;PPP&nbsp;&nbsp;DDD&nbsp;&nbsp;QQQ<br><img src="Graphics/titlespace.gif"><br>City, State</h1></b>
-</center>
+<?php
+$heading = "Leadville, a Mining Museum, and a Hotel Room";
+$headingdate = 'Monday, November 29, 2004';
+include 'renderheading.php';
+?>
+<a href="index.php?action=Pics&name=Daily/20041129/DSCN0975.jpg"><img src="Pics/Daily/20041129/Small/DSCN0975.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041129/DSCN0978.jpg"><img src="Pics/Daily/20041129/Small/DSCN0978.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041129/DSCN0985.jpg"><img src="Pics/Daily/20041129/Small/DSCN0985.jpg"></a>
 <p>
+An indoor pool I don't use, an exercise room I look at, and a bedspread that could stop a bullet.  I have never been so happy to see a bad bedspread.
+<p>
+<a href="index.php?action=Pics&name=Daily/20041129/DSCN0972.jpg"><img src="Pics/Daily/20041129/Small/DSCN0972.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041129/DSCN0988.jpg"><img src="Pics/Daily/20041129/Small/DSCN0988.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041129/DSCN0991.jpg"><img src="Pics/Daily/20041129/Small/DSCN0991.jpg"></a>
+<p>
+A long hot bath, so long it leaves me tired and weak instead of better, and a cup of hotel orange juice.  Say ahhh.  Still red.  Lights out at 1:30, late for a sick man, but the room is warm and I'm not in a parking lot.  Tomorrow is Black Canyon, if I can stand up.
 <p>
 <center>
 <hr>
-<a href="index.php?action=DailyEvents&date=CurDate&page=10" title="Prev Page"><<<</a>&nbsp;&nbsp;
+<a href="index.php?action=DailyEvents&date=20041129&page=10" title="Prev Page"><<<</a>&nbsp;&nbsp;
 <b>Page</b>
-<a href="index.php?action=DailyEvents&date=CurDate&page=1">1</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=2">2</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=3">3</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=4">4</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=5">5</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=6">6</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=7">7</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=8">8</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=9">9</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=10">10</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=1">1</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=2">2</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=3">3</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=4">4</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=5">5</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=6">6</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=7">7</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=8">8</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=9">9</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=10">10</a>
 <b>11</b>
-<a href="index.php?action=DailyEvents&date=CurDate&page=12">12</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=13">13</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=14">14</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=15">15</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=16">16</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=17">17</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=18">18</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=19">19</a>
-<a href="index.php?action=DailyEvents&date=CurDate&page=20">20</a>
-&nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=CurDate&page=12" title="Next Page">>>></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=CurDate&page=gallery">Photo Gallery</a>
-<p>
-<a href="index.php?action=DailyEvents&date=CurDate&page=1" title="Top of Travel Log">Travel Log</a>
-<p>
-<a href="index.php?action=Stats&stat=Days&date=PrevDayDate&page=PrevDayPage" title="PrevDayName">Prev Day</a> |
-<a href="index.php?action=Stats&stat=Days&date=NextDayDate&page=NextDayPage" title="NextDayName">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041128&page=1" title="Four Runs on Vail Mountain">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041130&page=1" title="[Nov 30 heading]">Next Day</a>
 <p>
 </center>

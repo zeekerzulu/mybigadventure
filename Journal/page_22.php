@@ -9,6 +9,11 @@
 <a href="index.php?action=Pics&name=Daily/20041129/DSCN0691.jpg&nocomments=1"><img src="Pics/Daily/20041129/Small/DSCN0691.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041129/DSCN0991.jpg&nocomments=1"><img src="Pics/Daily/20041129/Small/DSCN0991.jpg"></a>
 <p>
+A notch better than yesterday, which still isn't well, I leave the Avon Wal-Mart with a frozen windshield washer and a spray bottle for a substitute, and take Highway 24 south over Tennessee Pass and the Continental Divide to Leadville, the highest city in the country.
+<p>
+The reason for the detour is the National Mining Hall of Fame and Museum, four floors of rocks, mine replicas, dioramas and bronze plaques in the old high school, where I have the place to myself and, with a little help from the laptop, get myself inducted.
+<p>
+Five degrees at sunset, a tank of gas, and 160 miles of ice and packed snow in the dark to Montrose, where I give in and take a hotel room.  A long hot bath, a bed that doesn't freeze, and lights out at 1:30 with a temperature.  Tomorrow, Black Canyon, if I'm up to it.
 <p>
 <a href="index.php?action=DailyEvents&date=20041129&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref2"></a>
@@ -55,7 +60,7 @@
 <a href="index.php?action=Pics&name=Daily/20041203/DSCN0740.jpg"><img src="Pics/Daily/20041203/Small/DSCN0740.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=DailyEvents&date=20041126&page=1" title="Travel Log">Read the full story</a>
+<a href="index.php?action=DailyEvents&date=20041203&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref6"></a>
 <br>
 <h1><hr class="Journal2">SECOND DAY OF TOURING ARCHES NATIONAL PARK - Saturday, December 4, 2004<hr class="Journal2"></h1>
@@ -82,7 +87,7 @@
 <p>
 <hr class="Journal2">
 <center>
-<a href="index.php?action=TripJournal&page=19&daterange=20041108-20041114" title="Prev Week"><<<</a>&nbsp;&nbsp;
+<a href="index.php?action=TripJournal&page=21&daterange=20041122-20041128" title="Prev Week"><<<</a>&nbsp;&nbsp;
 <b>Week</b>
 <a href="index.php?action=TripJournal&page=1&daterange=20040708-20040711" title="Washington State">1</a>
 <a href="index.php?action=TripJournal&page=2&daterange=20040712-20040718" title="Washington State, British Columbia">2</a>
@@ -105,6 +110,7 @@
 <a href="index.php?action=TripJournal&page=19&daterange=20041108-20041114" title="Tennessee, Mississippi, Louisiana, Texas">19</a>
 <a href="index.php?action=TripJournal&page=20&daterange=20041115-20041121" title="Texas, New Mexico, Colorado">20</a>
 <a href="index.php?action=TripJournal&page=21&daterange=20041122-20041128" title="Colorado">21</a>
+<b>22</b>
 <hr class="Journal2">
 <p>
 </center>

@@ -35,7 +35,7 @@ include 'statemaphint.php';
 
 <AREA SHAPE=POLY COORDS="288,268,318,268,318,283,288,283" HREF="index.php?action=DailyEvents&date=20041127&page=1&maplink=1" TITLE="Travel Log - Vail">
 
-<AREA SHAPE=POLY COORDS="194,436,225,436,225,453,194,453" HREF="index.php?action=UnderConstruction&date=20041129&page=1" TITLE="Travel Log - Montrose">
+<AREA SHAPE=POLY COORDS="194,436,225,436,225,453,194,453" HREF="index.php?action=DailyEvents&date=20041129&page=1&maplink=1" TITLE="Travel Log - Montrose">
 
 <AREA SHAPE=POLY COORDS="0,381,31,381,31,397,0,397" HREF="index.php?action=UnderConstruction&date=20041201&page=1" TITLE="Travel Log - Moab, Utah">
 
