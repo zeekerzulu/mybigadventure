@@ -2,6 +2,18 @@
 // Text legend under a state map (JD, 2026-11-27): the same pins as the image map, in words, grouped the way the
 // state file groups them (<!-- SIGHTS --> etc.), so phones (no hover) can read what each pin is. Reads the state file
 // itself, so a pin flipped from Under Construction to live shows up here with no extra edit.
+function legend_norm($t) { $t = str_replace(array('<br>', "\\'"), array(' ', "'"), $t); $t = html_entity_decode($t, ENT_QUOTES); return strtolower(trim(preg_replace('/\s+/', ' ', $t))); }
+function legend_headings($stat) {
+  static $cache = array();
+  if (isset($cache[$stat])) return $cache[$stat];
+  $map = array();
+  foreach (glob("Statistics/$stat/page_*.php") as $f) {
+    if (!preg_match('/^Statistics\/[A-Za-z]+\/page_(\d+)\.php$/', $f, $pm)) continue;
+    $head = file_get_contents($f, false, null, 0, 600);
+    if (preg_match("/\\\$heading = '((?:[^'\\\\]|\\\\.)*)'/", $head, $hm) && $hm[1] !== '') $map[legend_norm($hm[1])] = (int)$pm[1];
+  }
+  return $cache[$stat] = $map;
+}
 $legendfile = "States/$state.php";
 if ($state != 'USA' && is_file($legendfile)) {
   // Neighbouring states are drawn as clickable polygons in the same file; a pin whose centre falls inside one of
@@ -51,9 +63,26 @@ if ($state != 'USA' && is_file($legendfile)) {
       if ($title == '') continue;
       $label = $title;
     }
-    $label = htmlspecialchars($label, ENT_QUOTES);
     $uc = strpos($href, 'UnderConstruction') !== false;
-    $item = $uc ? "<span class='MapLegendPlanned' title='Under construction'>$label</span>" : "<a href=\"$href\">$label</a>";
+    // A pin that names several entries ("Boot of Despair, Pink Duck & Haggard Graves") links only to the first;
+    // give each name its own link when every name matches a page heading in that section (JD, 2026-11-27).
+    $parts = array();
+    if (!$uc && $group != 'Travel Log' && preg_match('/stat=([A-Za-z]+)&/', $href, $sm) && preg_match('/(, | & )/', $title)) {
+      $heads = legend_headings($sm[1]);
+      if (!isset($heads[legend_norm($title)])) {
+        // split on ", ", " & " and ", & "; a name with its own page links there, any other name keeps the pin's link
+        $names = preg_split('/, & |, | & /', $title); $matched = 0;
+        foreach ($names as $nm) if (isset($heads[legend_norm($nm)])) $matched++;
+        if (count($names) > 1 && $matched >= 2) foreach ($names as $nm) $parts[] = array($nm, isset($heads[legend_norm($nm)]) ? preg_replace('/page=\d+/', 'page=' . $heads[legend_norm($nm)], $href) : $href);
+      }
+    }
+    if (count($parts)) {
+      $links = array(); foreach ($parts as $pp) $links[] = "<a href=\"" . $pp[1] . "\">" . htmlspecialchars($pp[0], ENT_QUOTES) . "</a>";
+      $item = implode(' &middot; ', $links);
+    } else {
+      $label = htmlspecialchars($label, ENT_QUOTES);
+      $item = $uc ? "<span class='MapLegendPlanned' title='Under construction'>$label</span>" : "<a href=\"$href\">$label</a>";
+    }
     if (!isset($groups[$group])) { $groups[$group] = array(); $order[] = $group; }
     $groups[$group][] = $item;
   }
