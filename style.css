@@ -1024,6 +1024,10 @@ body {
   .GalleryMaps .GalleryItem {
     width: 160px;
   }
+  .GalleryMaps .GalleryItem img {
+    max-width: 150px;
+    height: auto;
+  }
 }
 @media (max-width: 374px) {
   .GalleryMaps .GalleryItem {
