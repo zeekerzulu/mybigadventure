@@ -19,6 +19,8 @@ if ($state != 'USA' && is_file($legendfile)) {
   // Neighbouring states are drawn as clickable polygons in the same file; a pin whose centre falls inside one of
   // them was placed in a neighbour's strip of the map and is left out of this state's legend (JD, 2026-11-27).
   $lines = file($legendfile); $neighbours = array();
+  // a state file may keep its AREA tags in an included coordinates file (Wyoming: mapcoordinatesWY.php)
+  foreach ($lines as $line) if (preg_match("/include '(mapcoordinates[A-Za-z_]*\.php)'/", $line, $im) && is_file($im[1])) $lines = array_merge($lines, file($im[1]));
   foreach ($lines as $line) {
     if (preg_match('/<AREA [^>]*COORDS="([\d,]+)"[^>]*HREF="[^"]*action=Maps&state=/i', $line, $m)) {
       $c = array_map('intval', explode(',', $m[1])); if (count($c) >= 6) $neighbours[] = $c;
