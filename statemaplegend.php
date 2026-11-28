@@ -4,11 +4,33 @@
 // itself, so a pin flipped from Under Construction to live shows up here with no extra edit.
 $legendfile = "States/$state.php";
 if ($state != 'USA' && is_file($legendfile)) {
+  // Neighbouring states are drawn as clickable polygons in the same file; a pin whose centre falls inside one of
+  // them was placed in a neighbour's strip of the map and is left out of this state's legend (JD, 2026-11-27).
+  $lines = file($legendfile); $neighbours = array();
+  foreach ($lines as $line) {
+    if (preg_match('/<AREA [^>]*COORDS="([\d,]+)"[^>]*HREF="[^"]*action=Maps&state=/i', $line, $m)) {
+      $c = array_map('intval', explode(',', $m[1])); if (count($c) >= 6) $neighbours[] = $c;
+    }
+  }
+  $inside = function ($x, $y, $poly) {
+    $n = count($poly) / 2; $in = false;
+    for ($i = 0, $j = $n - 1; $i < $n; $j = $i++) {
+      $xi = $poly[2 * $i]; $yi = $poly[2 * $i + 1]; $xj = $poly[2 * $j]; $yj = $poly[2 * $j + 1];
+      if ((($yi > $y) != ($yj > $y)) && ($x < ($xj - $xi) * ($y - $yi) / (($yj - $yi) ?: 0.0001) + $xi)) $in = !$in;
+    }
+    return $in;
+  };
   $groups = array(); $order = array(); $group = '';
-  foreach (file($legendfile) as $line) {
+  foreach ($lines as $line) {
     if (preg_match('/<!--\s*([A-Z][A-Z ]+?)\s*-->/', $line, $m)) { $group = ucwords(strtolower($m[1])); if ($group == 'Travel Log') $group = 'Travel Log'; continue; }
-    if (!preg_match('/<AREA [^>]*HREF="([^"]*)"[^>]*TITLE="([^"]*)"/i', $line, $m)) continue;
-    $href = $m[1]; $title = $m[2];
+    if (!preg_match('/<AREA [^>]*COORDS="([\d,]+)"[^>]*HREF="([^"]*)"[^>]*TITLE="([^"]*)"/i', $line, $m)) continue;
+    $coords = array_map('intval', explode(',', $m[1])); $href = $m[2]; $title = $m[3];
+    if (count($coords) >= 4) {
+      $xs = array(); $ys = array(); for ($k = 0; $k + 1 < count($coords); $k += 2) { $xs[] = $coords[$k]; $ys[] = $coords[$k + 1]; }
+      $cx = array_sum($xs) / count($xs); $cy = array_sum($ys) / count($ys); $out = false;
+      foreach ($neighbours as $poly) if ($inside($cx, $cy, $poly)) { $out = true; break; }
+      if ($out) continue;
+    }
     if ($group == '' || $group == 'States' || $group == 'Stats') continue;
     if (strpos($href, 'action=Maps') !== false) continue;
     if ($group == 'Travel Log') {
