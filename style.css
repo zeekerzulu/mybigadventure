@@ -1022,7 +1022,13 @@ body {
 /* phones: two 220px cards overflow a 390px screen; match the other galleries' card width (2026-11-27) */
 @media (max-width: 600px) {
   .GalleryMaps .GalleryItem {
-    width: 160px;
+    width: calc(50% - 8px);
+    height: auto;
+    min-height: 180px;
+  }
+  .GalleryMaps .GalleryItem img {
+    max-width: 100%;
+    height: auto;
   }
 }
   
