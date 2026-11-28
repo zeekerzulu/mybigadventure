@@ -986,10 +986,18 @@ body {
 }
 
 /* the Journal | Log | Index | Calendar | Map strip, spelled out (JD, 2026-11-27); small in the wide banner's right cell */
-td.ContentArea #BannerWide .NavShortcut,
 #BannerWide .NavShortcut {
-  font-size: 11px;
+  font-size: 13px;
   white-space: nowrap;
+}
+#BannerWide td[align=right] {
+  white-space: nowrap;
+}
+#BannerWide td[align=right] .ShareControl {
+  float: none;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 6px;
 }
 #BannerNarrow .NavShortcut {
   font-size: 13px;

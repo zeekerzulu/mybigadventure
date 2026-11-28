@@ -9,8 +9,8 @@
 	?>
 	</td><td class="BannerText" align="center"><b>T R A V E L&nbsp;&nbsp;&nbsp;L O G</b></td><td width="25%" align="right">
 	<?php
-	  include 'sharecontrol.php';
     include 'navshortcut.php';
+	  include 'sharecontrol.php';
   ?>
   </td></tr></table><div id='BannerNarrow'><b>T R A V E L&nbsp;&nbsp;&nbsp;L O G</b>
 	<?php include 'sharecontrol.php'?>
