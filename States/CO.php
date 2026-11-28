@@ -18,7 +18,7 @@ if (isset($_REQUEST['back'])) {
 
 <AREA SHAPE=POLY COORDS="201,611,248,611,248,633,201,633" HREF="index.php?action=Stats&stat=States&nocomments=1&page=12#NM" TITLE="New Mexico Trip Statistics">
 
-<AREA SHAPE=POLY COORDS="364,490,413,490,413,512,364,512" HREF="index.php?action=UnderConstruction&stat=States&nocomments=1&page=#" TITLE="Colorado Trip Statistics">
+<AREA SHAPE=POLY COORDS="364,490,413,490,413,512,364,512" HREF="index.php?action=Stats&stat=States&nocomments=1&page=13#CO" TITLE="Colorado Trip Statistics">
 
 <AREA SHAPE=POLY COORDS="26,318,75,318,75,340,26,340" HREF="index.php?action=UnderConstruction&stat=States&nocomments=1&page=#" TITLE="Utah Trip Statistics">
 

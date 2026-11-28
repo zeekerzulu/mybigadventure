@@ -309,6 +309,7 @@
 <b>10</b>
 <a href="index.php?action=Stats&stat=States&nocomments=1&page=11">11</a>
 <a href="index.php?action=Stats&stat=States&nocomments=1&page=12">12</a>
+<a href="index.php?action=Stats&stat=States&nocomments=1&page=13">13</a>
 &nbsp;&nbsp;<a href="index.php?action=Stats&stat=States&nocomments=1&page=11" title="Next Page">>>></a>
 <hr>
 <p>

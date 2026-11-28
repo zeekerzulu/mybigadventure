@@ -7,6 +7,8 @@
 
 <div class='GalleryItem'><div class='GalleryHeading'>State #30</div><div><a href="index.php?action=Stats&stat=States&nocomments=1&page=12#NM" title="Go to State Statistics"><img src="States/Flags/newmexico.gif"></a></div><div class='GalleryLink'><a href="index.php?action=Stats&stat=States&nocomments=1&page=12#NM" title="Go to State Statistics">New Mexico</a></div></div>
 
+<div class='GalleryItem'><div class='GalleryHeading'>State #31</div><div><a href="index.php?action=Stats&stat=States&nocomments=1&page=13#CO" title="Go to State Statistics"><img src="States/Flags/colorado.gif"></a></div><div class='GalleryLink'><a href="index.php?action=Stats&stat=States&nocomments=1&page=13#CO" title="Go to State Statistics">Colorado</a></div></div>
+
 <div class='Clear'></div></div>
 <p>
 <center>
