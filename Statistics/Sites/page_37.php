@@ -36,7 +36,7 @@ A visit to Space Center Houston isn't complete without taking the Tram Tour.  Th
 <p>
 Are you interested in space exploration and travel?  Does touring a portion of the Johnson Space Center pique your interest?  I've just pulled into the parking lot of Space Center Houston.  Come with me and let's explore this treasure together.
 <p> 
-<a href="index.php?action=Sites&date=20041114&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041114&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

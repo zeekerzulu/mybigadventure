@@ -38,7 +38,7 @@ My time at Bighorn will be spent in the van, I'm just driving through on my way 
 <p>
 I'm entering the western extent of Bighorn now.  As I drive along I can see someone trying to hitch a ride and as I slow down the van I can see that it is..... you!  So please hop in and let's enjoy the scenic views of Bighorn together.
 <p>
-<a href="index.php?action=Forests&date=20040817&page=1">Description & Pics</a>
+<a href="index.php?action=Forests&date=20040817&page=1">Read the full story</a>
 <p>
 <center>
 <hr>
@@ -77,7 +77,7 @@ In my travels I more or less stumbled upon this national park beauty.  While pas
 <p>
 Jump in the van with me as I drive through this spectacular national park.
 <p>
-<a href="index.php?action=DailyEvents&date=20040719&page=5">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040719&page=5">Read the full story</a>
 <p>
 <hr>
 <p>

@@ -28,7 +28,7 @@ Considered the sixth largest fresh water lake in the United States (only the Gre
 <p>
 Come join me now as I walk down to the lakeshore and check out the views.
 <p>
-<a href="index.php?action=Sites&date=20040928&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20040928&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

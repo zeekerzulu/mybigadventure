@@ -31,7 +31,7 @@ Mall of America is the largest fully enclosed retail and family entertainment co
 <p>
 Did you bring your credit card?  It's time to experience this amazing tribute to Capitalism.  Come with me as I enter the Alter of Commerce.
 <p>
-<a href="index.php?action=Sites&date=20040829&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20040829&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

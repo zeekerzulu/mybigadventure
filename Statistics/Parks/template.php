@@ -31,7 +31,7 @@ DayOfWeek, Month Day, 2004
 <hr>
 <p>
 <p>
-<a href="index.php?action=Parks&date=CurDate&page=1">Description & Pics</a>
+<a href="index.php?action=Parks&date=CurDate&page=1">Read the full story</a>
 <p>
 <hr>
 <center>

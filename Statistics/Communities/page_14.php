@@ -33,7 +33,7 @@ The village has a rich history and culture, and is a popular destination for bot
 <p>
 I'm really excited about my upcoming tour of Taos Pueblo. Can you say you've ever visited a 14th century community? Starting today I'll be able to. Come along with me so you can too.
 <p>
-<a href="index.php?action=Communities&date=20041119.2&page=1">Description & Pics</a>
+<a href="index.php?action=Communities&date=20041119.2&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

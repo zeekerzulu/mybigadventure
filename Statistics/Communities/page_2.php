@@ -39,7 +39,7 @@ Based on the 2001 Canadian Census, close to 600,000 people call the City of Vanc
 <p>
 Please come join me as I begin my tour of beautiful Vancouver.
 <p>
-<a href="index.php?action=Communities&date=20040716&page=1">Description & Pics</a>
+<a href="index.php?action=Communities&date=20040716&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

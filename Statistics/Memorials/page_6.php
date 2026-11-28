@@ -42,7 +42,7 @@ Overall, the Memorial's layout is a circle of water intersected by a large trian
 <p>
 I just arrived at the Memorial.  I'm finding myself rather interested in taking a closer look at the platoon of soldiers as well as the wall of faces.  Come with me, I'm sure you'll find something interesting to look at as well.
 <p>
-<a href="index.php?action=Memorials&date=20041027.4&page=1">Description & Pics</a>
+<a href="index.php?action=Memorials&date=20041027.4&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

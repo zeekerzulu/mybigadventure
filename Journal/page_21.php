@@ -17,7 +17,7 @@ Then up Lookout Mountain to Buffalo Bill's grave with the sun going down.  The m
 <p>
 A gym stop on the way back and an evening at Paul's, travel writing and phone calls.  Tomorrow, weather permitting, Pikes Peak.
 <p>
-<a href="index.php?action=DailyEvents&date=20041122&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041122&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref2"></a>
 <br>
 <h1><hr class="Journal2">BLOWN PLANS & FINANCIAL ACCOUNTING - Tuesday, November 23, 2004<hr class="Journal2"></h1>
@@ -31,7 +31,7 @@ My plans to drive down to Pikes Peak are scuttled today due to a rather nasty we
 <p>
 As an aside, I do have to admit, it's nice sleeping inside. However, it's best not get too used to this. After I leave Paul's place I'll be sleeping in the van in the freezing cold. Can't say I'm really looking forward to that.
 <p>
-<a href="index.php?action=DailyEvents&date=20041123&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041123&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref3"></a>
 <br>
 <h1><hr class="Journal2">PIKES PEAK & CLIFF DWELLINGS - Wednesday, November 24, 2004<hr class="Journal2"></h1>
@@ -47,7 +47,7 @@ I head out mid-morning on a relatively short drive of 70 miles to get there. How
 <p>
 I'm forced to reformulate my travel plans and decide to drop into the Manitou Cliff Dwellings & Museum which isn't far away. The Dwellings and Museum go far in painting an interesting picture of the life and times of the Anasazi. I stay till sunset, then head back to Paul's place to relax for the rest of the evening.
 <p>
-<a href="index.php?action=DailyEvents&date=20041124&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041124&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref4"></a>
 <br>
 <h1><hr class="Journal2">A DENVER THANKSGIVING - Thursday, November 25, 2004<hr class="Journal2"></h1>
@@ -65,7 +65,7 @@ After a quick drive, I find myself on foot walking around the city. I don't have
 <p>
 All toured out, evening arrives and I head back to Paul's place. We then drive out to his brother's house for Thanksgiving. The evening is special, filled with great company and great food. Oh yes, that's right, earlier I mentioned boardgames. We played both Life and Monopoly and I lost both games.
 <p>
-<a href="index.php?action=DailyEvents&date=20041125&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041125&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref5"></a>
 <br>
 <h1><hr class="Journal2">COLORADO GOLD - Friday, November 26, 2004<hr class="Journal2"></h1>
@@ -81,7 +81,7 @@ On the way up I call ahead and get lucky, Al, the owner and operator, is giving 
 <p>
 I follow Denise and Gordon back down to Idaho Springs where I meet the rest of her family over pizza, then hide out from the cold in a coffee house and, after closing time, in the Tommyknocker brewpub.  It's 9 degrees out when I finally leave.  I point the van west through the Eisenhower Tunnel and overnight in Frisco, Colorado, where I'm about to find out what sleeping in the van in single digits is all about.
 <p>
-<a href="index.php?action=DailyEvents&date=20041126&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041126&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref6"></a>
 <br>
 <h1><hr class="Journal2">TOUR OF VAIL, CO - Saturday, November 27, 2004<hr class="Journal2"></h1>
@@ -97,7 +97,7 @@ Vail, Colorado is a ski village built to look like a Bavarian town, and I spend 
 <p>
 The rest of the day is spent hiding from the cold in a coffee shop, travel writing and processing photos.  Come evening I drive down the valley to Avon, then back toward Vail to overnight at the local Wal-Mart.  Tomorrow, if I'm feeling better, I ski.
 <p>
-<a href="index.php?action=DailyEvents&date=20041127&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041127&page=1" title="Travel Log">Read the full story</a>
 <p>
 <a id="Ref7"></a>
 <br>
@@ -114,7 +114,7 @@ Born Free is my run, an intermediate that comes right back down to the gondola. 
 <p>
 Rentals returned, a Subway sandwich, a beer at a Lionshead bar until they close early for Sunday, then back to the Wal-Mart McDonald's to soak up some heat.  My sinuses are full and I'm running a temperature.  Tomorrow I head for Black Canyon and Montrose, and if I'm still sick, a hotel room.
 <p>
-<a href="index.php?action=DailyEvents&date=20041128&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041128&page=1" title="Travel Log">Read the full story</a>
 <p>
 <hr class="Journal2">
 <center>

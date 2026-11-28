@@ -46,7 +46,7 @@ All flags flown at Arlington are lowered to half-staff one half hour before the 
 <p>
 I've just exited the subway and I'm now walking over to the entrance of Arlington National Cemetery.  Come with me if you're interested in sacred, hallowed places.  I guarentee, Arlington will be a somber experience, but, it's important to pay tribute the dead, to all those folks who fought to ensure a better, more peaceful world.
 <p>
-<a href="index.php?action=Sites&date=20041027.2&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041027.2&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

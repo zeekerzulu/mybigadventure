@@ -29,7 +29,7 @@ Glacier National Park turned out to be one of my trip's biggest highlights.  I h
 <p>
 Come join me now as I arrive at the park in preparation for my up-and-coming biking adventure.
 <p>
-<a href="index.php?action=DailyEvents&date=20040728&page=4#A1">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040728&page=4#A1">Read the full story</a>
 <p>
 <hr>
 <p>
@@ -64,7 +64,7 @@ During my 3 day visit I managed to tour all 7 sights and was even able to squeak
 <p>
 Join me now as I enter Yellowstone's North Entrance.
 <p>
-<a href="index.php?action=DailyEvents&date=20040804&page=10#A1">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040804&page=10#A1">Read the full story</a>
 <p>
 <hr>
 <p>

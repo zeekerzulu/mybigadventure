@@ -42,7 +42,7 @@ Well, the time has arrived to stop the "gibber-jabber" (Hey, Mr. T used to say t
 <p>
 We're all geared up and ready to go.  You coming?  Mr. T will make you if you refuse.
 <p>
-<a href="index.php?action=Hiking&date=20041005&page=1">Description & Pics</a>
+<a href="index.php?action=Hiking&date=20041005&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

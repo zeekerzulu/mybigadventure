@@ -46,7 +46,7 @@ My visit to the park will take place on the saddle of my road bike.  The day is 
 <p>
 I'm all saddled up and I've got an extra bike for you.  So come on, jump on and let's ride.
 <p>
-<a href="index.php?action=Parks&date=20040815&page=1">Description & Pics</a>
+<a href="index.php?action=Parks&date=20040815&page=1">Read the full story</a>
 <p>
 <hr>
 <center>

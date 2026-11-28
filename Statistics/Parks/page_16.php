@@ -19,7 +19,7 @@
 <p>
 <b>Personal Rating:</b> 10 of 10
 <p>
-<a href="index.php?action=zSites&date=20041008.2&page=1">Description & Pics</a>
+<a href="index.php?action=zSites&date=20041008.2&page=1">Read the full story</a>
 <!--
 <p>
 <hr>
@@ -43,7 +43,7 @@
 <b>Personal Rating:</b> x of y
 <p>
 <p>
-<a href="index.php?action=Parks&date=2004&page=1">Description & Pics</a>-->
+<a href="index.php?action=Parks&date=2004&page=1">Read the full story</a>-->
 <p>
 <hr>
 <p>

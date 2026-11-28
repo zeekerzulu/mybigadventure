@@ -24,7 +24,7 @@ The largest island in the San Juans, San Juan Island is a mix of many things.  T
 <p>
 Come with me now as I begin my tour of the island by road bike.
 <p>
-<a href="index.php?action=Sites&date=20040714&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20040714&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

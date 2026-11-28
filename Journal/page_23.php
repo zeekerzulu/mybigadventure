@@ -10,7 +10,7 @@
 <a href="index.php?action=Pics&name=Daily/20041206/DSCN0432.jpg&nocomments=1"><img src="Pics/Daily/20041206/Small/DSCN0432.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=DailyEvents&date=20041206&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041206&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref2"></a>
 <br>
 <h1><hr class="Journal2">FOG, PEOPLE WATCHING & BIKE DRAGGING - Tuesday, December 7, 2004<hr class="Journal2"></h1>
@@ -21,7 +21,7 @@
 <a href="index.php?action=Pics&name=Daily/20041207/DSCN0360.jpg&nocomments=1"><img src="Pics/Daily/20041207/Small/DSCN0360.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=DailyEvents&date=20041207&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041207&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref3"></a>
 <br>
 <h1><hr class="Journal2">FOGGY ZION NATIONAL PARK & SCARY GHOST TOWN  - Wednesday, December 8, 2004<hr class="Journal2"></h1>
@@ -33,7 +33,7 @@
 <p>
 
 <p>
-<a href="index.php?action=DailyEvents&date=20041208&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041208&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref4"></a>
 <br>
 <h1><hr class="Journal2">VEGAS BABY, VAN GETS WEDGED, SEAN PAYS A VISIT - Thursday, December 9, 2004<hr class="Journal2"></h1>
@@ -44,7 +44,7 @@
 <a href="index.php?action=Pics&name=Daily/20041209/DSCN0340.JPG&nocomments=1"><img src="Pics/Daily/20041209/Small/DSCN0340.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=DailyEvents&date=20041209&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041209&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref5"></a>
 <br>
 <h1><hr class="Journal2">CRUISING VEGAS - Friday, December 10, 2004<hr class="Journal2"></h1>
@@ -55,7 +55,7 @@
 <a href="index.php?action=Pics&name=Daily/20041209/DSCN0378.jpg"><img src="Pics/Daily/20041209/Small/DSCN0378.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=DailyEvents&date=20041210&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041210&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref6"></a>
 <br>
 <h1><hr class="Journal2">RECOVERY DAY IN VEGAS - Saturday, December 11, 2004<hr class="Journal2"></h1>
@@ -63,7 +63,7 @@
 <a href="index.php?action=Pics&name=Daily/20041209/DSCN0428.jpg&nocomments=1"><img src="Pics/Daily/20041209/Small/DSCN0428.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=DailyEvents&date=20041211&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041211&page=1" title="Travel Log">Read the full story</a>
 <p>
 <a id="Ref7"></a>
 <br>
@@ -75,7 +75,7 @@
 <a href="index.php?action=Pics&name=Daily/20041212/DSCN0556.jpg&nocomments=1"><img src="Pics/Daily/20041212/Small/DSCN0556.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=DailyEvents&date=20041212&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041212&page=1" title="Travel Log">Read the full story</a>
 <p>
 <hr class="Journal2">
 <center>

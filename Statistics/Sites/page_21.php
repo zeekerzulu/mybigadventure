@@ -31,7 +31,7 @@ Fishing, swimming, sailing, kayaking, camping, hiking; there are plenty of activ
 <p>
 The time has come to tour the coast.  Come with me and experience the charming character of the Southern Maine Coast.
 <p>
-<a href="index.php?action=Sites&date=20041016&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041016&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

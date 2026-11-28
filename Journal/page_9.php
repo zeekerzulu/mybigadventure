@@ -16,7 +16,7 @@ On the road once again, I head to the Chicago area for my overnight.  Upon arriv
 <p>
 5 minues go by and guess what?  I get busted by the police!  Geeze Louise!  After being interrogated by flashlight on somebody's front lawn, they let me go but kick me out of the neighborhood.  So, I spend another 30 minutes looking for another spot.  I finally settle on a parking lot in a commercial section and turn in for the night.
 <p>
-<a href="index.php?action=DailyEvents&date=20040830&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040830&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040830; include 'commentlinks.php'; ?>
 <a id="Ref2"></a>
 <br>
@@ -31,7 +31,7 @@ After a crummy night's sleep I wake to an empty parking lot in the back of a sup
 <p>
 I eventually make my way out of Illinois and set up camp in Indiana, at Indiana Dune National Park.  I'll be hanging here for a couple of days to catch-up on my travel writing.
 <p>
-<a href="index.php?action=DailyEvents&date=20040831&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040831&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040831; include 'commentlinks.php'; ?>
 <a id="Ref3"></a>
 <br>
@@ -48,7 +48,7 @@ My tour turns out to be short but sweet.  Open year round, the park comprises 25
 <p>
 After my tour I return to the campsite and continue on with my travel writing into the late evening hours.
 <p>
-<a href="index.php?action=DailyEvents&date=20040901&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040901&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040901; include 'commentlinks.php'; ?>
 <a id="Ref4"></a>
 <br>
@@ -65,7 +65,7 @@ I spend the entire day/evening travel writing.  No traveling or sightseeing toda
 <p>
 I spend the entire morning and afternoon travel writing.  Evening arrives and the little kid in me decides to pay a visit to Cedar Point Amusement Park sometime tomorrow.  The park is located in the next state over in Sandusky, OH, so I wrap things up at the campsite then hit the road.  After a bit of driving I stop and overnight at an Interstate Service Area near Sandusky.
 <p>
-<a href="index.php?action=DailyEvents&date=20040903&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040903&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040903; include 'commentlinks.php'; ?>
 <a id="Ref6"></a>
 <br>
@@ -86,7 +86,7 @@ Understandably, I'm all coastered-out by the time the park's 10pm closing arrive
 <p>
 After getting booted from the park I decide to drive all the way to Western New York.  The drive seems to go on forever and ever but I manage to reach my destination at 3am in the morning.  I park in front of my friend Dan's house and immediately go to bed.
 <p>
-<a href="index.php?action=DailyEvents&date=20040904&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040904&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040904; include 'commentlinks.php'; ?>
 <a id="Ref7"></a>
 <br>

@@ -44,7 +44,7 @@ I spent three days in the park, focusing on a variety of venues including mounta
 <p>
 The van's ready, so fasten your seatbelt.  I can't wait to show you the most scenic sections of the park.
 <p>
-<a href="index.php?action=Parks&date=20040822&page=1">Description & Pics</a>
+<a href="index.php?action=Parks&date=20040822&page=1">Read the full story</a>
 <p>
 <hr>
 <center>

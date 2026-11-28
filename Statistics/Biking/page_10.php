@@ -42,7 +42,7 @@ Well, it's best not to think about that now, especially since I'm about to do an
 <p>
 Hey!  I'm rambling...  The time has arrived to push on up the trail.  Looking for some fresh, thin air today?  If so, come on along, there'll be plenty of that plus great views once we bike up to Emerald Lake.
 <p>
-<a href="index.php?action=Biking&date=20040730&page=1">Description & Pics</a>
+<a href="index.php?action=Biking&date=20040730&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

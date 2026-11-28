@@ -40,7 +40,7 @@ Traveling north from the Rotunda will take you to the Capitol's North Wing and h
 <p>
 I'm about to get my tour ticket, do you want me to get you one too?  I think the tour should be very enlightening, I've always wanted to tour the U.S. Capitol, the seat of America's federal legislative powers.  How about you?
 <p>
-<a href="index.php?action=Sites&date=20041029.1&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041029.1&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

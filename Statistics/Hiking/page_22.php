@@ -33,7 +33,7 @@ Monday, December 20, 2004
 <a href="index.php?action=Pics&name=Daily/20041220/DSCN0.jpg"><img src="Pics/Daily/20041220/Small/DSCN0.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=Hiking&date=20041220&page=1">Description & Pics</a>
+<a href="index.php?action=Hiking&date=20041220&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

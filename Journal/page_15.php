@@ -32,7 +32,7 @@ Crossing the Ossipee River I see a historical covered bridge.  Build in 1879, th
 <p>
 After my covered bridge tour I make my way back to Bill's place.  On the way I encounter the world's longest road tattoo, followed by a large, interesting tree that causes me to form an odd theory as to how it gained its red coloration.
 <p>
-<a href="index.php?action=DailyEvents&date=20041013&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041013&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041013; include 'commentlinks.php'; ?>
 <a id="Ref4"></a>
 <br>
@@ -47,7 +47,7 @@ Another one of many days of relaxation (hey, I'm on vacation, ya know).  However
 <p>
 Near the end of the day we are paid a visit by Lukie, the neighbor's dog.  Lukie is a golden retriever who has a penchant for dog biscuits.  I record his barking then hand him a biscuit.  And, of course, he continues to bark and continues to do so after many rounds of me serving him biscuits.  Hmmm, I think I'm the trained one here, not him!
 <p>
-<a href="index.php?action=DailyEvents&date=20041014&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041014&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041014; include 'commentlinks.php'; ?>
 <a id="Ref5"></a>
 <br>
@@ -62,7 +62,7 @@ Today will be my last day hanging with Bill.  We go on a mini-hike near his prop
 <p>
 After checking into the cabin, I wait around a bit then head out to the airport.  It is good to see Monica, it's been a few years since I last saw her.  We drive back to Kennebunk, settle in for the evening, then catch-up on things.
 <p>
-<a href="index.php?action=DailyEvents&date=20041015&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041015&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041015; include 'commentlinks.php'; ?>
 <a id="Ref6"></a>
 <br>
@@ -77,7 +77,7 @@ No big agenda today, just hanging out with Monica at the beach on the Southern M
 <p>
 After grabbing lunch in Kennebunkport, ME we head a little ways up the coast, and in the process, drive by the summer home of George and Barbara Bush.  Eventually we wind up in Portland, ME where we grab some dinner.  The evening grows late and we head back to the cabin in Kennebunk where we retire for the evening.
 <p>
-<a href="index.php?action=DailyEvents&date=20041016&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041016&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041016; include 'commentlinks.php'; ?>
 <a id="Ref7"></a>
 <br>
@@ -90,7 +90,7 @@ After grabbing lunch in Kennebunkport, ME we head a little ways up the coast, an
 <p>
 We wake to a dreary morning, it looks like it may very well rain today.  Not letting that get in the way of our day, Monica and I make plans to do a bit of hiking.  Located not terribly far away, we decide to hike Pleasant Mountain.  Fortunately, the rain is held at bay, and the hike proves both easy and fun.  Filled full of heightened vistas and all the bright colors of fall, Pleasant Mountain is a good all around venue for hiking adventure.  Surprisingly, we experience sightings of Cliff Clavin (from the TV series Cheers) during our mountain trek.
 <p>
-<a href="index.php?action=DailyEvents&date=20041017&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041017&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041017; include 'commentlinks.php'; ?>
 <p>
 <hr class="Journal2">

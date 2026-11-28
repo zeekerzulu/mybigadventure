@@ -28,7 +28,7 @@ Located in Bozeman, Montana, the Museum of the Rockies was founded in 1957 as a 
 <p>
 Do you like dinosaurs, old fossils, or generally anything that's older than the hills?  Yes?  Well, you're gonna love this place.  I'm getting ready to enter the museum, come with me to experience the fun.
 <p>
-<a href="index.php?action=Museums&date=20040801&page=1">Description & Pics</a>
+<a href="index.php?action=Museums&date=20040801&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

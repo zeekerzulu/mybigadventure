@@ -14,7 +14,7 @@ Today is the first day of my cross-country adventure. I leave early in the eveni
 <p>
 Tomorrow will be a day of mountain bike riding, I'm totally stoked!
 <p>
-<a href="index.php?action=DailyEvents&date=20040708&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040708&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040708; include 'commentlinks.php'; ?>
 <a id="Ref2"></a>
 <br>
@@ -29,7 +29,7 @@ I wake to some particularly bad news, a regular trip show-stopper, but fortunate
 <p>
 After the ride I'm bushed, so I decide to stay put and van-camp for another night at Lewis River.
 <p>
-<a href="index.php?action=DailyEvents&date=20040709&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040709&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040709; include 'commentlinks.php'; ?>
 <a id="Ref3"></a>
 <br>
@@ -42,7 +42,7 @@ After the ride I'm bushed, so I decide to stay put and van-camp for another nigh
 <p>
 The sun is hiding and the day is somewhat wet and gloomy.  Good thing today is strickly a driving day.  I drive due northeast to and through Mount Rainier National Forest and manage to catch a misty glimpse of the mountain's southeastern face.  I arrive before nightfall at the campground (7 miles northwest of Cliffdell, WA) bordering Fifes Ridge Trailhead, tomorrow's mountain biking venue.  Before I call it a day, I notice a mishap with my bike rack, the second of two mishaps for the day.
 <p>
-<a href="index.php?action=DailyEvents&date=20040710&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040710&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040710; include 'commentlinks.php'; ?>
 <a id="Ref4"></a>
 <br>
@@ -61,7 +61,7 @@ After my photoshoot I complete the drive up to Seattle.  Upon arrival, I drive a
 <p>
 Tommorrow I'll tour downtown Seattle by bike.
 <p>
-<a href="index.php?action=DailyEvents&date=20040711&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040711&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040711; include 'commentlinks.php'; ?>
 <p>
 <hr class="Journal2">

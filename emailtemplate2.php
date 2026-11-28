@@ -210,7 +210,7 @@ No big agenda today, just hanging out with Monica at the beach on the Southern M
 <p>
 After grabbing lunch in Kennebunkport, ME we head a little ways up the coast, and in the process, drive by the summer home of George and Barbara Bush.  Eventually we wind up in Portland, ME where we grab some dinner.  The evening grows late and we head back to the cabin in Kennebunk where we retire for the evening.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041016&page=1 title='Travel Log'>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041016&page=1 title='Travel Log'>Read the full story</a>
 <p>
 <h1><hr class=Journal2>HIKING PLEASANT MOUNTAIN - Sunday, October 17, 2004<hr class=Journal2></h1>
 <p>
@@ -221,7 +221,7 @@ After grabbing lunch in Kennebunkport, ME we head a little ways up the coast, an
 <p>
 We wake to a dreary morning, it looks like it may very well rain today.  Not letting that get in the way of our day, Monica and I make plans to do a bit of hiking.  Located not terribly far away, we decide to hike Pleasant Mountain.  Fortunately, the rain is held at bay, and the hike proves both easy and fun.  Filled full of heightened vistas and all the bright colors of fall, Pleasant Mountain is a good all around venue for hiking adventure.  Surprisingly, we experience sightings of both Brad Pitt and Cliff Clavin (from the TV series Cheers) during our mountain trek.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041017&page=1 title='Travel Log'>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041017&page=1 title='Travel Log'>Read the full story</a>
 <p>
 <h1><hr class=Journal2>ANOTHER DAY AT THE COAST - Monday, October 18, 2004<hr class=Journal2></h1>
 <p>
@@ -232,7 +232,7 @@ We wake to a dreary morning, it looks like it may very well rain today.  Not let
 <p>
 Today is Monica's last day in Maine.  We decide to just kick around at the coast for the day.  Our travles include a drive out to Cape Neddick and York Harbor.  Along the way we run into photogenic Nubble Light in York, ME.  The day winds down and we make our way to Portland, ME where we have some fun with the seagulls, followed by a downtown waterfront dining experience on an old ship that's permanently anchored in Casco Bay.  The time finally arrives where Monica has to fly back to NYC.  After dropping her off at the airport, I park at local Wal-Mart then settle in for the evening.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041018&page=1 title='Travel Log'>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041018&page=1 title='Travel Log'>Read the full story</a>
 <p>
 <h1><hr class=Journal2>I'VE FINALLY HIT THE WALL - Tuesday, October 19, 2004<hr class=Journal2></h1>
 <p>
@@ -247,7 +247,7 @@ While mulling over my future plans, I meet up with my friend Brian who I met two
 <p>
 To add some levity to my present state of mind, I add a bit of fun to my drive by taking candid photos of cars that pass me by on the freeway.  Soon enough, evening arrives and I overnight just outside of Boston.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041019&page=1 title='Travel Log'>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041019&page=1 title='Travel Log'>Read the full story</a>
 <p>
 <h1><hr class=Journal2>A WHIRLWIND DAY IN BOSTON - Wednesday, October 20, 2004<hr class=Journal2></h1>
 <p>
@@ -266,7 +266,7 @@ When the dust finally settles, the Red Sox win the pennant and afterwards a near
 <p>
 I drive southward into the early morning and finally arrive in Wareham, MA.  I'm exhaused from my busy day of touring, so I park the van, then immediately settle in for the night.  Tomorrow I plan to tour Cape Cod.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041020&page=1 title='Travel Log'>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041020&page=1 title='Travel Log'>Read the full story</a>
 <p>
 <h1><hr class=Journal2>TOURING CAPE COD - Thursday, October 21, 2004<hr class=Journal2></h1>
 <p>
@@ -281,7 +281,7 @@ In addition to many flat and marshy landscapes, I encounter a variety of interes
 <p>
 After touring the Cape I settle into Falmouth, MA for the evening.  My walking-ways have finally caught up with me, my feet are really killing me now, they're still suffering from all the pavement-pounding touring I did yesterday in Boston, MA.  After working on the website for a little while, I call it a night and turn in.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041021&page=1 title='Travel Log'>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041021&page=1 title='Travel Log'>Read the full story</a>
 <p>
 <h1><hr class=Journal2>CHILLIN' IN CHILLY FALMOUTH, MA - Friday, October 22, 2004<hr class=Journal2></h1>
 <p>
@@ -296,7 +296,7 @@ I spend the day in the van travel writing and trying to stay warm.  Evening arri
 <p>
 Before turning in for the night, I go see the movie, Saturday Night Lights.  Tomorrow I think I may trek out to the island of Nantucket, weather permitting, of course.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041022&page=1 title='Travel Log'>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041022&page=1 title='Travel Log'>Read the full story</a>
 <p>
 </td></tr></table>
 </center></td></tr>

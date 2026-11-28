@@ -28,7 +28,7 @@ Ever see a tall hill in the distance and get a strong hankering to climb it?  He
 <p>
 The sun will soon be setting.  Hurry, come with me as I begin my ascent.
 <p>
-<a href="index.php?action=Sites&date=20040812&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20040812&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

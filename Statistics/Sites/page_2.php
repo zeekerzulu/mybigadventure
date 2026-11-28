@@ -30,7 +30,7 @@ Located in Vancouver, BC Canada, the $5.3 million dollar garden opened in 1986 f
 <p>
 Are you ready for some bonzi tree action?  Come with me as I begin my tour.
 <p>
-<a href="index.php?action=Sites&date=20040717&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20040717&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

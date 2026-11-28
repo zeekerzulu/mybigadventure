@@ -215,7 +215,7 @@ From the Visitor Center I walk many blocks to the National Monument to the Foref
 <p>
 After touring the boat, I decide to call it quits to my sightseeing day, it's cold out and I'm feeling somewhat discouraged.  Discouraged from the cold weather and from the thoughts of visiting NYC, the next planned stop of my trip.  After some thought, I decide to skip NYC and drive south for warmer weather.  After many hours of driving, I pull over in the wee hours of the morning, and overnight at a NJ Turnpike rest-stop, just north of Trenton NJ.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041023&page=1>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041023&page=1>Read the full story</a>
 <p>
 <h1><hr class=Journal2>A DAY OF DRIVING - Sunday, October 24, 2004<hr class=Journal2></h1>
 <p>
@@ -226,7 +226,7 @@ After touring the boat, I decide to call it quits to my sightseeing day, it's co
 <p>
 At a rest-stop off the NY Turnpike a tractor-trailer lends an unwelcome hand, the noise of its diesel engine rings in my ears, and quickly pulls me into the land of the conscious.  I hit the road and head south to Washington, DC.  On the way I encounter my fair share of boring interestate and costly tolls.  Sadly, the only driving highlight is my crossing of the Delaware Memorial Bridge.  I end up in Laurel, MD and overnight at a Wal-Mart.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041024&page=1>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041024&page=1>Read the full story</a>
 <p>
 <h1><hr class=Journal2>Bopping Around the National Mall - Monday, October 25, 2004<hr class=Journal2></h1>
 <p>
@@ -247,7 +247,7 @@ In back of the U.S. Capitol Building I tour the Ulysses S. Grant Memorial, follo
 <p>
 The day quickly winds down and dusk arrives, time for me to head back to the van.  I take the subway back to Maryland, hop in the van, then drive back to Laurel, MD where I settle in for the evening.  I'm feeling pretty whipped right now, I may very well take tomorrow off.  I think I need a break from my vacation.  Ha!  Now that sounds a bit odd!?!
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041025&page=1>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041025&page=1>Read the full story</a>
 <br>
 <br>
 <h1><hr class=Journal2>My Dogs are Killing Me - Tuesday, October 26, 2004<hr class=Journal2></h1>
@@ -257,7 +257,7 @@ The day quickly winds down and dusk arrives, time for me to head back to the van
 <p>
 No touring today, my feet are really bothering me, time to take care of my dogs.  After a full day of travel writing in the van, my feet and I strike a friendly compromise, and I'm allowed to I make a trip into D.C. to have dinner with Rebecca, the daughter of good friends of my parents.  Dinner was fun, I haven't seen Rebecca since she was a small child.  Ha!  So, needless to say, we had a whole lot of catching up to do!  After dinner, I take the train back to the van, they drive from College Park to Laurel, MD and soon arrive at home away from home, a Wal-Mart parking lot.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041026&page=1>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041026&page=1>Read the full story</a>
 <br>
 <br>
 <h1><hr class=Journal2>Memorials and More - Wednesday, October 27, 2004<hr class=Journal2></h1>
@@ -281,7 +281,7 @@ After getting booted out of Arlington, I head back to the van in College Park, t
 <p>
 I chill out in the van for the remainder of the evening.  After eating dinner and working on the website for a bit, I retire for the evening.  Tomorrow will be a big day for me, I'll be touring the National Air & Space Museum.  Wooo Hooo!!!
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041027&page=1>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041027&page=1>Read the full story</a>
 <br>
 <br>
 <h1><hr class=Journal2>A Day of Air & Space Wonder - Thursday, October 28, 2004<hr class=Journal2></h1>
@@ -326,7 +326,7 @@ Here's a glimpse inside the museum's goodie bag:
 </table>
 After many, many hours of touring the museum, I finally burn out near the tail-end of my visit and find myself practically dragging my weary body back to the subway station.  Back at the van in Laurel, MD, I find a good measure of entertainment by listening to all the buzz on the radio about the up-and-coming Presidential election.  Tomorrow will mark my last touring day in Washington, D.C.  In order to make the most of it, I retire early in preparation for my one last go at the Capitol.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041028&page=1>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041028&page=1>Read the full story</a>
 <br>
 <br>
 <h1><hr class=Journal2>The Grand Finale - Friday, October 29, 2004<hr class=Journal2></h1>
@@ -344,7 +344,7 @@ Next, I visit the U.S. National Archive and Records Administration where I take 
 <p>
 Bloated from four full days of touring the Capitol, I stagger my way back to the van and overnight for a fifth night in Laurel, MD.  In retrospect, it's certainly been a long haul for me, I've seen so much in the Capitol these past few days.  Honestly, I believe I could easily spend another week filling in all the blanks that are sprinkled throughout my sightseeing experience.  But, as they say, everything in moderation.  With that in mind, I plan to push south to North Carolina tomorrow.  I'll be spending a few days visiting my Uncle Donald.  I haven't seen him in years, so, I'm really looking forward to the visit.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041029&page=1>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041029&page=1>Read the full story</a>
 <p>
 </td></tr></table>
 </center></td></tr>

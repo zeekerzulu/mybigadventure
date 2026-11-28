@@ -38,7 +38,7 @@ Vancouver proved to be a very modern looking city on the drive in last night.  I
 <p>
 Sitting atop my mountain bike I can feel the energy now, coursing through my handlebars and into me.  It's as if my bicycle is acting like a large antenna and it's tuned into Vancouver's waterfront.  Well, no time to waste, come with me as I start my tour.
 <p>
-<a href="index.php?action=Biking&date=20040716&page=1">Description & Pics</a>
+<a href="index.php?action=Biking&date=20040716&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

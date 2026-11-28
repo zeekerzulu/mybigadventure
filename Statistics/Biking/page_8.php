@@ -39,7 +39,7 @@ Uh oh, I just got some bad news... I've just determined I may very well die on t
 <p>
 Ha!  I've gotten myself into a fine mess this time around.  Want to join me and watch me suffer?  Well, sure you do!  So come on, but don't follow too closely, lest I topple over onto you when attempting to ascend any of the nasty, sharp switchbacks!
 <p>
-<a href="index.php?action=Biking&date=20040726&page=1">Description & Pics</a>
+<a href="index.php?action=Biking&date=20040726&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

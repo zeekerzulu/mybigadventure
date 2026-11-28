@@ -26,7 +26,7 @@ Normally, such an event is important in the minds of many, but historical?  Well
 <p>
 The evening has arrived and the fireworks are now popping over Fenway Park, the celebrated home of the Boston Red Sox.  Although tonight's final game will be played in New York, I guarantee you there'll be one hell of a party going on down at Fenway.  I'm in the process of making my way to the park now.  Meet me there if you like, and together we can experience what may very well be a monumental event in the rich history one of America's most beloved pastimes, baseball.
 <p>
-<a href="index.php?action=Sites&date=20041020.2&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041020.2&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

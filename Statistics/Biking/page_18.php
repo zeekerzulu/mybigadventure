@@ -40,7 +40,7 @@ Today I have plans to ride a portion of Acadia's Carriage Road System.  To aid m
 <p>
 I'm all saddled up and ready to go.  Come along with me as I ride hither and yon on Acadia's Carriage Road System.
 <p>
-<a href="index.php?action=Biking&date=20041007&page=1">Description & Pics</a>
+<a href="index.php?action=Biking&date=20041007&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

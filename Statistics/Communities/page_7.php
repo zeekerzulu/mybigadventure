@@ -39,7 +39,7 @@ The inevitability of my Montplier tour becomes engraved in stone when I first ca
 <p>
 Please come tour with me but be prepared to travel back a few generations in time.  If you do decide to follow along I promise the city will lure you in with its charming ways and old-fashioned, timeless character.
 <p>
-<a href="index.php?action=Communities&date=20041004&page=1">Description & Pics</a>
+<a href="index.php?action=Communities&date=20041004&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

@@ -38,7 +38,7 @@ One of the bridges targeted for preservation was the Porter-Parsonsfield Covered
 <p>
 Closed to traffic in 1960, the bridge now parallels a modern steel and concrete bridge.  Located just a few hundred yards upstream to the west, it is from this new bridge that I'll take many of my shots.  From a distance it looks like the preservation group did a great job of whipping the bridge into tiptop shape.  Interested in bridges of antiquity?  If so, come along with me, let's walk the river span together.
 <p>
-<a href="index.php?action=Sites&date=20041013&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041013&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

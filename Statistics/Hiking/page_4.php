@@ -42,7 +42,7 @@ My hike today will take me from the lower plain, up through the formations, then
 <p>
 Are you ready to blast through multiple zones of geology with me in record time?  You are?  Great!  I'm off now, catch me if you can.
 <p>
-<a href="index.php?action=Hiking&date=20040824.2&page=1">Description & Pics</a>
+<a href="index.php?action=Hiking&date=20040824.2&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

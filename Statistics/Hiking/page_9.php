@@ -42,7 +42,7 @@ Wow!  This sounds like a pretty good hike to me.  Not only do you get a good ban
 <p>
 Come with me on the hike, I'm about ready to leave.
 <p>
-<a href="index.php?action=Hiking&date=20041107.1&page=1">Description & Pics</a>
+<a href="index.php?action=Hiking&date=20041107.1&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

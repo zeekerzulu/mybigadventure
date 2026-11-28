@@ -42,7 +42,7 @@ As luck would have it, there is just one such a gravel road, and it runs along t
 <p>
 Well, the clock is ticking and the sun is now on a downward slide.  Time to get cracking.  Do you want to bring your bad self along to checkout the Badlands with me?  Sure you do.  So, let's mount our bad selves upon our sturdy steel steeds and ride off for some new adventure.
 <p>
-<a href="index.php?action=Biking&date=20040822&page=1">Description & Pics</a>
+<a href="index.php?action=Biking&date=20040822&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

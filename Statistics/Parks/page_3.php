@@ -46,7 +46,7 @@ Glacier National Park turned out to be one of my trip's biggest highlights.  I h
 <p>
 Come join me now as I arrive at the park in preparation for my up-and-coming biking adventure.
 <p>
-<a href="index.php?action=Parks&date=20040728&page=1">Description & Pics</a>
+<a href="index.php?action=Parks&date=20040728&page=1">Read the full story</a>
 <p>
 <hr>
 <center>

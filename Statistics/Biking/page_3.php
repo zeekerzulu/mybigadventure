@@ -40,7 +40,7 @@ Seattle is a pretty large city and has a heathly metropolitain feel to it.  Howe
 <p>
 Well, I'm ready to paint the town by bike.  Come along with me for some city biking adventure.
 <p>
-<a href="index.php?action=Biking&date=20040712&page=1">Description & Pics</a>
+<a href="index.php?action=Biking&date=20040712&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

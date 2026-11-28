@@ -32,7 +32,7 @@ include 'renderheading.php';
 <p>
 I really don't have a firm grasp on what this attraction is all about.  From the literature I've read it seems to be an odd collection of just about everything.  Curious?  I know I am.  So, come on, let's check it out together.
 <p>
-<a href="index.php?action=Sites&date=20040830.2&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20040830.2&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

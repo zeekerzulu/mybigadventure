@@ -37,7 +37,7 @@ A good portion of the museum is dedicated to information pertaining to <a href="
 <p>
 Are you interesting in learning more about UFOs?  I know I am.  Come with me now as I make my way to the museum's entrance.
 <p>
-<a href="index.php?action=Museums&date=20041117&page=1">Description & Pics</a>
+<a href="index.php?action=Museums&date=20041117&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

@@ -37,7 +37,7 @@ The day is proving to be a real scorcher.  I'll need to bring along both water b
 <p>
 Hey, I've just thrown on my water pack and I've nosed my bike wheel onto the trail.  Come on, let's go have ourselves some mountain biking fun!
 <p>
-<a href="index.php?action=Biking&date=20040711&page=1">Description & Pics</a>
+<a href="index.php?action=Biking&date=20040711&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

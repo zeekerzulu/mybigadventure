@@ -39,7 +39,7 @@ The lighthouse is located on a small rocky island that is accessable via boat, g
 <p>
 Come with me and <a href="index.php?action=Stats&stat=Friends&date=20041015&page=14">Monica</a> as we check out what the lighthouse has to offer.
 <p>
-<a href="index.php?action=Sites&date=20041018&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041018&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

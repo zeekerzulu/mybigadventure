@@ -42,7 +42,7 @@ National Archives Building is the original headquarters of the NARA.  Of the man
 <p>
 Are you interested in checking out some of America's most important and treasured documents?  Yes?  Well before we go in I have to warn you, the use of flash cameras is strictly prohibited because the documents are sensitive to light.  So, set your camera appropriately, and let's get touring.
 <p>
-<a href="index.php?action=Sites&date=20041029.3&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041029.3&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

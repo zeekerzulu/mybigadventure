@@ -43,7 +43,7 @@ I've been spending time at the lakeshore playing catch-up on my travel writing. 
 <p>
 Not wanting to be all work and no play, I've decided to take a little break this afternoon for a little exploring. Kick off your shoes and join me for a little lakeshore beach tour.
 <p>
-<a href="index.php?action=Parks&date=20040901&page=1">Description & Pics</a>
+<a href="index.php?action=Parks&date=20040901&page=1">Read the full story</a>
 <p>
 <hr>
 <center>

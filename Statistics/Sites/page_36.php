@@ -36,7 +36,7 @@ Unfortunately, Beale Street's success petered out in the 1960's when the area be
 <p>
 Wow!  What an interesting place this Beale Street is.  Are you interested in the blues?  Want to visit Tennessee's hottest entertainment hotspot?  I've just pulled onto the street and have parked the van.  Come with me as I check out this very cool place.
 <p>
-<a href="index.php?action=Sites&date=20041110.2&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041110.2&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

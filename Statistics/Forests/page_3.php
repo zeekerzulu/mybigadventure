@@ -31,7 +31,7 @@ My visit to the park took place on the saddle of my road bike.  The day was a gl
 <p>
 I'm all saddled up for my ride and I've got an extra bike for you!  So come on, jump on and let's ride!
 <p>
-<a href="index.php?action=DailyEvents&date=20040815&page=1">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040815&page=1">Read the full story</a>
 <p>
 <hr>
 <p>
@@ -64,7 +64,7 @@ I spent three days in the park, focusing on a variety of venues including mounta
 <p>
 Join me now on my van tour of the most scenic section of the park.
 <p>
-<a href="index.php?action=DailyEvents&date=20040823&page=1">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040823&page=1">Read the full story</a>
 <p>
 <hr>
 <p>

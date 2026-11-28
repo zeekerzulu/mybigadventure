@@ -46,7 +46,7 @@ I don't plan to spend much time in the park, I'm just passing through actually. 
 <p>
 Come along with me as I start my hike to the photoshoot location.
 <p>
-<a href="index.php?action=Parks&date=20040711&page=1">Description & Pics</a>
+<a href="index.php?action=Parks&date=20040711&page=1">Read the full story</a>
 <p>
 <hr>
 <center>

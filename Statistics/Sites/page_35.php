@@ -42,7 +42,7 @@ Finally, in 1969, he emerged from his movie making ways and switched back to per
 <p>
 Wow!  Elvis had quite an interesting life.  I'm looking forward to learning more about this amazing man.  Come with me, the tour is about to begin.
 <p>
-<a href="index.php?action=Sites&date=20041110.1&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041110.1&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

@@ -10,7 +10,7 @@
 <p>
 Another day of travel writing in Jackson.  I escape from its grip, if only for a little while, to watch a fun and action-packed street performance that takes place at town center.
 <p>
-<a href="index.php?action=DailyEvents&date=20040809&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040809&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040809; include 'commentlinks.php'; ?>
 <a id="Ref2"></a>
 <br>
@@ -39,7 +39,7 @@ I patiently wait as evening approaches.  With less that an hour to go before sun
 <p>
 After the sunset, I stumble my way back down the hill in the dark, praying I won't fall or turn an ankle.  I make it back to the van in one piece, drive back to Jackson, settle into a street camping spot, wash up from the hike, then retire for the evening.
 <p>
-<a href="index.php?action=DailyEvents&date=20040812&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040812&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040812; include 'commentlinks.php'; ?>
 <a id="Ref5"></a>
 <br>
@@ -62,7 +62,7 @@ Interestingly enough, Lindsay is heading to the same trailhead to do some mounta
 <p>
 After the ride, Lindsay kindly invites me to have dinner with her.  I round out the evening at a multi-million dollar estate with views of the Tetons, all from the livingroom window.
 <p>
-<a href="index.php?action=DailyEvents&date=20040814&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040814&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040814; include 'commentlinks.php'; ?>
 <a id="Ref7"></a>
 <br>
@@ -81,7 +81,7 @@ Upon completion of my bike ride, I jump in the van and head to Cody, Wyoming.  G
 <p>
 1:30am rolls around and I finally reach Cody, Wyoming.  I immediately park the van, jump into bed, and quickly drift off into deep sleep.
 <p>
-<a href="index.php?action=DailyEvents&date=20040815&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040815&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040815; include 'commentlinks.php'; ?>
 <p>
 <hr class="Journal2">

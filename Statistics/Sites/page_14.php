@@ -32,7 +32,7 @@ Completed in 1935, access is provided by the Whiteface Veterans Memorial Highway
 <p>
 Do you like views from lofty places?  How about breathing in fresh, clean, cool air?  Well, I've got the place for you, Whiteface Mountain.  I'm driving up to the mountain top now, jump in the van and let's go.
 <p>
-<a href="index.php?action=Sites&date=20040927&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20040927&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

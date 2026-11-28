@@ -32,7 +32,7 @@ Measuring 35 feet wide by 125 feet long, San Francisco de Asis possesses few win
 <p>
 I've just arrived at the church property.  Come with me for a glimpse at a good example of Spanish architecture.  And if we're really lucky and our timing is just right, perhaps a mass is now in full swing.
 <p>
-<a href="index.php?action=Sites&date=20041118&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041118&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

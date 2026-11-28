@@ -46,7 +46,7 @@ While I visit the park I plan to hike up Cadillac Mountain, road bike the Park L
 <p>
 So, hop in the van, I'm just about to enter Acadia National Park.
 <p>
-<a href="index.php?action=Parks&date=20041005&page=1">Description & Pics</a>
+<a href="index.php?action=Parks&date=20041005&page=1">Read the full story</a>
 <p>
 <hr>
 <center>

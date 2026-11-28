@@ -7,7 +7,7 @@
 <p>
 Not much going on today.  Spent the day visiting with Uncle Donald in the morning and in the evening after he returned from his office.  In the middle of it all, I just work on the website and polished off a bit of travel writing.
 <p>
-<a href="index.php?action=DailyEvents&date=20041101&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041101&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041101; include 'commentlinks.php'; ?>
 <a id="Ref2"></a>
 <br>
@@ -17,7 +17,7 @@ Not much going on today.  Spent the day visiting with Uncle Donald in the mornin
 <p>
 Another day of rest and relaxation.  Just the usual; visiting with Uncle Don, travel writing, breathing, eating.  In the evening I have a near encounter with the cops while pilfering an Internet connection on a quiet residential street in High Point, NC.  Oh, what fun!
 <p>
-<a href="index.php?action=DailyEvents&date=20041102&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041102&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041102; include 'commentlinks.php'; ?>
 <a id="Ref3"></a>
 <br>
@@ -30,7 +30,7 @@ Another day of rest and relaxation.  Just the usual; visiting with Uncle Don, tr
 <p>
 In addition to hanging with good ole Uncle Don, I spend a little time caring for my travel weary bicycles.  Upon inspection, I see loads of rust on my mountain bike and a bend front rim on my road bike.  A bend rim?!?  How did that happen?  I make a trip to a local bike shop where I buy a $40 used replacement rim as well as supplies for my mountain bike.  Ha!  Considering what I've put the bikes through so far on my trip, I think I'm getting off easy.
 <p>
-<a href="index.php?action=DailyEvents&date=20041103&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041103&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041103; include 'commentlinks.php'; ?>
 <a id="Ref4"></a>
 <br>
@@ -43,7 +43,7 @@ In addition to hanging with good ole Uncle Don, I spend a little time caring for
 <p>
 After saying goodbye to Uncle Donald, I hop in the van and head due west.  Today I have plans to drive to Kentucky, home of Mammoth Cave National Park, where I've reserved a ticket for a 4-hour cave tour.  Even though the tour isn't until Saturday, I feel the need to push on and restart my road traveling ways.  The drive is long and wet, but uneventful.  After taking a nap for about 3 hours at a rest area along the way, I find new energy that propels me to Glasgow, KY where I park and spend the night.
 <p>
-<a href="index.php?action=DailyEvents&date=20041104&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041104&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041104; include 'commentlinks.php'; ?>
 <a id="Ref5"></a>
 <br>
@@ -56,7 +56,7 @@ After saying goodbye to Uncle Donald, I hop in the van and head due west.  Today
 <p>
 Waiting for tomorrow's tour of Mammoth Cave National Park, I spend part of the day performing maintenance on my bikes.  First I attend to the mountain bike.  I replace the worn rear tire then change out the front brakes.  After finishing up, I have the fortune of witnessing antiquity in action.  A Quaker in a horse and buggy parks his rig tight next to my van.  How fun!  After the little show, I attend to my road bike, swapping the damaged front rim with a used replacement.  After my bicycle maintenance fun, the evening winds down and I find myself travel writing.
 <p>
-<a href="index.php?action=DailyEvents&date=20041105&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041105&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041105; include 'commentlinks.php'; ?>
 <a id="Ref6"></a>
 <br>
@@ -77,7 +77,7 @@ After lunch we launch into the remaining 3 miles of the cave tour.  In the proce
 <p>
 After saying goodbye to Ernesta, I hop in the van and drive south into Tennessee.  After an evening of driving, I find a place to overnight in Pigeon Forge, TN.  Tomorrow I have plans to tour the Great Smoky Mountains which are located just a stone's throw away from where I'm currently staying.
 <p>
-<a href="index.php?action=DailyEvents&date=20041106&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041106&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041106; include 'commentlinks.php'; ?>
 <a id="Ref7"></a>
 <br>
@@ -98,7 +98,7 @@ Evening finally sets in and I stick around to capture the sunset.  The wait prov
 <p>
 After the sun goes down I drive back to Pigeon Forge, TN and van camp for a second night.
 <p>
-<a href="index.php?action=DailyEvents&date=20041107&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041107&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041107; include 'commentlinks.php'; ?>
 <p>
 <hr class="Journal2">

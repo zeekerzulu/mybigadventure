@@ -32,7 +32,7 @@ The brewery outlived Prohibition by making malted milk (most of it sold to the M
 <p>
 Thirsty?  Me too.  The shuttle bus is pulling up, come along for a look at how a few million gallons of beer get made.
 <p>
-<a href="index.php?action=Sites&date=20041122&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041122&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

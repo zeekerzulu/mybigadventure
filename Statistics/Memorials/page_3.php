@@ -44,7 +44,7 @@ After a slew of hearings, red tape, yadda, yadda, yadda, construction finally be
 <p>
 Wow!  This memorial sounds quite impressive.  Just on size alone makes it worth a visit.  Are you interested in seeing the memorial with me?  If so, let get touring.
 <p>
-<a href="index.php?action=Memorials&date=20041027.1&page=1">Description & Pics</a>
+<a href="index.php?action=Memorials&date=20041027.1&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

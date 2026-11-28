@@ -23,7 +23,7 @@ My driving grows weary as the day surrenders to evening.  By nightfall I decide 
 <p>
 I settle in for the evening and work on the website for a few hours before going to bed.
 <p>
-<a href="index.php?action=DailyEvents&date=20040921&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040921&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040921; include 'commentlinks.php'; ?>
 <a id="Ref3"></a>
 <br>
@@ -44,7 +44,7 @@ Getting a late start on my bike ride, I rush through a 60 mile ride, racing the 
 <p>
 I manage to beat the setting sun and reach the van before nightfall.  I then drive to Willington Notch Public Campgrounds and settle in for the evening.  After a taking a shower and eating dinner, I do some travel writing before calling it a night.
 <p>
-<a href="index.php?action=DailyEvents&date=20040922&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040922&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040922; include 'commentlinks.php'; ?>
 <a id="Ref4"></a>
 <br>
@@ -65,7 +65,7 @@ It proves to be a long 7 miles back to the van indeed.  My hiking is labored and
 <p>
 Today proves to a tough day for me.  My body is all worn and broken, and all I can think about is showering, eating, and sleeping.  I pile myself into the van, then make my way back to the campsite where I retire for the evening.
 <p>
-<a href="index.php?action=DailyEvents&date=20040923&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040923&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040923; include 'commentlinks.php'; ?>
 <a id="Ref5"></a>
 <br>
@@ -82,7 +82,7 @@ My tour of Lake Placid is pleasant but short.  After all, Lake Placid is a rathe
 <p>
 After my tour I grab some dinner in town then hit up a brew pub.  While drinking beer, I work on my travel writing then make plans for tomorrow's activities.  At 11pm I drive back to my campsite and hit the hay.  My knee is actually feeling much better now.  Seems like I should be healed up enough to do more bike riding tomorrow.
 <p>
-<a href="index.php?action=DailyEvents&date=20040924&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040924&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040924; include 'commentlinks.php'; ?>
 <a id="Ref6"></a>
 <br>
@@ -101,7 +101,7 @@ During my 4 runs down the grassy ski slopes, I manage to make a lot of personal 
 <p>
 Near the end of my last run I experience a rather nasty spill, resulting in some bloody scrapes and a couple of large bruises.  Oh, the fun of mountain biking.  After completing my last run, I jump in the van and drive to Lake Placid for some dinner, then head back to my campsite to work on the website.
 <p>
-<a href="index.php?action=DailyEvents&date=20040925&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040925&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040925; include 'commentlinks.php'; ?>
 <a id="Ref7"></a>
 <br>
@@ -124,7 +124,7 @@ Moving along, I return back to the van then head to my last Winter Olympic site,
 <p>
 The day winds down and I drive back to my campsite to chill for a bit.  I work on my travel writing into the late evening hours then retire for the night.
 <p>
-<a href="index.php?action=DailyEvents&date=20040926&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040926&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040926; include 'commentlinks.php'; ?>
 <p>
 <hr class="Journal2">

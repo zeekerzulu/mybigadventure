@@ -42,7 +42,7 @@ Did you know that Cape Cod is technically an island?  Yes, it's true, a manmade 
 <p>
 I'm within eyeshot of Cape Cod Canal right now.  I can see the mouth of the canal as it feeds into Buzzards Bay.  Come with me as I explore the 65-mile length of Cape Cod's peninsula.
 <p>
-<a href="index.php?action=Sites&date=20041021&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041021&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

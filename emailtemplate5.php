@@ -213,7 +213,7 @@ Lolling around in the van all morning and afternoon, I attempt to recover from t
 <p>
 My drive south proves to be very long but uneventful.  Just before midnight, I arrive and park the van in my Uncle's driveway.  Not wanting to wake him, I stay put in the van and retire for the evening.  My near term plans are to chill for a few days and just hangout with my good ole Uncle.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041030&page=1>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041030&page=1>Read the full story</a>
 <p>
 <h1><hr class=Journal2>Day of Rest - Sunday, October 31, 2004<hr class=Journal2></h1>
 <p><img src=http://www.mybigadventure.com/Pics/Daily/20041031/Small/DSCN0002.jpg>
@@ -225,7 +225,7 @@ Happy Halloween!
 <p>
 I spend the entire day visiting with my Uncle Donald.  A commercial photographer by trade, in the afternoon we go to his in office where he first photoshops my trip's favorite image, then prints it out for me.  In the process, he tells me a little about his business, photography, etc.  Fascinating stuff!  During my trip, I've learned a little about the craft, if nothing more than having taken thousands of digital photos up to this point.  Uncle Don is definitely a seasoned pro, I learn much from his sage instruction.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041031&page=1>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041031&page=1>Read the full story</a>
 <p>
 <h1><hr class=Journal2>Day of Rest - Monday, November 1, 2004<hr class=Journal2></h1>
 <p>
@@ -233,7 +233,7 @@ I spend the entire day visiting with my Uncle Donald.  A commercial photographer
 <p>
 Not much going on today.  Spent the day visiting with Uncle Donald in the morning and in the evening after he returned from the office.  In the middle of it all, I just work on the website and polished off a bit of travel writing.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041101&page=1>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041101&page=1>Read the full story</a>
 <p>
 <h1><hr class=Journal2>Day of Rest - Tuesday, November 2, 2004<hr class=Journal2></h1>
 <p>
@@ -241,7 +241,7 @@ Not much going on today.  Spent the day visiting with Uncle Donald in the mornin
 <p>
 Another day of rest and relaxation.  Just the usual; visiting with Uncle Don, travel writing, breathing, eating.  In the evening I have a near encounter with the cops while pilfering an Internet connection on a quiet residential street in High Point, NC!  Oh, what fun!
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041102&page=1>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041102&page=1>Read the full story</a>
 <p>
 <h1><hr class=Journal2>Day of Rest - Wednesday, October 3, 2004<hr class=Journal2></h1>
 <p>
@@ -252,7 +252,7 @@ Another day of rest and relaxation.  Just the usual; visiting with Uncle Don, tr
 <p>
 In addition to hanging with good ole Uncle Don, I spend a little time caring for my travel weary bicycles.  Upon inspection, I see loads of rust on my mountain bike and a bend front rim on my road bike.  A bend rim?!?  How did that happen?  I make a trip to a local bike shop where I buy a $40 used replacement rim as well as supplies for my mountain bike.  Ha!  Considering what I've put the bikes through so far on my trip, I think I'm getting off easy!
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041103&page=1>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041103&page=1>Read the full story</a>
 <p>
 <h1><hr class=Journal2>Road Trip to Kentucky - Thursday, November 4, 2004<hr class=Journal2></h1>
 <p>
@@ -263,7 +263,7 @@ In addition to hanging with good ole Uncle Don, I spend a little time caring for
 <p>
 After saying goodbye to Uncle Donald, I hop in the van and head due west.  Today I have plans to drive to Kentucky, home of Mammoth Cave National Park, where I've reserved a ticket for a 4-hour cave tour.  Even though the tour isn't until Saturday, I feel the need to push on and restart my road traveling ways.  The drive is long and wet, but uneventful.  After taking a nap for about 3 hours at a rest area along the way, I find new energy that propels me to Glasgow, KY where I park and spend the night.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041104&page=1>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041104&page=1>Read the full story</a>
 <p>
 <h1><hr class=Journal2>Chillin in Glasgow, KY - Friday, November 5, 2004<hr class=Journal2></h1>
 <p>
@@ -274,7 +274,7 @@ After saying goodbye to Uncle Donald, I hop in the van and head due west.  Today
 <p>
 Waiting for tomorrow's tour of Mammoth Cave National Park, I spend part of the day performing maintenance on my bikes.  First I attend to the mountain bike.  I replace the worn rear tire then change out the front brakes.  After finishing up, I have the fortune of witnessing antiquity in action.  A Quaker in a horse and buggy parks his rig tight next to my van.  How fun!  After the little show, I attend to my road bike, swapping the damaged front rim with a used replacement.  After my bicycle maintenance fun, the evening winds down and I find myself travel writing.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041105&page=1>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041105&page=1>Read the full story</a>
 <p>
 <h1><hr class=Journal2>Touring Mammoth Cave - Saturday, November 6, 2004<hr class=Journal2></h1>
 <p>
@@ -293,7 +293,7 @@ After lunch we launch into the remaining 3 miles of the cave tour.  In the proce
 <p>
 After saying goodbye to Ernesta, I hop in the van and drive south into Tennessee.  After an evening of driving, I find a place to overnight in Pigeon Forge, TN.  Tomorrow I have plans to tour the Great Smoky Mountains which are located just a stone's throw away from where I'm currently staying.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041106&page=1>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041106&page=1>Read the full story</a>
 <p>
 <h1><hr class=Journal2>Adventure in the Smokies - Sunday, November 7, 2004<hr class=Journal2></h1>
 <p>
@@ -312,7 +312,7 @@ Evening finally sets in and I stick around to capture the sunset.  The wait prov
 <p>
 After the sun goes down I drive back to Pigeon Forge, TN and van camp for a second night.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041107&page=1>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041107&page=1>Read the full story</a>
 <p>
 <h1><hr class=Journal2>Roosting in Pigeon Forge, TN - Monday, November 8, 2004<hr class=Journal2></h1>
 <p>
@@ -323,7 +323,7 @@ After the sun goes down I drive back to Pigeon Forge, TN and van camp for a seco
 <p>
 Today is pretty much a down day for me.  I spend the morning and afternoon chillin' in Pigeon Forge, TN where I while away my time travel writing in the van.  Growing bored, to break up the monotony I entertain myself with the van's heater.  Evening arrives and I get a warning by the cops, I'm told I cannot overnight at the Wal-Mart parking lot.  Rats!  When nightfall arrives, I head due west in search of new overnight digs.  Soon I find a new van camping spot in Rockville, TN where I settle in for the evening and retire for the night.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041108&page=1>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041108&page=1>Read the full story</a>
 <p>
 <h1><hr class=Journal2>Tennessee Tour - Tuesday, November 9, 2004<hr class=Journal2></h1>
 <p>
@@ -338,7 +338,7 @@ My drive turns out to be many things.  When covering over 350 miles in one shot,
 <p>
 During my travels, aside from searching for common themes and elements within the Tennessee countryside, I happen upon a scenic overlook that has been severly defaced with graffiti.  I pull in and spend a little time there, where I theorize about the culprits who perpetrated the act, as well as enjoy the nice, scenic view.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041109&page=1>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041109&page=1>Read the full story</a>
 </td></tr></table>
 </center></td></tr>
 <tr><td>

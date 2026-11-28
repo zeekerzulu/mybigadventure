@@ -36,7 +36,7 @@ The museum closes at five, and the sun was setting when I pulled in, so this vis
 <p>
 Come with me up the hill for a look around, and a story about why there's concrete on the grave.
 <p>
-<a href="index.php?action=Museums&date=20041122&page=1">Description & Pics</a>
+<a href="index.php?action=Museums&date=20041122&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

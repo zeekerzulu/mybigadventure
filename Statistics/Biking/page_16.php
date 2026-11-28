@@ -46,7 +46,7 @@ Upon buying my lift ticket to the gondola that'll whisk my bike and me up the mo
 <p>
 I'm getting ready to load my bike into the gondola.  Are you interested in trying your own hand at some extreme mountain biking?  Sure you are. So hop in and let's get biking.
 <p>
-<a href="index.php?action=Biking&date=20040925&page=1">Description & Pics</a>
+<a href="index.php?action=Biking&date=20040925&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

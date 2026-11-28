@@ -30,7 +30,7 @@ Carr Valley Cheese is owned and operated by the Cook Family. Sid Cook, a 4th gen
 <p>
 As I arrive at cheese factory I can smell cheese in the air.  Can you smell it too?  Do you like cheese?  If so, come with me.
 <p>
-<a href="index.php?action=Sites&date=20040830.1&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20040830.1&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

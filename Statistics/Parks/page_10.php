@@ -52,7 +52,7 @@ I've just arrived at the park's entrance.  Hey!  Are you interested in exploring
 <p>
 Oh, come on, you'd have to be dead not to want to see all this.
 <p>
-<a href="index.php?action=Parks&date=20041106&page=1">Description & Pics</a>
+<a href="index.php?action=Parks&date=20041106&page=1">Read the full story</a>
 <p>
 <hr>
 <center>

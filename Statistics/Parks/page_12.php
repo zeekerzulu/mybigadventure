@@ -48,7 +48,7 @@ Due to their innate beauty and antiquity, the caverns are a popular tourist dest
 <p>
 Hey, I'm about to enter the park now, come along with me as I make haste to investigate both its above and below ground offerings.
 <p>
-<a href="index.php?action=Parks&date=20041116&page=1">Description & Pics</a>
+<a href="index.php?action=Parks&date=20041116&page=1">Read the full story</a>
 <p>
 <hr>
 <center>

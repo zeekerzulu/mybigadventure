@@ -30,7 +30,7 @@ The word on this dusty, tumbleweed street is someone's a fixin' to rob the local
 <p>
 I can hear gunfire in the distance, something is going down on up ahead!  Grab your guns and lets get going, we got us some stagecoach robbers to catch!
 <p>
-<a href="index.php?action=Sites&date=20040809&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20040809&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

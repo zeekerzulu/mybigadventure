@@ -30,7 +30,7 @@ Located off I-90 near Chestnut, MT, the privately funded $3 million dollar grizz
 <p>
 I've just spyed the entrance sign to the attraction from the road.  After I park the van, come with me and learn more about this wonderful creature.
 <p>
-<a href="index.php?action=Sites&date=20040804&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20040804&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

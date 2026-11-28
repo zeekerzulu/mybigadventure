@@ -44,7 +44,7 @@ I more or less stumble upon this national park beauty.  While passing through on
 <p>
 Come on, jump in the van and accompany me as I drive through this spectacular national park.
 <p>
-<a href="index.php?action=Parks&date=20040719&page=1">Description & Pics</a>
+<a href="index.php?action=Parks&date=20040719&page=1">Read the full story</a>
 <p>
 <hr>
 <center>

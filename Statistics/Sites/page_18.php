@@ -29,7 +29,7 @@ The top of Cadillac Mountain holds the US eastern seaboard's high elevation priz
 Hey, the lightshow is about to begin.  Drag yourself out of bed and accompany me for this once in a lifetime event.
 <p>
 <p>
-<a href="index.php?action=Sites&date=20041008.1&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041008.1&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

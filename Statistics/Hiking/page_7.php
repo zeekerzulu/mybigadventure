@@ -48,7 +48,7 @@ Mount Chocorua.  I like how that rolls off the tongue, Chocorua.  Sounds kinda e
 <p>
 Has your interest been sufficiently piqued?  Do you want to learn more about the legend while hiking with me and my friend <a href="index.php?action=Stats&stat=Friends&date=20041008&page=13">Bill</a>?  If so, come on along, our hike is about to begin.
 <p>
-<a href="index.php?action=Hiking&date=20041009&page=1">Description & Pics</a>
+<a href="index.php?action=Hiking&date=20041009&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

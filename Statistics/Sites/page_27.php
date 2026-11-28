@@ -38,7 +38,7 @@ On board the ship you'll find "role players" who are not only dressed in the per
 <p>
 Harrr Matie!  Are you ready to learn more about The Mayflower II as well as a little history on the original Mayflower?  Yes?  Well shiver me timbers, let's get this ship tour started.
 <p>
-<a href="index.php?action=Sites&date=20041023.2&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041023.2&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

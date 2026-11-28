@@ -40,7 +40,7 @@ After some reflection, the length of today's hike is more worrisome than its hei
 <p>
 Well, I've arrived at the hiking trailhead.  Listen... hear that?  The trail and its colorful fall foliage beckons us.  So, come on, let's get started on this long distance hiking adventure.
 <p>
-<a href="index.php?action=Hiking&date=20040923&page=1">Description & Pics</a>
+<a href="index.php?action=Hiking&date=20040923&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

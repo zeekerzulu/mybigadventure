@@ -42,7 +42,7 @@ Make no bones about it, my hike of Sepulcher Mountain is going to be a tough one
 <p>
 I see my daylight is burning quickly, there's no time to waste, no room for haste.  I've got plans for another hike today as well as a tour of Yellowstone's Canyon Area.  So let's get this hiking party started.  Come along with me, but stick close, because the bears will be watching and waiting.
 <p>
-<a href="index.php?action=Hiking&date=20040807.1&page=1">Description & Pics</a>
+<a href="index.php?action=Hiking&date=20040807.1&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

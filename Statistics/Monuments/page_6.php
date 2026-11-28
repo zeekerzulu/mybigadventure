@@ -40,7 +40,7 @@ For a variety of reasons, the monument was whittled down a bit in both scale and
 <p>
 The monument is closed today, so all I can do is take pictures of it at a distance.  No worries though, my tour of the monument will go on uninterrupted, I'll just have to talk more about its storied history.  Are you ready to learn more about this tall pointy structure?  Yes?  Well, come with me.
 <p>
-<a href="index.php?action=Monuments&date=20041027&page=1">Description & Pics</a>
+<a href="index.php?action=Monuments&date=20041027&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

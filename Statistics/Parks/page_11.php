@@ -48,7 +48,7 @@ The Cherokee Indians lived in the Smokies and considered them an integral part o
 <p>
 My visit to the park will be a short but sweet one.  I have plans to drive up to Clingmans Dome to do a bit of hiking.  On the way, I'm sure I'll get an eye full of beautiful scenery and heightened views.  Come with me now as I enter into Great Smoky Mountains National Park.  Visited by over 9 million people a year, that tells me there's got to be something for everyone here.  And that includes you!
 <p>
-<a href="index.php?action=Parks&date=20041107&page=1">Description & Pics</a>
+<a href="index.php?action=Parks&date=20041107&page=1">Read the full story</a>
 <p>
 <hr>
 <center>

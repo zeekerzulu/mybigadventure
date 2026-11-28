@@ -16,7 +16,7 @@ My destination today is Spokane, Washington, to visit my friend Gil.  The drive 
 <p>
 Evening soon sets in but I still have a long way to go.  The big 400+ mile push in earnest to Spokane is taking its toll on me.  Luckily, I avoid falling asleep at the wheel, and finally reach Spokane around 1:30am in the morning.  I park the van in Gil's driveway then hit the hay.
 <p>
-<a href="index.php?action=DailyEvents&date=20040719&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040719&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040719; include 'commentlinks.php'; ?>
 <a id="Ref2"></a>
 <br>
@@ -26,7 +26,7 @@ Evening soon sets in but I still have a long way to go.  The big 400+ mile push 
 <p>
 Today is a day of rest for me, no traveling, no sightseeing.  I spend part of the day kicking around with Gil, then spend the balance working on the website.
 <p>
-<a href="index.php?action=DailyEvents&date=20040720&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040720&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040720; include 'commentlinks.php'; ?>
 <a id="Ref3"></a>
 <br>
@@ -45,7 +45,7 @@ During the ride I have an unfortunate mishap, I meet a group of 4 guys biking lo
 <p>
 Once back in Spokane, I spend the rest of day/evening visiting with my friend Gil.
 <p>
-<a href="index.php?action=DailyEvents&date=20040721&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040721&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040721; include 'commentlinks.php'; ?>
 <a id="Ref4"></a>
 <br>
@@ -82,7 +82,7 @@ I settle into the park for a while, taking in dinner then jumping in the lake to
 <p>
 The evening brings on my first encounter with bugs, the biting kind.  Without screening to keep out the little critters, my unwelcome, bloodsucking guests congregate and conspire without my knowledge, gathering above my head underneath the van's headliner.  Fortunately, vigorous swatting with a newspaper quickly takes them all out in short order.  After my murderous rampage, I plan tomorrow's mountain bike ride then turn in for the night.
 <p>
-<a href="index.php?action=DailyEvents&date=20040725&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040725&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040725; include 'commentlinks.php'; ?>
 <p>
 <hr class="Journal2">

@@ -40,7 +40,7 @@ include 'renderheading.php';
 <p>
 Well, the entrance sign for Mount Rushmore is just up ahead.  Hop in the van and let's check out this grand memorial together.  I guarentee it'll be an experience you'll never forget.
 <p>
-<a href="index.php?action=Memorials&date=20040821&page=1">Description & Pics</a>
+<a href="index.php?action=Memorials&date=20040821&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

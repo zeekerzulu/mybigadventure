@@ -101,7 +101,7 @@ Wednesday, September 21, 2005 @ 07:35 PM (NZ Time)- Day 11-13 in AUS updated<br>
 <p>
 The particular route was picked for a couple of reasons.  First I wanted to experience a little bit of Asia. Having always wanted to go, I found two of the most interesting places to be Hong Kong and Bangkok.  Not only that but Hong Kong was one of the world's best economic centers and rich with diversity...  
 <p>
-<a href="index.php?action=AdventureLog&area=EntireTrip&page=1">Description & Pics</a>
+<a href="index.php?action=AdventureLog&area=EntireTrip&page=1">Read the full story</a>
 </td></tr>
 <tr><td colspan="2"><hr></td></tr>
 <tr valign="top"><td>
@@ -123,7 +123,7 @@ Formerly a Crown Colony on the coast of southern China in Guangdong province, Ho
 <u>Day Four</u><br>
 <li>New World First Ferry Services Ltd to Lantau Island to visit the Po Lin Monastery and Big Buddha.<br>
 <p>
-<a href="index.php?action=AdventureLog&area=HongKong&page=1">Description & Pics</a>
+<a href="index.php?action=AdventureLog&area=HongKong&page=1">Read the full story</a>
 </td></tr>
 <tr><td colspan="2"><hr></td></tr>
 <tr valign="top"><td>
@@ -151,7 +151,7 @@ The capital and largest city and chief port of Thailand, Bangkok is a leading ci
 <li>Flower Market<br>
 <p>
 
-<a href="index.php?action=AdventureLog&area=Thailand&page=1">Description & Pics</a>
+<a href="index.php?action=AdventureLog&area=Thailand&page=1">Read the full story</a>
 </td></tr>
 <tr><td colspan="2"><hr></td></tr>
 <tr valign="top"><td>
@@ -236,7 +236,7 @@ Known as the smallest continent between the South Pacific and the Indian Ocean, 
 <u>Bonus if we have extra time:</u><br>
 <li>Day Trip to Dandenong Ranges<br>
 <p>
-<a href="index.php?action=AdventureLog&area=Australia&page=1">Description & Pics</a>
+<a href="index.php?action=AdventureLog&area=Australia&page=1">Read the full story</a>
 </td></tr>
 <tr><td colspan="2"><hr></td></tr>
 <tr valign="top"><td>
@@ -288,7 +288,7 @@ Known for it's breaktaking scenery and sheep, New Zealand was once part of the B
 <u>Day Thirteen - Auckland</u><br>
 <li>Pirongia Forest Park<br>
 <p>
-<a href="index.php?action=AdventureLog&area=NewZealand&page=1">Description & Pics</a>
+<a href="index.php?action=AdventureLog&area=NewZealand&page=1">Read the full story</a>
 </td></tr>
 <tr><td colspan="2"><hr></td></tr>
 <tr valign="top"><td>
@@ -298,7 +298,7 @@ Known for it's breaktaking scenery and sheep, New Zealand was once part of the B
 <p>
 An island in the south Pacific and the most important island in French Polynesia, Tahiti was made famous by Robert Louis Stevenson and Paul Gauguin ...
 <p>
-<a href="index.php?action=AdventureLog&area=Tahiti&page=1">Description & Pics</a>
+<a href="index.php?action=AdventureLog&area=Tahiti&page=1">Read the full story</a>
 </td></tr></table>
 <center>
 <hr>

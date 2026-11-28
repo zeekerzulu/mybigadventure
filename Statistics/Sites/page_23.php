@@ -40,7 +40,7 @@ It's really hard to get lost on the trail, just follow the red brick or red pain
 <p>
 Well, my tour time has finally arrived.  I've opted for a self-guided tour, but, that doesn't mean I wish to be alone.  Please accompany me.  I'm now underway, the first stop of my tour will be Boston Common.
 <p>
-<a href="index.php?action=Sites&date=20041020.1&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041020.1&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

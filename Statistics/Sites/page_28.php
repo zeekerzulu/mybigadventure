@@ -44,7 +44,7 @@ Tragedy strikes again in 1929 on Christmas Eve when the West Wing was significan
 <p>
 The White House is looming in the distance.  I can see how it got its name, not only is it big, it's pretty darn white!  Come with me to the front of the fenced property while I try to capture as much of this special place as I can.
 <p>
-<a href="index.php?action=Sites&date=20041027.1&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041027.1&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

@@ -10,7 +10,7 @@
 <p>
 The day is rather uneventful.  I replace a failing battery, then step into The Leaf and Bean Coffee Shop for some java and a place to stretch out and travel write.  Writing, writing, writing, that was my day.  I finally hit the hay around 11pm when writer's cramp finally takes hold of me.
 <p>
-<a href="index.php?action=DailyEvents&date=20040802&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040802&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040802; include 'commentlinks.php'; ?>
 <a id="Ref2"></a>
 <br>
@@ -39,7 +39,7 @@ Back on the pavement once again, I make my way south through Gardiner, MT into W
 <p>
 Further investigation undercovers Boiling River, a swimming hole located on the western bank of the Gardiner River that receives warm spring water from an underground feed.  While not boiling in the swimming hole, the water is warm and pleasant, and I soak until 9pm, the closing time for the attraction.  I head back to the campsite to do a little travel writing before retiring for the evening.
 <p>
-<a href="index.php?action=DailyEvents&date=20040804&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040804&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040804; include 'commentlinks.php'; ?>
 <a id="Ref4"></a>
 <br>
@@ -58,7 +58,7 @@ I eventually make it to Norris Campground where I find a campsite then fix a bit
 <p>
 My evening winds down back at the campsite where I do a bit of planning for the remaining days I'll be spending in Yellowstone.  There are still 5 more major attractions to see.
 <p>
-<a href="index.php?action=DailyEvents&date=20040805&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040805&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040805; include 'commentlinks.php'; ?>
 <a id="Ref5"></a>
 <br>
@@ -81,7 +81,7 @@ Just up the way, I drive to the 4th and last sight for the day, Mud Volcano.  Mu
 <p>
 After wrapping up the last sight of the day, I decide to exit the park and street camp in Gardiner, MT, just north of Yellowstone.  After fixing a late dinner I decide to retire early, having sufficiently worn myself out from a long day of sightseeing.
 <p>
-<a href="index.php?action=DailyEvents&date=20040806&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040806&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040806; include 'commentlinks.php'; ?>
 <a id="Ref6"></a>
 <br>
@@ -104,7 +104,7 @@ After my second hike, I road-trip it to Yellowstone's last major sight, the Cany
 <p>
 After hiking almost 15 miles with 4600 feet elevation gain, needless to say I'm both tired and famished.  I take in dinner at one of Yellowstone's cafeterias, then drive south for 2.5 hours to Jackson Hole, WY.  Exhausted upon arrival, I quickly find a street camping site then immediately hit the hay.
 <p>
-<a href="index.php?action=DailyEvents&date=20040807&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040807&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040807; include 'commentlinks.php'; ?>
 <a id="Ref7"></a>
 <br>
@@ -117,7 +117,7 @@ After hiking almost 15 miles with 4600 feet elevation gain, needless to say I'm 
 <p>
 I decide to stay in Jackson Hole, Wyoming for a few days to catch up on my travel writing.  To break up the monotony of my writing day, I tour the town and take in the sights and sounds of this little tourist-trap destination.
 <p>
-<a href="index.php?action=DailyEvents&date=20040808&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040808&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040808; include 'commentlinks.php'; ?>
 <p>
 <hr class="Journal2">

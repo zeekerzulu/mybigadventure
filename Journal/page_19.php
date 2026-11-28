@@ -10,7 +10,7 @@
 <p>
 Today is pretty much a down day for me.  I spend the morning and afternoon chillin' in Pigeon Forge, TN where I while away my time travel writing in the van.  Growing bored, to break up the monotony I entertain myself with the van's heater.  Evening arrives and I get a warning by the cops, I'm told I cannot overnight at the Walmart parking lot.  Rats!  When nightfall arrives, I head due west in search of new overnight digs.  Soon I find a new van camping spot in Rockville, TN where I settle in for the evening and retire for the night.
 <p>
-<a href="index.php?action=DailyEvents&date=20041108&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041108&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041108; include 'commentlinks.php'; ?>
 <a id="Ref2"></a>
 <br>
@@ -27,7 +27,7 @@ My drive turns out to be many things.  When covering over 350 miles in one shot,
 <p>
 During my travels, aside from searching for common themes and elements within the Tennessee countryside, I happen upon a scenic overlook that has been severly defaced with graffiti.  I pull in and spend a little time there, where I theorize about the culprits who perpetrated the act, as well as enjoy the nice, scenic view.
 <p>
-<a href="index.php?action=DailyEvents&date=20041109&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041109&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041109; include 'commentlinks.php'; ?>
 <a id="Ref3"></a>
 <br>
@@ -46,7 +46,7 @@ I spend the latter part of the afternoon and the entire evening checking out Bea
 <p>
 All tuckered out from a long day of touring, I hop in the van and head south into the northern reaches of Mississippi where I quickly find a van camping spot and retire for the night.
 <p>
-<a href="index.php?action=DailyEvents&date=20041110&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041110&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041110; include 'commentlinks.php'; ?>
 <a id="Ref4"></a>
 <br>
@@ -59,7 +59,7 @@ All tuckered out from a long day of touring, I hop in the van and head south int
 <p>
 A full day of driving is in store for me today.  After waking to a gloomy day, I immediately set to task with sights set on New Orleans.  The lion's share of today's driving will take place through Mississippi's heartland.  To hasten my passage, I take the Interstate and see very little of anything interesting along the way.  I do encounter a hungry truck on the drive down, however, that threatens my early demise and premature end to my cross-country trip.  After nightfall I reach New Orleans and settle in for the evening.
 <p>
-<a href="index.php?action=DailyEvents&date=20041111&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041111&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041111; include 'commentlinks.php'; ?>
 <a id="Ref5"></a>
 <br>
@@ -76,7 +76,7 @@ After rolling out of bed at 10am, I jump on my mountain bike and ride 2 miles to
 <p>
 My evening winds down and midnight arrives, time to go back to the van.  With 9 beers in me, I somehow manage to ride my bike back to the van without getting lost.  Tired from a long day of touring, I quickly jump into bed and immediately fall fast asleep.
 <p>
-<a href="index.php?action=DailyEvents&date=20041112&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041112&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041112; include 'commentlinks.php'; ?>
 <a id="Ref6"></a>
 <br>
@@ -89,7 +89,7 @@ My evening winds down and midnight arrives, time to go back to the van.  With 9 
 <p>
 After coming to terms with my fat, gross stomach, I make plans for a full day of driving.  My route today takes me from New Orleans to the heart of Houston.  On the way I encounter a boatload of swampy sights, a number of oil refineries, and the mighty Mississippi River.  I arrive in Houston in the evening and settle into working on the website before retiring late at night.
 <p>
-<a href="index.php?action=DailyEvents&date=20041113&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041113&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041113; include 'commentlinks.php'; ?>
 <a id="Ref7"></a>
 <br>
@@ -106,7 +106,7 @@ The tour itself is rather fun and fascinating.  I first partake in the Tram Tour
 <p>
 After spending more than 5 hours touring the complex, I hop in the van and travel due west to San Antonio, TX where I have plans tomorrow to visit The Alamo.  Upon arrival I quickly find a van camping spot where I soon retire for the evening.
 <p>
-<a href="index.php?action=DailyEvents&date=20041114&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041114&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041114; include 'commentlinks.php'; ?>
 <p>
 <hr class="Journal2">

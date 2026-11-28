@@ -40,7 +40,7 @@ I wish to ride as much distance as I can today.  The ride I've chosen will take 
 <p>
 The storm clouds are gathering in the distance, I'd better get the show on the road.  If you aren't afraid to get a little wet you should come on along for the ride.  No excuses for you not coming along, I have an extra rain jacket you can borrow.  So, come on, let's go.
 <p>
-<a href="index.php?action=Biking&date=20040815&page=1">Description & Pics</a>
+<a href="index.php?action=Biking&date=20040815&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

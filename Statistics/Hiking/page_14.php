@@ -33,7 +33,7 @@ Saturday, December 4, 2004
 <a href="index.php?action=Pics&name=Daily/20041204/DSCN0.jpg"><img src="Pics/Daily/20041204/Small/DSCN0.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=Hiking&date=20041204.2&page=1">Description & Pics</a>
+<a href="index.php?action=Hiking&date=20041204.2&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

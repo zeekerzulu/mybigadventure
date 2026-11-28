@@ -10,7 +10,7 @@
 <a href="index.php?action=Pics&name=Daily/20041129/DSCN0991.jpg&nocomments=1"><img src="Pics/Daily/20041129/Small/DSCN0991.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=DailyEvents&date=20041129&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref2"></a>
 <br>
 <h1><hr class="Journal2">SNOW SHOE CRAZINESS AT BLACK CANYON NATIONAL PARK - Tuesday, November 30, 2004<hr class="Journal2"></h1>
@@ -21,7 +21,7 @@
 <a href="index.php?action=Pics&name=Daily/20041130/DSCN0747.jpg&nocomments=1"><img src="Pics/Daily/20041130/Small/DSCN0747.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=DailyEvents&date=20041130&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041130&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref3"></a>
 <br>
 <h1><hr class="Journal2">A LONG DAY OF WANDERING COLORADO & UTAH - Wednesday, December 1, 2004<hr class="Journal2"></h1>
@@ -33,7 +33,7 @@
 <p>
 
 <p>
-<a href="index.php?action=DailyEvents&date=20041201&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041201&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref4"></a>
 <br>
 <h1><hr class="Journal2">UTAH ROCK ART TOUR - Thursday, December 2, 2004<hr class="Journal2"></h1>
@@ -44,7 +44,7 @@
 <a href="index.php?action=Pics&name=Daily/20041202/DSCN0653.JPG&nocomments=1"><img src="Pics/Daily/20041202/Small/DSCN0653.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=DailyEvents&date=20041202&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041202&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref5"></a>
 <br>
 <h1><hr class="Journal2">FIRST DAY OF TOURING ARCHES NATIONAL PARK - Friday, December 3, 2004<hr class="Journal2"></h1>
@@ -55,7 +55,7 @@
 <a href="index.php?action=Pics&name=Daily/20041203/DSCN0740.jpg"><img src="Pics/Daily/20041203/Small/DSCN0740.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=DailyEvents&date=20041126&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041126&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref6"></a>
 <br>
 <h1><hr class="Journal2">SECOND DAY OF TOURING ARCHES NATIONAL PARK - Saturday, December 4, 2004<hr class="Journal2"></h1>
@@ -66,7 +66,7 @@
 <a href="index.php?action=Pics&name=Daily/20041204/DSCN1354.jpg&nocomments=1"><img src="Pics/Daily/20041204/Small/DSCN1354.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=DailyEvents&date=20041204&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041204&page=1" title="Travel Log">Read the full story</a>
 <p>
 <a id="Ref7"></a>
 <br>
@@ -78,7 +78,7 @@
 <a href="index.php?action=Pics&name=Daily/20041205/DSCN0490.jpg&nocomments=1"><img src="Pics/Daily/20041205/Small/DSCN0490.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=DailyEvents&date=20041205&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041205&page=1" title="Travel Log">Read the full story</a>
 <p>
 <hr class="Journal2">
 <center>

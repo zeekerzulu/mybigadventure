@@ -40,7 +40,7 @@ Today I good news to share with you.  I'm all caught up with my travel writing s
 <p>
 I'm all hyped up and ready to rock and roll, or is that ride and roll?  Come with me as I cycle up a mountainside for some great westerly views of the Grand Tetons.
 <p>
-<a href="index.php?action=Biking&date=20040814&page=1">Description & Pics</a>
+<a href="index.php?action=Biking&date=20040814&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

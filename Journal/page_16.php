@@ -10,7 +10,7 @@
 <p>
 Today is Monica's last day in Maine.  We decide to just kick around at the coast for the day.  Our travels include a drive out to Cape Neddick and York Harbor.  Along the way we run into photogenic Nubble Light in York, ME.  The day winds down and we make our way to Portland, ME where we have some fun with the seagulls, followed by a downtown waterfront dining experience on an old ship that's permanently anchored in Casco Bay.  The time finally arrives where Monica has to fly back to NYC.  After dropping her off at the airport, I park at local Walmart then settle in for the evening.
 <p>
-<a href="index.php?action=DailyEvents&date=20041018&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041018&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041018; include 'commentlinks.php'; ?>
 <a id="Ref2"></a>
 <br>
@@ -27,7 +27,7 @@ While mulling over my future plans, I meet up with my friend Brian who I met two
 <p>
 To add some levity to my present state of mind, I add a bit of fun to my drive by taking candid photos of cars that pass me by on the freeway.  Soon enough, evening arrives and I overnight just outside of Boston.
 <p>
-<a href="index.php?action=DailyEvents&date=20041019&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041019&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041019; include 'commentlinks.php'; ?>
 <a id="Ref3"></a>
 <br>
@@ -48,7 +48,7 @@ When the dust finally settles, the Red Sox win the pennant and afterwards a near
 <p>
 I drive southward into the early morning and finally arrive in Wareham, MA.  I'm exhausted from my busy day of touring, so I park the van, then immediately settle in for the night.  Tomorrow I plan to tour Cape Cod.
 <p>
-<a href="index.php?action=DailyEvents&date=20041020&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041020&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041020; include 'commentlinks.php'; ?>
 <a id="Ref4"></a>
 <br>
@@ -65,7 +65,7 @@ In addition to many flat and marshy landscapes, I encounter a variety of interes
 <p>
 After touring the Cape I settle into Falmouth, MA for the evening.  My walking-ways have finally caught up with me, my feet are really killing me now, they're still suffering from all the pavement-pounding touring I did yesterday in Boston, MA.  After working on the website for a little while, I call it a night and turn in.
 <p>
-<a href="index.php?action=DailyEvents&date=20041021&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041021&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041021; include 'commentlinks.php'; ?>
 <a id="Ref5"></a>
 <br>
@@ -82,7 +82,7 @@ I spend the day in the van travel writing and trying to stay warm.  Evening arri
 <p>
 Before turning in for the night, I go see the movie, Saturday Night Lights.  Tomorrow I think I may trek out to the island of Nantucket, weather permitting, of course.
 <p>
-<a href="index.php?action=DailyEvents&date=20041022&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041022&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041022; include 'commentlinks.php'; ?>
 <a id="Ref6"></a>
 <br>
@@ -109,7 +109,7 @@ After touring the boat, I decide to call it quits to my sightseeing day, it's co
 <p>
 At a rest-stop off the NY Turnpike a tractor-trailer lends an unwelcome hand, the noise of its diesel engine rings in my ears, and quickly pulls me into the land of the conscious.  I hit the road and head south to Washington, DC.  On the way I encounter my fair share of boring interestate and costly tolls.  Sadly, the only driving highlight is my crossing of the Delaware Memorial Bridge.  I end up in Laurel, MD and overnight at a Walmart.
 <p>
-<a href="index.php?action=DailyEvents&date=20041024&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041024&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041024; include 'commentlinks.php'; ?>
 <p>
 <hr class="Journal2">

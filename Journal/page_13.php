@@ -16,7 +16,7 @@ After finishing my mountaintop tour, I drive eastward out of the Adirondacks tow
 <p>
 Upon reaching Burlington, I drive to a Walmart parking lot and settle in for the evening.  My plan is to campout here for a few days and catch-up on my travel writing.
 <p>
-<a href="index.php?action=DailyEvents&date=20040927&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040927&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040927; include 'commentlinks.php'; ?>
 <a id="Ref2"></a>
 <br>
@@ -29,7 +29,7 @@ Upon reaching Burlington, I drive to a Walmart parking lot and settle in for the
 <p>
 I wake to a hurricane's aftereffects, seems Hurricane Jeff hit my van's interior while I was sleeping.  I spend part of the morning tidying things up.  To break up my travel writing day, I decide to take a short trip out to Lake Champlain for a closer look at this famous body of water.  I spend the balance of the day and evening travel writing.
 <p>
-<a href="index.php?action=DailyEvents&date=20040928&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040928&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040928; include 'commentlinks.php'; ?>
 <a id="Ref3"></a>
 <br>
@@ -52,7 +52,7 @@ Spent the entire day and evening catching up on my travel writing.  No traveling
 <p>
 I perform a rescue mission of sorts today to help break up the tedium of my travel writing.  I heroically save 12 worms from certain death.  The balance of my day and entire evening is spent catching up on my travel writing.
 <p>
-<a href="index.php?action=DailyEvents&date=20041001&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041001&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041001; include 'commentlinks.php'; ?>
 <a id="Ref6"></a>
 <br>

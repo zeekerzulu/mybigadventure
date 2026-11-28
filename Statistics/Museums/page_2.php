@@ -65,7 +65,7 @@ Current exhibits include:
 </table>
 Due to the Museum's size, I'm going to have to take care to pick the best exhibits, there's no way I'll be able to go through all of them today.  Wanna help me decide which ones to see?  If so, come with me now, as I venture into this marvel of museums.
 <p>
-<a href="index.php?action=Museums&date=20041028&page=1">Description & Pics</a>
+<a href="index.php?action=Museums&date=20041028&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

@@ -40,7 +40,7 @@ Sitting around the 45-foot pedestal are the 4 ancillary figures of Morality, Edu
 <p>
 Even from a distance the monument looms large and impressive.  Come with me, and together let's explore this inspirational memorial to America's Pilgrim Fathers.
 <p>
-<a href="index.php?action=Monuments&date=20041023&page=1">Description & Pics</a>
+<a href="index.php?action=Monuments&date=20041023&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

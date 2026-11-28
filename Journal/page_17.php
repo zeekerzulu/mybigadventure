@@ -20,7 +20,7 @@ In back of the U.S. Capitol Building I tour the Ulysses S. Grant Memorial, follo
 <p>
 The day quickly winds down and dusk arrives, time for me to head back to the van.  I take the subway back to Maryland, hop in the van, then drive back to Laurel, MD where I settle in for the evening.  I'm feeling pretty whipped right now, I may very well take tomorrow off.  I think I need a break from my vacation.  Ha!  Now that's an odd thing to say.
 <p>
-<a href="index.php?action=DailyEvents&date=20041025&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041025&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041025; include 'commentlinks.php'; ?>
 <a id="Ref2"></a>
 <br>
@@ -31,7 +31,7 @@ The day quickly winds down and dusk arrives, time for me to head back to the van
 <p>
 No touring today, my feet are really bothering me, time to take care of my dogs.  After a full day of travel writing in the van, my feet and I strike a friendly compromise, and I'm allowed to I make a trip into D.C. to have dinner with Rebecca, the daughter of good friends of my parents.  Dinner was fun, I haven't seen Rebecca since she was a small child.  So, needless to say, we had a bit of catching up to do.  After dinner, I take the train back to the van, they drive from College Park to Laurel, MD and soon arrive at home away from home, a Walmart parking lot.
 <p>
-<a href="index.php?action=DailyEvents&date=20041026&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041026&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041026; include 'commentlinks.php'; ?>
 <a id="Ref3"></a>
 <br>
@@ -56,7 +56,7 @@ After getting booted out of Arlington, I head back to the van in College Park, t
 <p>
 I chill out in the van for the remainder of the evening.  After eating dinner and working on the website for a bit, I retire for the evening.  Tomorrow will be a big day for me, I'll be touring the National Air & Space Museum.  Wooo Hooo!!!
 <p>
-<a href="index.php?action=DailyEvents&date=20041027&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041027&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041027; include 'commentlinks.php'; ?>
 <a id="Ref4"></a>
 <br>
@@ -102,7 +102,7 @@ Here's a glimpse inside the museum's goodie bag:
 </table>
 After many, many hours of touring the museum, I finally burn out near the tail-end of my visit and find myself practically dragging my weary body back to the subway station.  Back at the van in Laurel, MD, I find a good measure of entertainment by listening to all the buzz on the radio about the up-and-coming Presidential election.  Tomorrow will mark my last touring day in Washington, D.C.  In order to make the most of it, I retire early in preparation for my one last go at the Capitol.
 <p>
-<a href="index.php?action=DailyEvents&date=20041028&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041028&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041028; include 'commentlinks.php'; ?>
 <a id="Ref5"></a>
 <br>
@@ -123,7 +123,7 @@ After my rushed museum tour, I meet up with my friend Lindsay for dinner.  I had
 <p>
 Bloated from both dinner and four full days of touring the Capitol, I stagger my way back to the van and overnight for a fifth night in Laurel, MD.  In retrospect, it's certainly been a long haul for me, I've seen so much in the Capitol these past few days.  Honestly, I believe I could easily spend another week filling in all the blanks that are sprinkled throughout my sightseeing experience.  But, as they say, everything in moderation.  With that in mind, I plan to push south to North Carolina tomorrow.  I'll be spending a few days visiting my Uncle Donald.  I haven't seen him in years, so, I'm really looking forward to the visit.
 <p>
-<a href="index.php?action=DailyEvents&date=20041029&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041029&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041029; include 'commentlinks.php'; ?>
 <a id="Ref6"></a>
 <br>
@@ -138,7 +138,7 @@ Lolling around in the van all morning and afternoon, I attempt to recover from t
 <p>
 My drive south proves to be very long but uneventful.  Just before midnight, I arrive and park the van in my Uncle's driveway.  Not wanting to wake him, I stay put in the van and retire for the evening.  My near term plans are to chill for a few days and just hangout with my good ole Uncle.
 <p>
-<a href="index.php?action=DailyEvents&date=20041030&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041030&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041030; include 'commentlinks.php'; ?>
 <a id="Ref7"></a>
 <br>
@@ -153,7 +153,7 @@ Happy Halloween!
 <p>
 I spend the entire day visiting with my Uncle Donald.  A commercial photographer by trade, in the afternoon we go to his in office where he first photoshops my trip's favorite image, then prints it out for me.  In the process, he tells me a little about his business, photography, etc.  Fascinating stuff!  During my trip, I've learned a little about the craft, if nothing more than having taken thousands of digital photos up to this point.  Uncle Don is definitely a seasoned pro, I learn much from his sage instruction.
 <p>
-<a href="index.php?action=DailyEvents&date=20041031&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041031&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041031; include 'commentlinks.php'; ?>
 <p>
 <hr class="Journal2">

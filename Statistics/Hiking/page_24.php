@@ -33,7 +33,7 @@ Tuesday, January 6, 2005
 <a href="index.php?action=Pics&name=Daily/20050106/DSCN0.jpg"><img src="Pics/Daily/20050106/Small/DSCN0.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=Hiking&date=20050106.1&page=1">Description & Pics</a>
+<a href="index.php?action=Hiking&date=20050106.1&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

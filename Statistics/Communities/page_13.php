@@ -39,7 +39,7 @@ Taos is also home to unique culinary experiences, such as the Taos Farmers Marke
 <p>
 I'm about ready to tour the town's Historic District and surrounding community. Come with me and see for yourself what Taos has to offer.
 <p>
-<a href="index.php?action=Communities&date=20041119.1&page=1">Description & Pics</a>
+<a href="index.php?action=Communities&date=20041119.1&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

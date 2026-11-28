@@ -40,7 +40,7 @@ Located near Custer, SD, Jewel Cave is a National Monument.  Since its discovery
 <p>
 Do you enjoy crawling around in cool, dark, and narrow passageways?  If so, come with me, hopefully too many bats won't fly into your hair.
 <p>
-<a href="index.php?action=Monuments&date=20040821&page=1">Description & Pics</a>
+<a href="index.php?action=Monuments&date=20040821&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

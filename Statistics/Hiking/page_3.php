@@ -42,7 +42,7 @@ It's early August and the weather is sunny and warm.  Perfect weather for a hike
 <p>
 Do you have your hiking boots on yet?  You do?  Great!  Come on, let's get hiking.
 <p>
-<a href="index.php?action=Hiking&date=20040824.1&page=1">Description & Pics</a>
+<a href="index.php?action=Hiking&date=20040824.1&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

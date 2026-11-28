@@ -40,7 +40,7 @@ This will be my trip's first ride using my road bike.  As a result I get to put 
 Well, the island is beckoning me to start my ride.  I've got another bike for you (sorry, it's my mountain bike). But, not to worry, I won't race on ahead and ride off without you.  So hop on and let's go island touring.
 <p>
 <p>
-<a href="index.php?action=Biking&date=20040714&page=1">Description & Pics</a>
+<a href="index.php?action=Biking&date=20040714&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

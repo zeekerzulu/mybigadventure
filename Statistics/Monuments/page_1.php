@@ -38,7 +38,7 @@ I'll only touch upon the southern reaches of Mount St. Helens as I pass through 
 <p>
 Come with me for a quick peak at this amazing volcano.
 <p>
-<a href="index.php?action=Monuments&date=20040708&page=1">Description & Pics</a>
+<a href="index.php?action=Monuments&date=20040708&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

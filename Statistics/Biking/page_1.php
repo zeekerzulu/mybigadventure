@@ -40,7 +40,7 @@ Today's ride will be an out and back.  The outleg will be predominately downhill
 <p>
 I've just saddled up.  Come join me as I venture my first try at some semi-serious mountain biking.
 <p>
-<a href="index.php?action=Biking&date=20040709&page=1">Description & Pics</a>
+<a href="index.php?action=Biking&date=20040709&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

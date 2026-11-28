@@ -44,7 +44,7 @@ Subsequent to the Memorial's dedication, an epilogue was added in 2001 to the Me
 <p>
 I've arrive at the entrance of the Memorial and I'm getting ready to enter its first room.  Before I go in, I need to first check out good ole FDR who's sitting in a wheelchair out front.  Interested in learning more about FDR and his 4 terms as President?  Yes?  Well, come along, let's get started.
 <p>
-<a href="index.php?action=Memorials&date=20041027.5&page=1">Description & Pics</a>
+<a href="index.php?action=Memorials&date=20041027.5&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

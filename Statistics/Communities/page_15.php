@@ -29,7 +29,7 @@ Golden kept busy anyway.  Adolph Coors opened his brewery here in 1873, the Colo
 <p>
 I've just stepped off the brewery shuttle with an afternoon to kill.  Come along for a walk up Washington Avenue.
 <p>
-<a href="index.php?action=Communities&date=20041122&page=1">Description & Pics</a>
+<a href="index.php?action=Communities&date=20041122&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

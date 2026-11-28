@@ -27,7 +27,7 @@
 <p>
 A mecca for world class athletes who complete in bobsled, luge, skeleton, cross country skiing and biathlon, the Verizon Sports Complex also offers sporting opportunities to the general public.  That's right!  You too can experience many of these same sporting thrills in the summer months.  Located near Lake Placid, NY at Mt. Van Hoevenberg, the complex also offers over 20 miles of challenging mountain bike trails, from moderate to intense.
 <p>
-<a href="index.php?action=Parks&date=20040926.3&page=1">Description & Pics</a>
+<a href="index.php?action=Parks&date=20040926.3&page=1">Read the full story</a>
 <p>
 <hr>
 <p>
@@ -57,7 +57,7 @@ A mecca for world class athletes who complete in bobsled, luge, skeleton, cross 
 <p>
 Whiteface Mountain, located near Lake Placid, NY in Adirondack State Park, is the 5th tallest peak (4867 feet) in NY State.  Of the 40+ High Peaks (mountains 4000 feet or higher) within the Adirondack Region, Whiteface Mountain is the only mountain peak accessible by car.  Completed in 1935, access is provided by the Whiteface Veterans Memorial Highway, a 5 mile stretch of pavement that reaches up the mountainside more than 2300 feet from start to finish.  From the summit parking lot a short stair climb or elevator ride will take you to the treeless summit which hardily greets you with an unobstructed 360 degree view of hundreds of square miles of spectacular forest, lakes and mountains, stretching from Canada to Vermont.
 <p>
-<a href="index.php?action=Parks&date=20040927&page=1">Description & Pics</a>
+<a href="index.php?action=Parks&date=20040927&page=1">Read the full story</a>
 <p>
 <hr>
 <p>

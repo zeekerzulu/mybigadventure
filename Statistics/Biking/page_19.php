@@ -40,7 +40,7 @@ Given my current stamina and health (I'm out of shape and feeling the early affe
 <p>
 Come along with me and experience the shame of my high altitude struggle and toil on this easy and unassuming novice trail.  There's a little surprise midway into the ride, you don't want to miss it.
 <p>
-<a href="index.php?action=Biking&date=20041118&page=1">Description & Pics</a>
+<a href="index.php?action=Biking&date=20041118&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

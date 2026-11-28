@@ -36,7 +36,7 @@ As everyone knows, America's famous rock is Plymouth Rock.  With over a million 
 <p>
 Well, I'm ready to check out Plymouth Rock, come with me now as I tour this special, historic rock.
 <p>
-<a href="index.php?action=Sites&date=20041023.1&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041023.1&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

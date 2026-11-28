@@ -42,7 +42,7 @@ Bunsen Peak looks like an isolated bump in the distance as I approach it from th
 <p>
 Well, enough rambling, my hike is almost underway.  You coming?  If you do you'll get a whole lot of Yin in the process.  Still skeptical?  Well, I'll peer into the future for you.  What do I see?  Wow, there's a big surprise at the top of the peak!  I promise you you'll not want to miss it.
 <p>
-<a href="index.php?action=Hiking&date=20040807.2&page=1">Description & Pics</a>
+<a href="index.php?action=Hiking&date=20040807.2&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

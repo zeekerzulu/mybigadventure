@@ -42,7 +42,7 @@ My ride will take me on a clockwise tour of the island, covering many of the par
 <p>
 I'm all saddled up and ready to go.  Come along with me as I explore this national park treasure.
 <p>
-<a href="index.php?action=Biking&date=20041006&page=1">Description & Pics</a>
+<a href="index.php?action=Biking&date=20041006&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

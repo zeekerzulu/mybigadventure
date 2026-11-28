@@ -38,7 +38,7 @@ The ride to Chinatown will be a quick one since it's not terribly far from where
 <p>
 Well, it's time to push off to Chinatown.  Are you interested in Chinese culture?  If so, come on with me, the cultural tour is about to begin!
 <p>
-<a href="index.php?action=Biking&date=20040717&page=1">Description & Pics</a>
+<a href="index.php?action=Biking&date=20040717&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

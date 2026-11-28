@@ -30,7 +30,7 @@ Rated as the World's Best Amusement Park 6 years running, Cedar Point is a mecca
 <p>
 Oh...My...God!  I'm so excited, I've just pulled into Cedar Point.  Rollercoaster Heaven awaits me.  Come on, grab a barf bag, and together let's ride them all!
 <p>
-<a href="index.php?action=Sites&date=20040904&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20040904&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

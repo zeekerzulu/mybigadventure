@@ -37,7 +37,7 @@ Lake Placid is a small tourist town, overflowing with abundant lodging, shops, a
 <p>
 Come join me, I'm about to start my tour of the village of Lake Placid.
 <p>
-<a href="index.php?action=Communities&date=20040924&page=1">Description & Pics</a>
+<a href="index.php?action=Communities&date=20040924&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

@@ -44,7 +44,7 @@ Initial reactions to the memorial were not all good, many believed it failed to 
 <p>
 Given all that I've learned from reading up on the history of the memorial, I can't wait to see it in person.  Come with me as I venture a visit to this long overdue tribute to the fallen and missing soldiers, to those who played a fateful part in a war that was filled with so much controversy and disillusionment.
 <p>
-<a href="index.php?action=Memorials&date=20041027.2&page=1">Description & Pics</a>
+<a href="index.php?action=Memorials&date=20041027.2&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

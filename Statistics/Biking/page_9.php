@@ -42,7 +42,7 @@ Sometimes I wonder if there's something wrong with me.  I always seem to sniff o
 <p>
 I've readied myself for my bike trip.  Come along if you dare.  The climbing will be tough, but the scenery will certainly take your attention away from looking down at your hill pumping knees.  So, come along with me, and let's have some fun!
 <p>
-<a href="index.php?action=Biking&date=20040728&page=1">Description & Pics</a>
+<a href="index.php?action=Biking&date=20040728&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

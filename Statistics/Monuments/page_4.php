@@ -42,7 +42,7 @@ In addition to the monument itself, access to the Provincetown Museum is include
 <p>
 Hey, you got your sneakers on?  Are you ready to climb a multitude of steps and ramps to get to the top of Pilgrim Monument?  If so, come with me, the tour is starting.
 <p>
-<a href="index.php?action=Monuments&date=20041021&page=1">Description & Pics</a>
+<a href="index.php?action=Monuments&date=20041021&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

@@ -195,7 +195,7 @@ After eating lunch and resting a bit, we head back down by a different route to 
 <p>
 In the evening I finally meet Bill's girlfriend, Louise.  All three of us settle in for the night at Bill's place.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041009&page=1 title='Travel Log'>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041009&page=1 title='Travel Log'>Read the full story</a>
 <p>
 <hr>
 <p>
@@ -242,7 +242,7 @@ Crossing the Ossipee River I see a historical covered bridge.  Build in 1879, th
 <p>
 After my covered bridge tour I make my way back to Bill's place.  On the way I encounter the world's longest road tattoo, followed by a large, interesting tree that causes me to form an odd theory as to how it gained it's red coloration.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041013&page=1 title='Travel Log'>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041013&page=1 title='Travel Log'>Read the full story</a>
 <p>
 <hr>
 <p>
@@ -257,7 +257,7 @@ Another one of many days of relaxation (hey, I'm on vacation ya know).  However,
 <p>
 Near the end of the day we are paid a visit by Lukie, the neighbor's dog.  Lukie is a golden retriever who has a prechant for dog biscuits.  I record his barking then hand him a biscuit.  And of course he continues to bark and continues to do so after many rounds of me serving him biscuits.  Hmmm, I think I'm the trained one here, not him!
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041014&page=1 title='Travel Log'>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041014&page=1 title='Travel Log'>Read the full story</a>
 <p>
 <hr>
 <p>
@@ -272,7 +272,7 @@ Today will be my last day hanging with Bill.  We go on a mini-hike near his prop
 <p>
 After checking into the cabin, I wait around a bit then head out to the airport.  It is good to see Monica, it's been a few years since I last saw her.  We drive back to Kennebunk, settle in for the evening, then catch-up on things.
 <p>
-<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041015&page=1 title='Travel Log'>Description & Pics</a>
+<a href=http://www.mybigadventure.com/index.php?action=DailyEvents&date=20041015&page=1 title='Travel Log'>Read the full story</a>
 <p>
 </td></tr></table>
 </center></td></tr>

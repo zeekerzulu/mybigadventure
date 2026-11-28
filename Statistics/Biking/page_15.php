@@ -42,7 +42,7 @@ I'm really looking forward to seeing all the colorful leaves on the ride.  Fall 
 <p>
 Okay, enough ranting and raving about winter weather.  I'm here to put some serious bike rubber to the road, I've got 60 miles to cover here in the next few hours.  It's going to be a close one, however, I need to be on task with no goofing off on this ride.  I've calculated I'll have just enough daylight to complete the ride.  So, chop, chop, let's get going.
 <p>
-<a href="index.php?action=Biking&date=20040922&page=1">Description & Pics</a>
+<a href="index.php?action=Biking&date=20040922&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

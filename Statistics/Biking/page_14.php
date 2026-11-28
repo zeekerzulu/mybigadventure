@@ -41,7 +41,7 @@ Time to go, I'd better make sure to bring lots of Kleenex because I'm sure to ge
 <p>
 Okay, I'm in a sentimental mood now, time to push off.
 <p>
-<a href="index.php?action=Biking&date=20040916&page=1">Description & Pics</a>
+<a href="index.php?action=Biking&date=20040916&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

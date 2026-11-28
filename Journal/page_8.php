@@ -16,7 +16,7 @@ The day winds down and I arrive at the campgrounds.  After settling in at my cam
 <p>
 Seems just recently the government handed over a Missleman site (South Dakota was a primary location for such missle systems) over to the Park Service (it has been decommissioned of course) and represents America's most recent National Historical Monument.  It proves to be an interesting presentation.
 <p>
-<a href="index.php?action=DailyEvents&date=20040823&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040823&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040823; include 'commentlinks.php'; ?>
 <a id="Ref2"></a>
 <br>
@@ -33,7 +33,7 @@ After the guided tour I hike two short trails.  What the trails lack in distance
 <p>
 Arriving back to the van after the second hike, I decide to fit in a quick fossil presentation before leaving the Badlands.  After the presentation I depart to the east, destination, somewhere between the Badlands and Minneapolis, MN.  I spend the evening on the road, making my way to Minneapolis to see a friend.  I end up spending the night in Watertown, SD, 200 miles to the west of Minneapolis.
 <p>
-<a href="index.php?action=DailyEvents&date=20040824&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040824&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040824; include 'commentlinks.php'; ?>
 <a id="Ref3"></a>
 <br>
@@ -43,7 +43,7 @@ Arriving back to the van after the second hike, I decide to fit in a quick fossi
 <p>
 I continue my push to Minneapolis, MN and arrive in the afternoon.  I go digital camera shopping at the Mall of America but come up empty.  In the early evening I meet up with my friend Greg and his wife Meri.  I'll be spending the next few days with them, catching up and such.
 <p>
-<a href="index.php?action=DailyEvents&date=20040825&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040825&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040825; include 'commentlinks.php'; ?>
 <a id="Ref4"></a>
 <br>
@@ -78,7 +78,7 @@ With sadness, I bid Greg and family a fond farewell, then push off to Wisconsin.
 <p>
 On the road once again, I make my way to Mauston, WI and settle in for the night.  Tomorrow promises to be a big touring day so I hit the hay early.
 <p>
-<a href="index.php?action=DailyEvents&date=20040829&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040829&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040829; include 'commentlinks.php'; ?>
 <p>
 <hr class="Journal2">

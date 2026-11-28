@@ -30,7 +30,7 @@ Memories are the glue of life.  Some are good, others are not so good.  But, lik
 <p>
 Today will be a bike down memory lane.  After thoroughly documenting my maternal Grandparent's property (now owned by an Aunt and Uncle), I head by bike to my childhood home, located in Oakfield, NY.  On the way I stop by Pine Hill Airport, the airport where I learned to fly when I was just 15 years old.  Soon enough I reach Oakfield and spend about 2 hours riding around, snapping photos, and recalling a lot of my past.
 <p>
-<a href="index.php?action=DailyEvents&date=20040916&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040916&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040916; include 'commentlinks.php'; ?>
 <a id="Ref5"></a>
 <br>

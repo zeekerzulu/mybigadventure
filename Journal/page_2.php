@@ -12,7 +12,7 @@ Today I spent the day in Seattle, WA, bopping around downtown on my mountain bik
 <p>
 After my ride is complete the evening arrives and I settle in for some beer and music at the Hopvine Pub on 15th Avenue E.  I stay at the bar until the wee hours of the morning then stumble back to the van to retire.
 <p>
-<a href="index.php?action=DailyEvents&date=20040712&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040712&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040712; include 'commentlinks.php'; ?>
 <a id="Ref2"></a>
 <br>
@@ -27,7 +27,7 @@ Today is a road trip day, I'm heading to an island paradise.  Where is such a pl
 <p>
 From Seattle I drive up to Anacortes, WA to catch the ferry.  The 60 minute ferry ride is both pleasurable and scenic.  After unboarding on terra firma I drive around Friday Harbor, the port of call, for a little sightseeing.  Once I get a fill my new surroundings, I find a suitable parking spot then settle in for the night.  Tomorrow will be a big biking day, I have plans to circumnavigate the island.
 <p>
-<a href="index.php?action=DailyEvents&date=20040713&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040713&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040713; include 'commentlinks.php'; ?>
 <a id="Ref3"></a>
 <br>
@@ -44,7 +44,7 @@ During my two-wheeled island excursion I visit posh Roche Harbor, followed by la
 <p>
 After my bike ride I clean up then set out in search of some fun in Friday Harbor.  I end up settling into Herb's Tavern for the evening, a noisy, smoky bar where I have my fill of beer, listen to karaoke, and play catchup with my website.
 <p>
-<a href="index.php?action=DailyEvents&date=20040714&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040714&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040714; include 'commentlinks.php'; ?>
 <a id="Ref4"></a>
 <br>
@@ -61,7 +61,7 @@ After reaching the mainland at Anacortes, WA, I make a beeline northward to Vanc
 <p>
 I continue my way northward and reach Downtown Vancouver by nightfall.  After buying a city street map and a little driving around, I find a great place to van-camp in, of all places, a multi-million dollar neighborhood.  I may not be able to buy here, but at least I can camp here, street style!
 <p>
-<a href="index.php?action=DailyEvents&date=20040715&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040715&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040715; include 'commentlinks.php'; ?>
 <a id="Ref5"></a>
 <br>
@@ -80,7 +80,7 @@ I do a once-around the perimeter of Stanley Park, then relax to experience a col
 <p>
 I eventually grow weary and return back to the van late at night.  Tomorrow is another day of touring, I have my sights set on Vancouver's Chinatown.
 <p>
-<a href="index.php?action=DailyEvents&date=20040716&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040716&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040716; include 'commentlinks.php'; ?>
 <a id="Ref6"></a>
 <br>
@@ -99,7 +99,7 @@ After riding around a bit, I decide to park the bike and tour Dr. Sun Yet-Sen Cl
 <p>
 After touring the gardens I head over to English Bay Beach to grab dinner.  Soon the day gives way to evening and after working on the website at a coffee shop for a few hours, I decide to head back to the van and call it a night.
 <p> 
-<a href="index.php?action=DailyEvents&date=20040717&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040717&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040717; include 'commentlinks.php'; ?>
 <a id="Ref7"></a>
 <br>
@@ -112,7 +112,7 @@ After touring the gardens I head over to English Bay Beach to grab dinner.  Soon
 <p>
 Today I take a rest from my tourist activities and I spend the entire day couped up in the van travel writing.  I figure it's better to stay cloistered in the van than wandering around Vancouver looking for a peaceful place to write.  The temptation to goof off would be too great for me if I was away from the van, so in the best interests of my travel writing, I staying put.  You know, this trip of mine isn't all fun and games, although I do have to admit, I do enjoy the writing aspect.  So, maybe it is all play after all?
 <p>
-<p><a href="index.php?action=DailyEvents&date=20040718&page=1" title="Travel Log">Description & Pics</a>
+<p><a href="index.php?action=DailyEvents&date=20040718&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040718; include 'commentlinks.php'; ?>
 <p>
 <hr class="Journal2">

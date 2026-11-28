@@ -35,7 +35,7 @@ Nestled within the eastern confines of Mount Desert Island and neighbor to Acadi
 <p>
 I'm heading into Bar Harbor now, so jump in the van and let's tour this charming community together.
 <p>
-<a href="index.php?action=Communities&date=20041005&page=1">Description & Pics</a>
+<a href="index.php?action=Communities&date=20041005&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

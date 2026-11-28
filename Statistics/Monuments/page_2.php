@@ -40,7 +40,7 @@ Devils Tower is America's first National Monument.  Rising 867 feet from its bas
 <p>
 I'm ready to start my tour of the monument so come with me.  Don't worry, there are no aliens hiding here... or are there?
 <p>
-<a href="index.php?action=Monuments&date=20040818&page=1">Description & Pics</a>
+<a href="index.php?action=Monuments&date=20040818&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

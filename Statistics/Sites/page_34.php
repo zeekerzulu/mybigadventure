@@ -32,7 +32,7 @@ Sometimes you stumble upon a sight that you will always remember, not because it
 <p>
 Interesting in something a little out of the ordinary?  Tired of the same old, boring scenic overlooks?  Well, you've come to the right place.  Come with me now, let's experience this unique Tennessee overlook disaster together.
 <p>
-<a href="index.php?action=Sites&date=20041109&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041109&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

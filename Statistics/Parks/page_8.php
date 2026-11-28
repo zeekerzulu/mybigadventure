@@ -46,7 +46,7 @@ I'll be spending 7 days in the Adirondacks.  During my visit I plan to road bike
 <p>
 Come join me as I pass into the western reaches of the Adirondacks.
 <p>
-<a href="index.php?action=Parks&date=20040921&page=1">Description & Pics</a>
+<a href="index.php?action=Parks&date=20040921&page=1">Read the full story</a>
 <p>
 <hr>
 <center>

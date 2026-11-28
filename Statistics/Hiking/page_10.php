@@ -40,7 +40,7 @@ Clingman?  Who was Clingman?  Well, he was first a Civil War General then a US S
 <p>
 Come with me now, the hike is about to begin.  You wouldn't what to miss the opportunity to see the surround terrain atop a UFO, would you?
 <p>
-<a href="index.php?action=Hiking&date=20041107.2&page=1">Description & Pics</a>
+<a href="index.php?action=Hiking&date=20041107.2&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

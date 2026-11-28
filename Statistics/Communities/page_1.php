@@ -37,7 +37,7 @@ Not far from the city's borders you'll find the great outdoors, providing many o
 <p>
 Today I'll be spending a full day in Seattle touring the city on my bicycle.  Come join me, the tour is about to begin.
 <p>
-<a href="index.php?action=Communities&date=20040712&page=1">Description & Pics</a>
+<a href="index.php?action=Communities&date=20040712&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

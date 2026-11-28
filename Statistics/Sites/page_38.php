@@ -34,7 +34,7 @@ Left in ruins after the battle, the complex stood in limbo for many, many years.
 <p>
 Come join me as I venture into the old mission complex.  As they say, "Remember the Alamo!"  Let's get touring so we can create something to remember today.
 <p>
-<a href="index.php?action=Sites&date=20041115&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041115&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

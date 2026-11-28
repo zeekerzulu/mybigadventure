@@ -30,7 +30,7 @@ Located in Waterbury, VT, the Ben & Jerry's Ice Cream Factory offers a glimpse i
 <p>
 I suspect it won't take too much arm-pulling to get you to come tour the factory with me.  After all, we're talking ice cream here.  Hey, where did you go?  Oooh, I see now, you've already started the tour.  Wait for me!
 <p>
-<a href="index.php?action=Sites&date=20041004&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041004&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

@@ -37,7 +37,7 @@ Primarily leveraged as a launching point for my nearby mountain biking venue, my
 <p>
 I'm now crossing the 2-mile bridge into Sandpoint, come join me for my little tour of this quaint little township.
 <p>
-<a href="index.php?action=Communities&date=20040725&page=1">Description & Pics</a>
+<a href="index.php?action=Communities&date=20040725&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

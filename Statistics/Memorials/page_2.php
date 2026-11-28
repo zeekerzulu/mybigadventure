@@ -38,7 +38,7 @@ The memorial took artist <a href="javascript:myPopup4('http://www.henrymerwinshr
 <p>
 Hey, join me, I'm about to tour this spectacular tribute to an individual who was both a fine military general as well as the 18th President of the United States.
 <p>
-<a href="index.php?action=Memorials&date=20041025&page=1">Description & Pics</a>
+<a href="index.php?action=Memorials&date=20041025&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

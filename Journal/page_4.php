@@ -16,7 +16,7 @@ The bike ride proves to be challenging indeed, frequently I'm forced to stop to 
 <p>
 Back at the van I pack things up then head back to Sandpoint for a refreshing dip in Lake Pend Oreille.  After cooling off I head over to Chez Spud's Rotisserie and Grill for a bite to eat, then walk around town for a bit before retired for the evening.
 <p>
-<a href="index.php?action=DailyEvents&date=20040726&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040726&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040726; include 'commentlinks.php'; ?>
 <a id="Ref2"></a>
 <br>
@@ -33,7 +33,7 @@ Late in the afternoon I start my drive to Montana.  My initial intention is to d
 <p>
 Day surrenders to night and I find myself still driving.  I quickly grow weary and end up spending the night in Kalispell, MT.
 <p>
-<a href="index.php?action=DailyEvents&date=20040727&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040727&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040727; include 'commentlinks.php'; ?>
 <a id="Ref3"></a>
 <br>
@@ -54,7 +54,7 @@ I slowly make my way up to Logan Pass.  With each peddle stroke I lose physical 
 <p>
 At the top I revel in having successfully completed the uphill climb.  The final reward for all my efforts is the downhill portion of the return leg.  I ride back down the winding road, easily keeping pace with my steel and glass-enclosed traffic companions.  It's a lot of fun, kicking back and letting gravity do its work.  It's the least it could do, having fought it for so hard and so long on the uphill run.  I make it back to the van just before nightfall.  I take in dinner, do some travel writing, then hit the hay.
 <p>
-<a href="index.php?action=DailyEvents&date=20040728&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040728&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040728; include 'commentlinks.php'; ?>
 <a id="Ref4"></a>
 <br>
@@ -73,7 +73,7 @@ I make my way out of the park then head due south to Helena, MT.  On the way I e
 <p>
 Soon enough all the driving is over and I reach Helena just before nightfall.  I drive around the city, find a suitable street camping spot, then settle in for the night.  I cook dinner, do a little travel writing, then quickly drift off to sleep for I am still exhausted from yesterday's biking adventure.
 <p>
-<a href="index.php?action=DailyEvents&date=20040729&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040729&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040729; include 'commentlinks.php'; ?>
 <a id="Ref5"></a>
 <br>
@@ -92,7 +92,7 @@ The ride is a tough one, the air proves to be rather thin up here.  I manage to 
 <p>
 Once at the van, I clean up, then drive to Bozeman, MT where I find an "on-street Internet connection" and settle in for the evening.  I cook dinner, work on the website for quite a while, then in the wee hours of the morning I finally retire.
 <p>
-<a href="index.php?action=DailyEvents&date=20040730&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040730&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040730; include 'commentlinks.php'; ?>
 <a id="Ref6"></a>
 <br>
@@ -107,7 +107,7 @@ Today is a day of rest and relaxation, no traveling or sightseeing.  I decide to
 <p>
 Soon thereafter, a car pulls up along side, and I notice it's filled full of biking gear.  I start chating with the driver and quickly learn that he too is on a road trip adventure.  Partick and I talk for more than three hours.  I learn Patrick is homeless but not without hope.  We spend some time swapping stories of car camping and travel.
 <p>
-<a href="index.php?action=DailyEvents&date=20040731&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040731&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040731; include 'commentlinks.php'; ?>
 <a id="Ref7"></a>
 <br>
@@ -126,7 +126,7 @@ While not being a huge fan of museums, this museum turns out to be a really inte
 <p>
 The day winds down into evening and I go to Montana Ale Works for some beer and camaraderie.  I stay until 11pm then hit the hay.
 <p>
-<a href="index.php?action=DailyEvents&date=20040801&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040801&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040801; include 'commentlinks.php'; ?>
 <p>
 <hr class="Journal2">

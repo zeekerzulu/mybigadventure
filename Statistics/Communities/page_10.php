@@ -43,7 +43,7 @@ Come along with me as I bungle my way through Washington, D.C.  You know what?  
 <p>
 In any event, come along with me, you won't be disappointed.  My visit to America's Capitol is hands-down the crown jewels of this travel site.
 <p>
-<a href="index.php?action=Communities&date=20041025&page=1">Description & Pics</a>
+<a href="index.php?action=Communities&date=20041025&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

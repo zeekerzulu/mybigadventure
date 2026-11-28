@@ -28,7 +28,7 @@ Cemeteries.  We all know what they are.  Most of us don't really think about the
 <p>
 Scared of cemeteries?  Don't like to think about death?  Well, face your fears, take the cemetery tour with me.  I think you'll discover such places are actually quite peaceful.
 <p>
-<a href="index.php?action=Sites&date=20040921&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20040921&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

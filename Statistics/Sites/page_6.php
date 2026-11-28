@@ -30,7 +30,7 @@ Known as the "Rodeo Capital of the World", Cody, WY puts on a pretty mean rodeo,
 <p>
 The crowd is gathering now, lets hurry so we can get good seats.  Come along.
 <p>
-<a href="index.php?action=Sites&date=20040816&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20040816&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

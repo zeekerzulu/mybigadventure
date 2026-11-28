@@ -20,7 +20,7 @@
 <b>Personal Rating:</b> x of y
 <p>
 <p>
-<a href="index.php?action=Parks&date=2004&page=1">Description & Pics</a>
+<a href="index.php?action=Parks&date=2004&page=1">Read the full story</a>
 <p>
 <hr>
 <p>
@@ -43,7 +43,7 @@
 <b>Personal Rating:</b> x of y
 <p>
 <p>
-<a href="index.php?action=Parks&date=2004&page=1">Description & Pics</a>
+<a href="index.php?action=Parks&date=2004&page=1">Read the full story</a>
 <p>
 <hr>
 <p>

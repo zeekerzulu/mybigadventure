@@ -39,7 +39,7 @@ The Museum's attractions go on and on, here's a laundry list: <i>Dinosaurs</I>, 
 <p>
 Wow, now that's an impressive list!  See anything that interests you?  Well, since my time is limited, I'll only have time to check out the past animal life exhibits, the Hall of Mammals, and the Hall of Geology, Gems, and Minerals.  Still interested in taking the tour?  If so, come on with me, the tour is now in full swing.
 <p>
-<a href="index.php?action=Museums&date=20041029&page=1">Description & Pics</a>
+<a href="index.php?action=Museums&date=20041029&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

@@ -10,7 +10,7 @@
 <a href="index.php?action=Pics&name=Daily/20041213/DSCN0381.jpg"><img src="Pics/Daily/20041213/Small/DSCN0381.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=DailyEvents&date=20041213&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041213&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref2"></a>
 <br>
 <h1><hr class="Journal2">GRAND CANYON WARM-UP HIKE - Tuesday, December 14, 2004<hr class="Journal2"></h1>
@@ -21,7 +21,7 @@
 <a href="index.php?action=Pics&name=Daily/20041214/DSCN0182.jpg"><img src="Pics/Daily/20041214/Small/DSCN0182.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=DailyEvents&date=20041214&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041214&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref3"></a>
 <br>
 <h1><hr class="Journal2">GRAND CANYON HIKE FROM HELL - Wednesday, December 15, 2004<hr class="Journal2"></h1>
@@ -33,7 +33,7 @@
 <p>
 
 <p>
-<a href="index.php?action=DailyEvents&date=20041208&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041208&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref4"></a>
 <br>
 <h1><hr class="Journal2">GLORIOUS MONUMENT VALLEY - Thursday, December 16, 2004<hr class="Journal2"></h1>
@@ -44,7 +44,7 @@
 <a href="index.php?action=Pics&name=Daily/20041216/DSCN0545.JPG"><img src="Pics/Daily/20041216/Small/DSCN0545.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=DailyEvents&date=20041216&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041216&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref5"></a>
 <br>
 <h1><hr class="Journal2">HUBBELL TRADING POST & PETRIFIED FOREST NATIONAL PARK - Friday, December 17, 2004<hr class="Journal2"></h1>
@@ -55,7 +55,7 @@
 <a href="index.php?action=Pics&name=Daily/20041217/DSCN1068.jpg"><img src="Pics/Daily/20041217/Small/DSCN1068.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=DailyEvents&date=20041217&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041217&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref6"></a>
 <br>
 <h1><hr class="Journal2">METEOR CRATER EXTRAVAGANZA - Saturday, December 18, 2004<hr class="Journal2"></h1>
@@ -66,7 +66,7 @@
 <a href="index.php?action=Pics&name=Daily/20041218/DSCN0466.jpg"><img src="Pics/Daily/20041218/Small/DSCN0466.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=DailyEvents&date=20041218&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041218&page=1" title="Travel Log">Read the full story</a>
 <p>
 <a id="Ref7"></a>
 <br>
@@ -78,7 +78,7 @@
 <a href="index.php?action=Pics&name=Daily/20041219/DSCN0984.jpg"><img src="Pics/Daily/20041219/Small/DSCN0984.jpg"></a>
 <p>
 <p>
-<a href="index.php?action=DailyEvents&date=20041219&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041219&page=1" title="Travel Log">Read the full story</a>
 <p>
 <hr class="Journal2">
 <center>

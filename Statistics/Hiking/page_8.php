@@ -42,7 +42,7 @@ The highest mountain in Southern Maine, Pleasant Mountain is a point of interest
 <p>
 Monica and I are ready to hike the mountain.  Come along with us.
 <p>
-<a href="index.php?action=Hiking&date=20041017&page=1">Description & Pics</a>
+<a href="index.php?action=Hiking&date=20041017&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

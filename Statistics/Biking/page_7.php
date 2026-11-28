@@ -38,7 +38,7 @@ The Centennial Trail is what I have in mind.  The trail runs between Spokane, Wa
 <p>
 After shoving multiple handfuls of dried fruit and energy bars into my backpack, followed by it filling with almost a gallon of water, I find myself ready for the ride.  How about you?  Ever ride 100 miles?  Are you curious?  It'll be a long ride, and I certainly could use the company.  So come on, let's get this party started!
 <p>
-<a href="index.php?action=Biking&date=20040721&page=1">Description & Pics</a>
+<a href="index.php?action=Biking&date=20040721&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

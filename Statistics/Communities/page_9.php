@@ -39,7 +39,7 @@ The city provides myriad opportunities to learn more about the life and times in
 <p>
 I'm getting a late start today, but I'm hopeful to get an eyeful of Boston before the day is done.  I'm about to tour the city, come with me this late-morning as I prepare to soak in its many offerings (churches, cemeteries, meeting halls, statues, memorials, landmarks, monuments, sailing ships, parks, and government buildings).  And walking Boston's Freedom Trail is just one of the many items on my sightseeing agenda.
 <p>
-<a href="index.php?action=Communities&date=20041020&page=1">Description & Pics</a>
+<a href="index.php?action=Communities&date=20041020&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

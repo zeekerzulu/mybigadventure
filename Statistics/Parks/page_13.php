@@ -27,7 +27,7 @@
 <p>
 Remember the 1980 Winter Olympics when the USA Men's Hockey Team triumphed over the Russians?  Well this is where the "Miracle on Ice" happened and history was made on February 22, 1980, here in the 1980 Winter Olympics Skating Arena.  It was a white-knuckler, the USA won by a single goal, USA 4, USSR 3.  The Olympic Skating Complex also boasts the 1932 Winter Olympics Skating Arena where figure skater-turned movie star Sonja Henie won her second of three consecutive Olympic Goal Medals.  Remember USA speed skater Eric Heiden?  In 1980 he won 5 Olympic Gold Metals for the USA.  On the Lake Placid Olympic Speed Skating Oval he broke 1 World and 5 Olympic Speed Skating Records.
 <p>
-<a href="index.php?action=Parks&date=20040926.1&page=1">Description & Pics</a>
+<a href="index.php?action=Parks&date=20040926.1&page=1">Read the full story</a>
 <p>
 <hr>
 <p>
@@ -57,7 +57,7 @@ Remember the 1980 Winter Olympics when the USA Men's Hockey Team triumphed over 
 <p>
 Primarily consisting of two tall ski jumps, the Olympic Jump Complex is a world-class training facility for ski jumping.  The 90 meter and 120 meter jump towers are true skyscrapers where the brave (or crazy) risk life and limb for the love of their sport.  The 120 meter tower features a skydeck that is accessible to the public via chairlift/elevator.  Steps away you'll find the Kodak Sports Park where freestyle skiers train year-round.
 <p>
-<a href="index.php?action=Parks&date=20040926.2&page=1">Description & Pics</a>
+<a href="index.php?action=Parks&date=20040926.2&page=1">Read the full story</a>
 <p>
 <hr>
 <p>

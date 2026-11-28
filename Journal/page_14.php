@@ -16,7 +16,7 @@ As I continue my drive, I notice the pretty Vermont countryside periodically giv
 <p>
 I eventually overnight in Ellsworth, ME, which is near Acadia National Park.  I take my time to find a good place to park "on street", with hopes to be concealed enough to keep the cops at bay.  But, I was to find out in the early morning hours, my efforts to maintain stealth are rewarded with a visit from the unwelcome.
 <p>
-<a href="index.php?action=DailyEvents&date=20041004&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041004&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041004; include 'commentlinks.php'; ?>
 <a id="Ref2"></a>
 <br>
@@ -41,7 +41,7 @@ All tuckered out from all the sightseeing, I head back down the mountainside and
 <p>
 I say my goodbyes then head to the campground for a shower.  I eat dinner then work on the website for a while before hitting the hay.
 <p>
-<a href="index.php?action=DailyEvents&date=20041005&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041005&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041005; include 'commentlinks.php'; ?>
 <a id="Ref3"></a>
 <br>
@@ -58,7 +58,7 @@ The ride around the island takes me to a variety of interesting places.  From th
 <p>
 As the ride winds down I find myself really cold, the late afternoon is now upon me.  Glad to be back at the campsite once again, I warm myself in the van, then make preparations to drive to Bar Harbor for dinner.  Upon arrival I select Testa's for dinner due to the large lobster sign that swings above its doorway.  I order not one, but two Maine lobsters for dinner, and take time to revel in my seafood feast.  After dinner I do a little window shopping then retire back at the campgrounds for the evening.
 <p>
-<a href="index.php?action=DailyEvents&date=20041006&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041006&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041006; include 'commentlinks.php'; ?>
 <a id="Ref4"></a>
 <br>
@@ -75,7 +75,7 @@ From my campsite I drive to the southern tip of Jordan Pond then saddle up the m
 <p>
 When the dust finally settles, I realize the 20+ miles of biking up and down the carriage roads have taken their toll.  I'm really feeling rather tired from all the exertion.  I wrap up the day by cleaning up then driving to Bar Harbor to relax for a bit.  Once evening arrives and I retire back to the campgrounds.  I cook up some dinner then work on the website until bedtime.
 <p>
-<a href="index.php?action=DailyEvents&date=20041007&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041007&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041007; include 'commentlinks.php'; ?>
 <a id="Ref5"></a>
 <br>
@@ -96,7 +96,7 @@ The drive serves up a few interesting sights, the first being Bass Harbor Lighth
 <p>
 After reaching Portland, ME I head inland due west to Parsonsfield, ME.  Upon arrival in the evening I am heartily greeted by my friend Bill.  We spend the rest of the night catching up on things.
 <p>
-<a href="index.php?action=DailyEvents&date=20041008&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041008&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041008; include 'commentlinks.php'; ?>
 <a id="Ref6"></a>
 <br>
@@ -117,7 +117,7 @@ After eating lunch and resting a bit, we head back down by a different route to 
 <p>
 In the evening I finally meet Bill's girlfriend, Louise.  All three of us settle in for the night at Bill's place.
 <p>
-<a href="index.php?action=DailyEvents&date=20041009&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041009&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20041009; include 'commentlinks.php'; ?>
 <a id="Ref7"></a>
 <br>

@@ -34,7 +34,7 @@ What better place to be for a sunset than in the Great Smoky Mountains.  For cer
 <p>
 The clear sky day is slowly turning into dusk.  Up here on the mountain, I'm almost guarenteed to catch the sunset at its best and most colorful.  Come with me now.  And don't forget to bring your camera, you'll want to take a ton of pictures.
 <p>
-<a href="index.php?action=Sites&date=20041107&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20041107&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

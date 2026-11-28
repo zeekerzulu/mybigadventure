@@ -16,7 +16,7 @@ While chillin' at the park, I run into a group of interesting folks and their ev
 <p>
 After the rodeo I leave Cody, Wyoming and drive east a ways into the high desert and settle in for the night.
 <p>
-<a href="index.php?action=DailyEvents&date=20040816&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040816&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040816; include 'commentlinks.php'; ?>
 <a id="Ref2"></a>
 <br>
@@ -31,7 +31,7 @@ After a really blustery night I wake to a gloomy, overcast day.  Good thing I'll
 <p>
 Sadly, just before sunset I encounter a dead fawn along the roadside.  Moved by the mishap, I pull over and drag the dead animal into the ditch, wanting to spare the sight from other drivers who will pass this way.  Soon thereafter I reach Devils Tower.  I drive around for a bit and eventually find a spot to van camp in a pasture located well off the main road.  I quickly settle in for the night.
 <p>
-<a href="index.php?action=DailyEvents&date=20040817&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040817&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040817; include 'commentlinks.php'; ?>
 <a id="Ref3"></a>
 <br>
@@ -48,7 +48,7 @@ I make quick time to the monument, pay my admission, then drive up a spiraling r
 <p>
 After I finish my tour, I jump in the van and drive east to Rapid City, SD.  I fix dinner, do more travel writing, then hit the hay.
 <p>
-<a href="index.php?action=DailyEvents&date=20040818&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040818&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040818; include 'commentlinks.php'; ?>
 <a id="Ref4"></a>
 <br>
@@ -69,7 +69,7 @@ Spend the entire day travel writing.  In the evening I have a run-in with one of
 <p>
 To steer clear of any more unpleasant encounters I leave the neighborhood.  On my way to a nearby car wash I... WHAM!!!  I get busted by the cops!  Seems the paranoid resident ratted me out, even after I talked to the dude and gave him my travel business card.  Some people are just overly paranoid I guess, not much I can do about that.  However, looking on the bright side, the van ends the day squeaky clean as I ready it for more road traveling adventure.
 <p>
-<a href="index.php?action=DailyEvents&date=20040820&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040820&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040820; include 'commentlinks.php'; ?>
 <a id="Ref6"></a>
 <br>
@@ -86,7 +86,7 @@ After spending a few hours walking around and admiring the memorial, I hit the r
 <p>
 After experiencing much frustration in looking for a place to van-camp as far away from Rapid City (aka police-avoidance) as possible, I ended up finding myself back in, of all places, Rapid City for one more white-knuckled night.
 <p>
-<a href="index.php?action=DailyEvents&date=20040821&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040821&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040821; include 'commentlinks.php'; ?>
 <a id="Ref7"></a>
 <br>
@@ -106,7 +106,7 @@ After my Wall Drug tour, I set my sights on the Badlands.  Upon entry into the p
 <p>
 After my bike ride I drive to Sage Creek Campgrounds, a primative campgounds with no water or bathroom facilities, for some rest and relaxation.  As evening approaches, a spectacular thunderstorm unleashes a torrent of rain, all orchestrated with bountiful thunder and lightening.  It's all quite impressive.  It is times like this that makes me thankful I'm not sleeping in a tent.
 <p>
-<a href="index.php?action=DailyEvents&date=20040822&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20040822&page=1" title="Travel Log">Read the full story</a>
 <?php $datekey = 20040822; include 'commentlinks.php'; ?>
 <p>
 <hr class="Journal2">

@@ -30,7 +30,7 @@ Wall Drug is an interesting place.  Founded in 1931 by Dorothy and Ted Hustead, 
 <p>
 Are you ready to experience an interesting slice of Americana?  I just pulled into the parking lot, let's go inside and check it out.
 <p>
-<a href="index.php?action=Sites&date=20040822&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20040822&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

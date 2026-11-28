@@ -30,7 +30,7 @@ Need to get across Lake Champlain?  Well, look no further, Lake Champlain Ferrie
 <p>
 I'm ready to cross the lake, just sitting here in the van, waiting patiently in line for the next ferry to arrive.  Come on, jump in and cross the lake with me.
 <p>
-<a href="index.php?action=Sites&date=20040927.2&page=1">Description & Pics</a>
+<a href="index.php?action=Sites&date=20040927.2&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

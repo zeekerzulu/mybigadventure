@@ -46,7 +46,7 @@ His tenure as President was a tumultuous one that, in the end, resulted in the u
 <p>
 Hey, the Lincoln Memorial is now within eyeshot.  Come with me to learn more about the Memorial as well as Abraham Lincoln and his ideals at a time in history when America was on the fast track to oblivion.
 <p>
-<a href="index.php?action=Memorials&date=20041027.3&page=1">Description & Pics</a>
+<a href="index.php?action=Memorials&date=20041027.3&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

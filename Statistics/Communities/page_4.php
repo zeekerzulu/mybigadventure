@@ -37,7 +37,7 @@ Today the town and surrounding community embraces tourism as its largest source 
 <p>
 I'm ready to start my tour of the town.  So come on, let's go check out what Jackson has to offer.
 <p>
-<a href="index.php?action=Communities&date=20040808&page=1">Description & Pics</a>
+<a href="index.php?action=Communities&date=20040808&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

@@ -16,7 +16,7 @@ After my tour, I put rubber to the road and drive through a good portion of Cent
 <p>
 I spend a little time travel writing before turning in for the evening.  Tomorrow I have plans to drive north to Carlsbad Caverns National Park in New Mexico where I'll tour the caves there.
 <p>
-<a href="index.php?action=DailyEvents&date=20041115&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041115&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref2"></a>
 <br>
 <h1><hr class="Journal2">VISITING CARLSBAD CAVERNS - Tuesday, November 16, 2004<hr class="Journal2"></h1>
@@ -34,7 +34,7 @@ Nearing Carlsbad Caverns I pick up a cowboy hitchhiker named Loren.  From his tr
 <p>
 After completing my tour, I head back into Carlsbad, New Mexico, where I run into Joe, a handicapped and homeless man.  After aiding Joe with a ride and a little money, I retire at the local Walmart, where I fix dinner, then partake in a bit of travel writing before retiring for the night.
 <p>
-<a href="index.php?action=DailyEvents&date=20041116&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041116&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref3"></a>
 <br>
 <h1><hr class="Journal2">ALIEN ENCOUNTERS - Wednesday, November 17, 2004<hr class="Journal2"></h1>
@@ -52,7 +52,7 @@ From the Walmart parking lot in Carlsbad, New Mexico I begin my trek northward t
 <p>
 At days end I find myself all museumed out and hitting the road to Taos, New Mexico.  I drive into the night, missing out on some good pretty scenery, a judgement based stictly on the fact that I gained a lot of elevation during my trip.  Oh well, you have to drive sometime to get from point A to point B.  Once I arrive at point B (Taos), I settle into the local Walmart there, taking in dinner then hitting the hay.
 <p>
-<a href="index.php?action=DailyEvents&date=20041117&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041117&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref4"></a>
 <br>
 <h1><hr class="Journal2">ROMPING AROUND NORTHERN NEW MEXICO - Thursday, November 18, 2004<hr class="Journal2"></h1>
@@ -70,7 +70,7 @@ After the ride I clean up then drive to San Francisco de Asis Church nearby, an 
 <p>
 Once the church tour winds down I high-tail it through Taos to Taos Pueblo, wanting to get a quick looksee in before dusk.  Unfortunately, time and light are not on my side, I end up shelving a tour of the ancient pueblo until tomorrow.  I head back to Taos to catch the movie <i>Ray</i>.  Good flick.  After the movie I turn in and pray for another sunny day.  Slightly warmer temps would be nice too.  Am I asking too much?
 <p>
-<a href="index.php?action=DailyEvents&date=20041118&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041118&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref5"></a>
 <br>
 <h1><hr class="Journal2">BIRTHDAY IN TAOS - Friday, November 19, 2004<hr class="Journal2"></h1>
@@ -86,7 +86,7 @@ Today I have my sights set on touring both the city of Taos, New Mexico and Taos
 <p>
 Winding down from a full day of touring I jump in the van and head due north out of New Mexico and into Colorado, the home state of my good buddy Paul.  I drive into the night to the southern suburbs of Denver, where I meet not only him but the first snow of my trip.  Yuck!  I spend some time catching up with Paul before turning in for the night.
 <p>
-<a href="index.php?action=DailyEvents&date=20041119&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041119&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref6"></a>
 <br>
 <h1><hr class="Journal2">HANGING WITH PAUL - Saturday, November 20, 2004<hr class="Journal2"></h1>
@@ -98,7 +98,7 @@ Winding down from a full day of touring I jump in the van and head due north out
 <p>
 I spend the entire day and evening hanging around with my friend Paul.  I haven't seen him in quite a while, so it's time well spent.  After a crisis intervention with my van in the morning, the day's events progress to poking some fun at real estate shopping, followed by dinner and a nice evening of winding down with beers and billards.
 <p>
-<a href="index.php?action=DailyEvents&date=20041120&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041120&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref7"></a>
 <br>
 <h1><hr class="Journal2">ARTS & CRAFTS - Sunday, November 21, 2004<hr class="Journal2"></h1>
@@ -110,7 +110,7 @@ I spend the entire day and evening hanging around with my friend Paul.  I haven'
 <p>
 Another lazy day here in Denver.  Today's highlights include meeting Paul's folks, some oohing and ahhing at his Mom's arts and crafts, filling up with dinner at a greasy buffet, then capping things off with a little work on the website.
 <p>
-<a href="index.php?action=DailyEvents&date=20041121&page=1" title="Travel Log">Description & Pics</a>
+<a href="index.php?action=DailyEvents&date=20041121&page=1" title="Travel Log">Read the full story</a>
 <p>
 <hr class="Journal2">
 <center>

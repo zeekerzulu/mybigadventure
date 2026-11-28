@@ -35,7 +35,7 @@ Everyone grows up somewhere and for me that place was Oakfield, NY. A small comm
 <p>
 Come join me now as I travel down memory lane in my old stomping grounds, Oakfield, New York.
 <p>
-<a href="index.php?action=Communities&date=20040916&page=1">Description & Pics</a>
+<a href="index.php?action=Communities&date=20040916&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

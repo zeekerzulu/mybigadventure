@@ -39,7 +39,7 @@ My visit to New Orleans will concentrate on its French Quarter offering.  The ol
 <p>
 Rather than present my tour chronologically, I've decided to categorize the sights instead to make your taste of my experiences more palatable.  Come with me now as I tour the French Quarter.  This place has got something for everybody, and that includes you.
 <p>
-<a href="index.php?action=Communities&date=20041112&page=1">Description & Pics</a>
+<a href="index.php?action=Communities&date=20041112&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

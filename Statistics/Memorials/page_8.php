@@ -44,7 +44,7 @@ Fortunately, clearer heads prevailed, and in 1943, on the 200th anniversary of T
 <p>
 I've just arrived at the Memorial and am making my way to its front.  Come with me and experience this fine tribute to the man who gave so much to his country.
 <p>
-<a href="index.php?action=Memorials&date=20041027.6&page=1">Description & Pics</a>
+<a href="index.php?action=Memorials&date=20041027.6&page=1">Read the full story</a>
 <p>
 <center>
 <hr>

@@ -39,7 +39,7 @@ In regard to commerce, Fortune 500 companies located in Memphis include AutoZone
 <p>
 I've just entered the city limits and I'm now on my way to see Graceland.  Come with me on my tour of Memphis, experiencing this little slice of the good ole south will be good for you.
 <p>
-<a href="index.php?action=Communities&date=20041110&page=1">Description & Pics</a>
+<a href="index.php?action=Communities&date=20041110&page=1">Read the full story</a>
 <p>
 <center>
 <hr>
