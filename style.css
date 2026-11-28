@@ -1008,7 +1008,7 @@ body {
   max-width: 800px;
   margin: 0 auto 8px;
   font-size: 13px;
-  color: #444;
+  color: <?php echo $fontcolor ?>;
   text-align: center;
 }
 
@@ -1027,7 +1027,7 @@ body {
   margin-left: 1.6em;
 }
 .MapLegendPlanned {
-  color: #777;
+  opacity: 0.6;
 }
 
 /* daily log: "Day X of Y" under the date (JD, 2026-11-27) */
