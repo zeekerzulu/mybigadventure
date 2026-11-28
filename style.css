@@ -987,7 +987,7 @@ body {
 
 /* daily log: "Day X of Y" under the date (JD, 2026-11-27) */
 .DayOf {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: normal;
 }
 
