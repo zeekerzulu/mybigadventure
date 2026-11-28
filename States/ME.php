@@ -6,6 +6,7 @@ if (isset($_REQUEST['back'])) {
 } else {
   echo "<p><center><a href='index.php?action=Maps&state=USA'>Go to USA Map</a></center><p>";
 }
+include 'statemaphint.php';
 ?>
 <img id="map1" src="States/Maps/ME_20050715.gif" USEMAP="#map">
 <MAP id="map1_map" NAME="map">

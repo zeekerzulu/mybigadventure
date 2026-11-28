@@ -1003,6 +1003,15 @@ body {
   font-size: 13px;
 }
 
+/* one-line hint above each state map (JD, 2026-11-27) */
+.MapHint {
+  max-width: 800px;
+  margin: 0 auto 8px;
+  font-size: 13px;
+  color: #444;
+  text-align: center;
+}
+
 /* text legend under each state map (JD, 2026-11-27) */
 .MapLegend {
   max-width: 800px;
