@@ -20,16 +20,26 @@ if ($state != 'USA' && is_file($legendfile)) {
     }
     return $in;
   };
+  // A pin whose day is already published is judged by that day's state in navshortcutmap.php (exact); other pins
+  // fall back to the polygon test above.
+  include_once 'navshortcutmap.php';
   $groups = array(); $order = array(); $group = '';
   foreach ($lines as $line) {
     if (preg_match('/<!--\s*([A-Z][A-Z ]+?)\s*-->/', $line, $m)) { $group = ucwords(strtolower($m[1])); if ($group == 'Travel Log') $group = 'Travel Log'; continue; }
     if (!preg_match('/<AREA [^>]*COORDS="([\d,]+)"[^>]*HREF="([^"]*)"[^>]*TITLE="([^"]*)"/i', $line, $m)) continue;
     $coords = array_map('intval', explode(',', $m[1])); $href = $m[2]; $title = $m[3];
-    if (count($coords) >= 4) {
+    $daystate = '';
+    if (preg_match('/date=(\d{8})/', $href, $dd) && isset($navshortcutmap[$dd[1]][4])) $daystate = $navshortcutmap[$dd[1]][4];
+    if ($daystate != '') { if ($daystate != $state) continue; }
+    elseif (count($coords) >= 4) {
       $xs = array(); $ys = array(); for ($k = 0; $k + 1 < count($coords); $k += 2) { $xs[] = $coords[$k]; $ys[] = $coords[$k + 1]; }
-      $cx = array_sum($xs) / count($xs); $cy = array_sum($ys) / count($ys); $out = false;
-      foreach ($neighbours as $poly) if ($inside($cx, $cy, $poly)) { $out = true; break; }
-      if ($out) continue;
+      // sample the pin's centre and corners; a pin is a neighbour's if most of it lies in neighbour polygons
+      // (pins can straddle the hairline gap between two neighbour polygons, e.g. Lake Placid on the PA map)
+      $cx = array_sum($xs) / count($xs); $cy = array_sum($ys) / count($ys);
+      $samples = array(array($cx, $cy), array(min($xs), min($ys)), array(max($xs), min($ys)), array(min($xs), max($ys)), array(max($xs), max($ys)));
+      $hits = 0;
+      foreach ($samples as $pt) foreach ($neighbours as $poly) if ($inside($pt[0], $pt[1], $poly)) { $hits++; break; }
+      if ($hits >= 3) continue;
     }
     if ($group == '' || $group == 'States' || $group == 'Stats') continue;
     if (strpos($href, 'action=Maps') !== false) continue;
