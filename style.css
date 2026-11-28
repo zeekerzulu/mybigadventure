@@ -985,6 +985,13 @@ body {
   background-size: 100% auto;
 }
 
+/* daily log: "Day X of Y" under the date (JD, 2026-11-27) */
+.DayOf {
+  font-size: 12px;
+  font-weight: normal;
+  color: #555;
+}
+
 .GalleryNoHeadings,
 .GalleryNoHeadingsShort,
 .GalleryNoHeadingsTall,

@@ -32,6 +32,11 @@
   if ($headingdate) {
     echo "<p class='Heading'></p>$headingdate";
   }
+  // Daily log only: "Day X of Y" under the date (JD, 2026-11-27). Day 1 = July 8, 2004; Y = the trip's Days Away.
+  if ($action == 'DailyEvents' && isset($_REQUEST['date']) && preg_match('/^(\d{4})(\d{2})(\d{2})$/', $_REQUEST['date'], $dm)) {
+    $daynum = (int)((mktime(12, 0, 0, (int)$dm[2], (int)$dm[3], (int)$dm[1]) - mktime(12, 0, 0, 7, 8, 2004)) / 86400) + 1;
+    if ($daynum >= 1 && $daynum <= 200) echo "<p class='Heading'></p><span class='DayOf'>Day $daynum of 186</span>";
+  }
 ?>
 </h1>
 </center>
