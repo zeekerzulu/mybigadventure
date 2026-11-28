@@ -18,7 +18,7 @@ The Coors Brewery tour: a shuttle bus, a copper kettle the size of my van at the
 Welcome to Golden, Where the West Lives.  I spend the early afternoon on foot: the arch over Washington Avenue, a town full of bronze statues, Clear Creek running cold through the middle of it, and a late lunch.  Click <a href="index.php?action=Stats&stat=Communities&date=20041122&page=15">here</a> for more detail and pictures of my walking tour of Golden.
 <p>
 <a href="index.php?action=Pics&name=Daily/20041122/DSCN0540.jpg"><img src="Pics/Daily/20041122/Small/DSCN0540.jpg"></a>
-<a href="index.php?action=Pics&name=Daily/20041122/DSCN0547.jpg"><img src="Pics/Daily/20041122/Small/DSCN0547.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041122/DSCN0551.jpg"><img src="Pics/Daily/20041122/Small/DSCN0551.jpg"></a>
 <p>
 Mid-afternoon, the light going gold, and the moon up over Castle Rock.  I take roughly forty pictures of it.  Here are two.  You're welcome.
 <p>
