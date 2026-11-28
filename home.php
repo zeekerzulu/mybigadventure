@@ -20,6 +20,8 @@ Welcome to my travel site!  You have just entered into the realms of My Big Adve
 ?>
 </center>
 <p>
+<b>New here?  Start with the <a href="index.php?action=TripJournal&daterange=20040708-20040711&page=1">Trip Journal</a></b>, a week-by-week summary of the trip with the best pictures from each day.  When a day catches your eye, its <b>Read the full story</b> link opens the Travel Log, the complete day with all the pictures (or begin at <a href="index.php?action=DailyEvents&date=20040708&page=1">Day 1</a>).  To find a place, use the <a href="index.php?action=Calendar&month=July">Calendar</a> or click a state on the <a href="index.php?action=Maps&state=USA">map</a> below; the numbers down the left side link to the trip's sights, parks, people and oddities.
+<p>
 A lot of ground was covered during my travels, a total of 18,218 miles to be exact.  In the process I passed through 34 states, biked more than 500 miles, hiked more than 100 miles, visited 19 parks, saw tons of interesting sights, and met a lot of great folks, including family, friends, and acquaintances.
 <p>
 <center>
