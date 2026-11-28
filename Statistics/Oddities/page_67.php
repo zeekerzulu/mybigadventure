@@ -133,7 +133,7 @@ I take about thirty pictures, because a hundred geese with opinions is not somet
 <a href="index.php?action=Stats&stat=Oddities&date=20050108.2&page=109" title="Redwood Truck">109</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20050109.1&page=110" title="Run for the Hills!">110</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20050109.2&page=111" title="Mountain Injection">111</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20051010&page=112" title="Psychedelic Sand">112</a>
+<a href="index.php?action=Stats&stat=Oddities&date=20051010&page=112" title="Psychedelic Sand">112</a>-->
 &nbsp;&nbsp;<a href="index.php?action=Stats&stat=Oddities&date=20041201.3&page=68" title="Next Oddity">>>></a>
 <hr>
 </center>
