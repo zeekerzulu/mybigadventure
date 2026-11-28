@@ -1,14 +1,22 @@
+<?php
+$heading = 'Friendly Fowl';
+$headingsecondary = 'Clifton, Colorado';
+$headingdate = 'Wednesday, December 1, 2004';
+include 'renderheading.php';
+?>
+<p>
 <center>
-<a name="#O67" alt="Friendly Fowl - Northwestern Colorado"><b><h1>FRIENDLY&nbsp;&nbsp;FOWL<br><img src="Graphics/titlespace.gif"><br>Northwestern Colorado</h1></b>
-<p>
-Wednesday, December 1, 2004
-<p>
-<a href="index.php?action=Pics&name=Daily/20041201/DSCN0219.jpg"><img src="Temp/20041201/DSCN0219.jpg" width="160" height="120"></a>
-<a href="index.php?action=Pics&name=Daily/20041201/DSCN0223.jpg"><img src="Temp/20041201/DSCN0223.jpg" width="160" height="120"></a>
-<a href="index.php?action=Pics&name=Daily/20041201/DSCN0228.jpg"><img src="Temp/20041201/DSCN0228.jpg" width="160" height="120"></a>
-<a href="index.php?action=Pics&name=Daily/20041201/DSCN0233.jpg"><img src="Temp/20041201/DSCN0233.jpg" width="160" height="120"></a>
+<a href="index.php?action=Pics&name=Daily/20041201/DSCN0219.jpg"><img src="Pics/Daily/20041201/Small/DSCN0219.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041201/DSCN0223.jpg"><img src="Pics/Daily/20041201/Small/DSCN0223.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041201/DSCN0228.jpg"><img src="Pics/Daily/20041201/Small/DSCN0228.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041201/DSCN0233.jpg"><img src="Pics/Daily/20041201/Small/DSCN0233.jpg"></a>
 </center>
 <p>
+Colorado River State Park, the Corn Lake section, just outside Grand Junction, where I pull in to stretch my legs on the long drive to Moab.  The lake is frozen along the edges, the Book Cliffs are standing over it, and there is a crowd waiting for me on the shore.  Geese.  A hundred of them, give or take, domestic and wild all mixed together, and every one of them has seen a van door open before.
+<p>
+They come at me in a wave, honking, with the big white ones out front like they're in charge, and they stop about a foot from my boots and look up.  I have nothing.  I show them my empty hands.  They don't believe me.  One of them says something rude.
+<p>
+I take about thirty pictures, because a hundred geese with opinions is not something you see every day, and then I back toward the van with the whole flock escorting me like I've been voted off the island.  Demanding fowl.  Somebody has been feeding these birds, and it wasn't me.
 <p>
 <center>
 <hr>
@@ -67,7 +75,7 @@ Wednesday, December 1, 2004
 <a href="index.php?action=Stats&stat=Oddities&date=20041111&page=51" title="Great White Truck">51</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041112.1&page=52" title="Later Gater">52</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041112.2&page=53" title="Kinky Leather">53</a>
-<!--<a href="index.php?action=Stats&stat=Oddities&date=20041116&page=54" title="Dripping Concoction">54</a>
+<a href="index.php?action=Stats&stat=Oddities&date=20041116&page=54" title="Dripping Concoction">54</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041117.1&page=55" title="Eyes from Above">55</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041117.2&page=56" title="Bored Aliens">56</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041117.3&page=57" title="Alien Exposed">57</a>
@@ -75,14 +83,14 @@ Wednesday, December 1, 2004
 <a href="index.php?action=Stats&stat=Oddities&date=20041119.1&page=59" title="Elephant Footprints">59</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041119.2&page=60" title="Dirty Straw">60</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041119.3&page=61" title="Sinking Window">61</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20041121&page=62" title="Verbal Van">62</a>
+<a href="index.php?action=Stats&stat=Oddities&date=20041120&page=62" title="Verbal Van">62</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041122&page=63" title="Stonework RIP">63</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20041125&page=64" title="Sailing Bridge">64</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20041126&page=65" title="Lucky Bucket">65</a>
+<!--<a href="index.php?action=Stats&stat=Oddities&date=20041125&page=64" title="Sailing Bridge">64</a>
+<a href="index.php?action=Stats&stat=Oddities&date=20041126&page=65" title="Lucky Bucket">65</a>-->
 <a href="index.php?action=Stats&stat=Oddities&date=20041201.1&page=66" title="Got Hides?">66</a>
 <b>67</b>
 <a href="index.php?action=Stats&stat=Oddities&date=20041201.3&page=68" title="Elephant Skin">68</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20041202&page=69" title="Dino Remnant">69</a>
+<!--<a href="index.php?action=Stats&stat=Oddities&date=20041202&page=69" title="Dino Remnant">69</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041203.1&page=70" title="Temporary Elevation">70</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041203.2&page=71" title="Double Miracle">71</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041204&page=72" title="Colorful Cling-On">72</a>
@@ -125,7 +133,7 @@ Wednesday, December 1, 2004
 <a href="index.php?action=Stats&stat=Oddities&date=20050108.2&page=109" title="Redwood Truck">109</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20050109.1&page=110" title="Run for the Hills!">110</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20050109.2&page=111" title="Mountain Injection">111</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20051010&page=112" title="Psychedelic Sand">112</a>-->
+<a href="index.php?action=Stats&stat=Oddities&date=20051010&page=112" title="Psychedelic Sand">112</a>
 &nbsp;&nbsp;<a href="index.php?action=Stats&stat=Oddities&date=20041201.3&page=68" title="Next Oddity">>>></a>
 <hr>
 </center>

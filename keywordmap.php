@@ -424,6 +424,9 @@ Classical Chinese Garden", "2" => "dr sun yat sen classical chinese garden,class
 	"Oddities20041119.3" => array("1" => "Sinking Window", "2" => "", "3" => "http://www.mybigadventure.com/Pics/Oddities/20041119_21.JPG"),
 	"Oddities20041121" => array("1" => "Verbal Van", "2" => "", "3" => "http://www.mybigadventure.com/Pics/Oddities/20041121_2.JPG"),
 	"Oddities20041122" => array("1" => "Stonework RIP", "2" => "", "3" => "http://www.mybigadventure.com/Pics/Oddities/20041122_1.JPG"),
+	"Oddities20041201.1" => array("1" => "Got Hides?", "2" => "", "3" => "http://www.mybigadventure.com/Pics/Oddities/20041201_1.JPG"),
+	"Oddities20041201.2" => array("1" => "Friendly Fowl", "2" => "", "3" => "http://www.mybigadventure.com/Pics/Oddities/20041201_20.JPG"),
+	"Oddities20041201.3" => array("1" => "Elephant Skin", "2" => "", "3" => "http://www.mybigadventure.com/Pics/Oddities/20041201_30.JPG"),
 	
   // MISHAPS //
   

@@ -34,11 +34,11 @@
 
 <div class='GalleryItem'><div class='GalleryHeading'>Oddity #65</div><div><a href="index.php?action=Pics&name=Oddities/20041126_10.JPG&nocomments=1"><img src="Pics/Oddities/20041126_10_sm.jpg"></a></div><div class='GalleryLink'>Lucky Bucket</div></div>
 
-<div class='GalleryItem'><div class='GalleryHeading'>Oddity #66</div><div><a href="index.php?action=Pics&name=Oddities/20041201_1.JPG&nocomments=1"><img src="Pics/Oddities/20041201_1_sm.jpg"></a></div><div class='GalleryLink'>Got Hides?</div></div>
+<div class='GalleryItem'><div class='GalleryHeading'>Oddity #66</div><div><a href="index.php?action=Pics&name=Oddities/20041201_1.JPG&nocomments=1"><img src="Pics/Oddities/20041201_1_sm.jpg"></a></div><div class='GalleryLink'><a href="index.php?action=Stats&stat=Oddities&date=20041201.1&page=66">Got Hides?</a></div></div>
 
-<div class='GalleryItem'><div class='GalleryHeading'>Oddity #67</div><div><a href="index.php?action=Pics&name=Oddities/20041201_20.JPG&nocomments=1"><img src="Pics/Oddities/20041201_20_sm.jpg"></a></div><div class='GalleryLink'>Friendly Fowl</div></div>
+<div class='GalleryItem'><div class='GalleryHeading'>Oddity #67</div><div><a href="index.php?action=Pics&name=Oddities/20041201_20.JPG&nocomments=1"><img src="Pics/Oddities/20041201_20_sm.jpg"></a></div><div class='GalleryLink'><a href="index.php?action=Stats&stat=Oddities&date=20041201.2&page=67">Friendly Fowl</a></div></div>
 
-<div class='GalleryItem'><div class='GalleryHeading'>Oddity #68</div><div><a href="index.php?action=Pics&name=Oddities/20041201_30.JPG&nocomments=1"><img src="Pics/Oddities/20041201_30_sm.jpg"></a></div><div class='GalleryLink'>Elephant Skin</div></div>
+<div class='GalleryItem'><div class='GalleryHeading'>Oddity #68</div><div><a href="index.php?action=Pics&name=Oddities/20041201_30.JPG&nocomments=1"><img src="Pics/Oddities/20041201_30_sm.jpg"></a></div><div class='GalleryLink'><a href="index.php?action=Stats&stat=Oddities&date=20041201.3&page=68">Elephant Skin</a></div></div>
 
 <div class='GalleryItem'><div class='GalleryHeading'>Oddity #69</div><div><a href="index.php?action=Pics&name=Oddities/20041202_3.JPG&nocomments=1"><img src="Pics/Oddities/20041202_3_sm.jpg"></a></div><div class='GalleryLink'>Dino Remnant</div></div>
 

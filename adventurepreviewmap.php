@@ -234,6 +234,9 @@ $adventurepreviewmap = array (
 	array("Oddities","LA","Kinky Leather","Stats&stat=Oddities&date=20041112&page=53"),
 	array("Oddities","NM","Dripping Concoction","Stats&stat=Oddities&date=20041116&page=54"),
 	array("Oddities","CO","Stonework RIP","Stats&stat=Oddities&date=20041122&page=63"),
+	array("Oddities","CO","Got Hides?","Stats&stat=Oddities&date=20041201.1&page=66"),
+	array("Oddities","CO","Friendly Fowl","Stats&stat=Oddities&date=20041201.2&page=67"),
+	array("Oddities","UT","Elephant Skin","Stats&stat=Oddities&date=20041201.3&page=68"),
 
 	// MISHAPS
 

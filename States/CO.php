@@ -37,7 +37,7 @@ include 'statemaphint.php';
 
 <AREA SHAPE=POLY COORDS="194,436,225,436,225,453,194,453" HREF="index.php?action=DailyEvents&date=20041129&page=1&maplink=1" TITLE="Travel Log - Montrose">
 
-<AREA SHAPE=POLY COORDS="0,381,31,381,31,397,0,397" HREF="index.php?action=UnderConstruction&date=20041201&page=1" TITLE="Travel Log - Moab, Utah">
+<AREA SHAPE=POLY COORDS="0,381,31,381,31,397,0,397" HREF="index.php?action=DailyEvents&date=20041201&page=1&maplink=1" TITLE="Travel Log - Moab, Utah">
 
 <AREA SHAPE=POLY COORDS="28,572,59,572,59,590,28,590" HREF="index.php?action=UnderConstruction&date=200&page=1" TITLE="Travel Log">
 
@@ -121,11 +121,11 @@ include 'statemaphint.php';
 
 <AREA SHAPE=POLY COORDS="418,224,456,224,456,239,418,239" HREF="index.php?action=UnderConstruction&stat=Oddities&date=20041125&page=&maplink=1" TITLE="Sailing Bridge">
 
-<AREA SHAPE=POLY COORDS="136,421,176,421,176,437,136,437" HREF="index.php?action=UnderConstruction&stat=Oddities&date=20041201.1&page=&maplink=1" TITLE="Got Hides?">
+<AREA SHAPE=POLY COORDS="136,421,176,421,176,437,136,437" HREF="index.php?action=Stats&stat=Oddities&date=20041201.1&page=66&maplink=1" TITLE="Got Hides?">
 
-<AREA SHAPE=POLY COORDS="144,320,185,320,185,337,144,337" HREF="index.php?action=UnderConstruction&stat=Oddities&date=20041201.2&page=&maplink=1" TITLE="Friendly Fowl">
+<AREA SHAPE=POLY COORDS="144,320,185,320,185,337,144,337" HREF="index.php?action=Stats&stat=Oddities&date=20041201.2&page=67&maplink=1" TITLE="Friendly Fowl">
 
-<AREA SHAPE=POLY COORDS="81,317,119,317,119,332,81,332" HREF="index.php?action=UnderConstruction&stat=Oddities&date=20041201.3&page=&maplink=1" TITLE="Elephant Skin">
+<AREA SHAPE=POLY COORDS="81,317,119,317,119,332,81,332" HREF="index.php?action=Stats&stat=Oddities&date=20041201.3&page=68&maplink=1" TITLE="Elephant Skin">
 
 <AREA SHAPE=POLY COORDS="0,429,31,429,31,444,0,444" HREF="index.php?action=UnderConstruction&stat=Oddities&date=200&page=&maplink=1" TITLE="">
 

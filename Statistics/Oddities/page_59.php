@@ -81,11 +81,11 @@ In Taos, New Mexico ,you'll find what looks to be a curious assortment of elepha
 <a href="index.php?action=Stats&stat=Oddities&date=20041121&page=62" title="Verbal Van">62</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041122&page=63" title="Stonework RIP">63</a>
 <!--<a href="index.php?action=Stats&stat=Oddities&date=20041125&page=64" title="Sailing Bridge">64</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20041126&page=65" title="Lucky Bucket">65</a>
+<a href="index.php?action=Stats&stat=Oddities&date=20041126&page=65" title="Lucky Bucket">65</a>-->
 <a href="index.php?action=Stats&stat=Oddities&date=20041201.1&page=66" title="Got Hides?">66</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041201.2&page=67" title="Friendly Fowl">67</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041201.3&page=68" title="Elephant Skin">68</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20041202&page=69" title="Dino Remnant">69</a>
+<!--<a href="index.php?action=Stats&stat=Oddities&date=20041202&page=69" title="Dino Remnant">69</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041203.1&page=70" title="Temporary Elevation">70</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041203.2&page=71" title="Double Miracle">71</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041204&page=72" title="Colorful Cling-On">72</a>

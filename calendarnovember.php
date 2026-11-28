@@ -570,7 +570,7 @@
 				<tr>
 				
 					<td width="100">
- 						<a href="index.php?action=DailyEvents&date=20041128&page=1" onclick="return ShowDayLinks(this,'right')" title="Travel Log">28</a><br>
+ 						<a id="Ref5"></a><a href="index.php?action=DailyEvents&date=20041128&page=1" onclick="return ShowDayLinks(this,'right')" title="Travel Log">28</a><br>
 						<center class='DayLinks'>
 						<br>
 						<a href="index.php?action=DailyEvents&date=20041128&page=1" title="The Entire Day">Travel Log<br>
@@ -587,7 +587,7 @@
 				<tr>
 				
 					<td width="100">
- 						<a id="Ref5"></a><a href="index.php?action=DailyEvents&date=20041129&page=1" onclick="return ShowDayLinks(this,'right')" title="Travel Log">29</a><br>
+ 						<a href="index.php?action=DailyEvents&date=20041129&page=1" onclick="return ShowDayLinks(this,'right')" title="Travel Log">29</a><br>
 						<center class='DayLinks'>
 						<br>
 						<a href="index.php?action=DailyEvents&date=20041129&page=1" title="The Entire Day">Travel Log<br>

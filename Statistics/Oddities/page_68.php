@@ -1,14 +1,22 @@
+<?php
+$heading = 'Elephant Skin';
+$headingsecondary = 'Near Crescent Junction, Utah';
+$headingdate = 'Wednesday, December 1, 2004';
+include 'renderheading.php';
+?>
+<p>
 <center>
-<a name="#O68" alt="Elephant Skin - Northeastern Utah"><b><h1>ELEPHANT&nbsp;&nbsp;SKIN<br><img src="Graphics/titlespace.gif"><br>Northeastern Utah</h1></b>
-<p>
-Wednesday, December 1, 2004
-<p>
-<a href="index.php?action=Pics&name=Daily/20041201/DSCN0467.jpg"><img src="Temp/20041201/DSCN0467.jpg" width="160" height="120"></a>
-<a href="index.php?action=Pics&name=Daily/20041201/DSCN0468.jpg"><img src="Temp/20041201/DSCN0468.jpg" width="160" height="120"></a>
-<a href="index.php?action=Pics&name=Daily/20041201/DSCN0469.jpg"><img src="Temp/20041201/DSCN0469.jpg" width="160" height="120"></a>
-<a href="index.php?action=Pics&name=Daily/20041201/DSCN0470.jpg"><img src="Temp/20041201/DSCN0470.jpg" width="160" height="120"></a>
+<a href="index.php?action=Pics&name=Daily/20041201/DSCN0467.jpg"><img src="Pics/Daily/20041201/Small/DSCN0467.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041201/DSCN0468.jpg"><img src="Pics/Daily/20041201/Small/DSCN0468.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041201/DSCN0469.jpg"><img src="Pics/Daily/20041201/Small/DSCN0469.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041201/DSCN0470.jpg"><img src="Pics/Daily/20041201/Small/DSCN0470.jpg"></a>
 </center>
 <p>
+South of the interstate on the way into Moab, the desert does this.  Gray hills, bare of anything, folded and wrinkled and creased, with the low sun raking across them so every fold throws a shadow.  I've been looking at them for twenty miles trying to think what they remind me of, and then it comes to me: elephant skin.  The hide of a very large animal that has been asleep in the sun for a very long time.
+<p>
+The rock is Mancos shale, says the brochure I picked up down the road, which is old sea floor, soft and gray, that erodes into these folds whenever it rains and bakes hard in between.  Nothing grows on it.  Nothing needs to.
+<p>
+I pulled over three times for these.  Here are four.  The elephant did not wake up.
 <p>
 <center>
 <hr>
@@ -67,7 +75,7 @@ Wednesday, December 1, 2004
 <a href="index.php?action=Stats&stat=Oddities&date=20041111&page=51" title="Great White Truck">51</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041112.1&page=52" title="Later Gater">52</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041112.2&page=53" title="Kinky Leather">53</a>
-<!--<a href="index.php?action=Stats&stat=Oddities&date=20041116&page=54" title="Dripping Concoction">54</a>
+<a href="index.php?action=Stats&stat=Oddities&date=20041116&page=54" title="Dripping Concoction">54</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041117.1&page=55" title="Eyes from Above">55</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041117.2&page=56" title="Bored Aliens">56</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041117.3&page=57" title="Alien Exposed">57</a>
@@ -75,14 +83,14 @@ Wednesday, December 1, 2004
 <a href="index.php?action=Stats&stat=Oddities&date=20041119.1&page=59" title="Elephant Footprints">59</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041119.2&page=60" title="Dirty Straw">60</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041119.3&page=61" title="Sinking Window">61</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20041121&page=62" title="Verbal Van">62</a>
+<a href="index.php?action=Stats&stat=Oddities&date=20041120&page=62" title="Verbal Van">62</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041122&page=63" title="Stonework RIP">63</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20041125&page=64" title="Sailing Bridge">64</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20041126&page=65" title="Lucky Bucket">65</a>
+<!--<a href="index.php?action=Stats&stat=Oddities&date=20041125&page=64" title="Sailing Bridge">64</a>
+<a href="index.php?action=Stats&stat=Oddities&date=20041126&page=65" title="Lucky Bucket">65</a>-->
 <a href="index.php?action=Stats&stat=Oddities&date=20041201.1&page=66" title="Got Hides?">66</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041201.2&page=67" title="Friendly Fowl">67</a>
 <b>68</b>
-<a href="index.php?action=Stats&stat=Oddities&date=20041202&page=69" title="Dino Remnant">69</a>
+<!--<a href="index.php?action=Stats&stat=Oddities&date=20041202&page=69" title="Dino Remnant">69</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041203.1&page=70" title="Temporary Elevation">70</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041203.2&page=71" title="Double Miracle">71</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041204&page=72" title="Colorful Cling-On">72</a>
@@ -125,7 +133,7 @@ Wednesday, December 1, 2004
 <a href="index.php?action=Stats&stat=Oddities&date=20050108.2&page=109" title="Redwood Truck">109</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20050109.1&page=110" title="Run for the Hills!">110</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20050109.2&page=111" title="Mountain Injection">111</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20051010&page=112" title="Psychedelic Sand">112</a>-->
-&nbsp;&nbsp;<a href="index.php?action=Stats&stat=Oddities&date=20041202&page=69" title="Next Oddity">>>></a>
+<a href="index.php?action=Stats&stat=Oddities&date=20051010&page=112" title="Psychedelic Sand">112</a>
+-->
 <hr>
 </center>

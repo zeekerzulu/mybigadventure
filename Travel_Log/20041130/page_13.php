@@ -48,6 +48,6 @@ The road, my tracks, and the road again, by camera flash now.  Gray blobs that a
 &nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041130&page=14" title="Next Page">>>></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041129&page=1" title="Leadville, a Mining Museum, and a Hotel Room">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041201&page=1" title="[Dec 1 heading]">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=1" title="Leadville, a Mining Museum, and a Hotel Room">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041201&page=1" title="The Long Way Around to Moab">Next Day</a>
 <p>
 </center>

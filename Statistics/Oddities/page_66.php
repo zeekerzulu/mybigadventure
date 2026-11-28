@@ -1,13 +1,21 @@
+<?php
+$heading = 'Got Hides?';
+$headingsecondary = 'Montrose, Colorado';
+$headingdate = 'Wednesday, December 1, 2004';
+include 'renderheading.php';
+?>
+<p>
 <center>
-<a name="#O66" alt="Got Hides? - Montrose, Colorado"><b><h1>GOT&nbsp;&nbsp;HIDES?<br><img src="Graphics/titlespace.gif"><br>Montrose, Colorado</h1></b>
-<p>
-Wednesday, December 1, 2004
-<p>
-<a href="index.php?action=Pics&name=Daily/20041201/DSCN0012.jpg"><img src="Temp/20041201/DSCN0012.jpg" width="160" height="120"></a>
-<a href="index.php?action=Pics&name=Daily/20041201/DSCN0010.jpg"><img src="Temp/20041201/DSCN0010.jpg" width="160" height="120"></a>
-<a href="index.php?action=Pics&name=Daily/20041201/DSCN0011.jpg"><img src="Temp/20041201/DSCN0011.jpg" width="160" height="120"></a>
+<a href="index.php?action=Pics&name=Daily/20041201/DSCN0012.jpg"><img src="Pics/Daily/20041201/Small/DSCN0012.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041201/DSCN0010.jpg"><img src="Pics/Daily/20041201/Small/DSCN0010.jpg"></a>
+<a href="index.php?action=Pics&name=Daily/20041201/DSCN0011.jpg"><img src="Pics/Daily/20041201/Small/DSCN0011.jpg"></a>
 </center>
 <p>
+DONATE ELK &amp; DEER HIDES TO 4-H.  That's a drop box, on a street corner in Montrose, Colorado, and it is exactly what it says it is.  Hunting season has just closed, the 4-H kids sell the hides to tanners to pay for their projects, and the hunters get rid of something they'd otherwise have to bury.  Everybody wins, except the elk.
+<p>
+What gets me is the hole in the front.  It's at hand height, it's dark in there, and I know what's in it, and I look anyway.  You would too.  Then I get back in the van and don't eat lunch for a while.
+<p>
+Oregon has bottle-return machines on its street corners.  Colorado has this.  I'm not saying one is better than the other.  I'm just saying.
 <p>
 <center>
 <hr>
@@ -66,7 +74,7 @@ Wednesday, December 1, 2004
 <a href="index.php?action=Stats&stat=Oddities&date=20041111&page=51" title="Great White Truck">51</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041112.1&page=52" title="Later Gater">52</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041112.2&page=53" title="Kinky Leather">53</a>
-<!--<a href="index.php?action=Stats&stat=Oddities&date=20041116&page=54" title="Dripping Concoction">54</a>
+<a href="index.php?action=Stats&stat=Oddities&date=20041116&page=54" title="Dripping Concoction">54</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041117.1&page=55" title="Eyes from Above">55</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041117.2&page=56" title="Bored Aliens">56</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041117.3&page=57" title="Alien Exposed">57</a>
@@ -74,14 +82,14 @@ Wednesday, December 1, 2004
 <a href="index.php?action=Stats&stat=Oddities&date=20041119.1&page=59" title="Elephant Footprints">59</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041119.2&page=60" title="Dirty Straw">60</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041119.3&page=61" title="Sinking Window">61</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20041121&page=62" title="Verbal Van">62</a>
+<a href="index.php?action=Stats&stat=Oddities&date=20041120&page=62" title="Verbal Van">62</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041122&page=63" title="Stonework RIP">63</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20041125&page=64" title="Sailing Bridge">64</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20041126&page=65" title="Lucky Bucket">65</a>
+<!--<a href="index.php?action=Stats&stat=Oddities&date=20041125&page=64" title="Sailing Bridge">64</a>
+<a href="index.php?action=Stats&stat=Oddities&date=20041126&page=65" title="Lucky Bucket">65</a>-->
 <b>66</b>
 <a href="index.php?action=Stats&stat=Oddities&date=20041201.2&page=67" title="Friendly Fowl">67</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041201.3&page=68" title="Elephant Skin">68</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20041202&page=69" title="Dino Remnant">69</a>
+<!--<a href="index.php?action=Stats&stat=Oddities&date=20041202&page=69" title="Dino Remnant">69</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041203.1&page=70" title="Temporary Elevation">70</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041203.2&page=71" title="Double Miracle">71</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20041204&page=72" title="Colorful Cling-On">72</a>
@@ -124,7 +132,7 @@ Wednesday, December 1, 2004
 <a href="index.php?action=Stats&stat=Oddities&date=20050108.2&page=109" title="Redwood Truck">109</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20050109.1&page=110" title="Run for the Hills!">110</a>
 <a href="index.php?action=Stats&stat=Oddities&date=20050109.2&page=111" title="Mountain Injection">111</a>
-<a href="index.php?action=Stats&stat=Oddities&date=20051010&page=112" title="Psychedelic Sand">112</a>-->
+<a href="index.php?action=Stats&stat=Oddities&date=20051010&page=112" title="Psychedelic Sand">112</a>
 &nbsp;&nbsp;<a href="index.php?action=Stats&stat=Oddities&date=20041201.2&page=67" title="Next Oddity">>>></a>
 <hr>
 </center>

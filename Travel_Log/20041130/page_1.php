@@ -53,6 +53,6 @@ Highway 50 east out of Montrose, flat farm country with snow on it, and the moun
 &nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041130&page=2" title="Next Page">>>></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041129&page=1" title="Leadville, a Mining Museum, and a Hotel Room">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041201&page=1" title="[Dec 1 heading]">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041129&page=1" title="Leadville, a Mining Museum, and a Hotel Room">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041201&page=1" title="The Long Way Around to Moab">Next Day</a>
 <p>
 </center>

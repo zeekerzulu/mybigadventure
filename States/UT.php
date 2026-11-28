@@ -29,9 +29,9 @@ include 'statemaphint.php';
 
 <!-- TRAVEL LOG -->
 
-<AREA SHAPE=POLY COORDS="690,472,721,472,721,488,690,488" HREF="index.php?action=UnderConstruction&date=200&page=1" TITLE="Travel Log">
+<AREA SHAPE=POLY COORDS="690,472,721,472,721,488,690,488" HREF="index.php?action=DailyEvents&date=20041129&page=1&maplink=1" TITLE="Travel Log - Montrose, Colorado">
 
-<AREA SHAPE=POLY COORDS="486,430,517,430,517,445,486,445" HREF="index.php?action=UnderConstruction&date=200&page=1" TITLE="Travel Log">
+<AREA SHAPE=POLY COORDS="486,430,517,430,517,445,486,445" HREF="index.php?action=DailyEvents&date=20041201&page=1&maplink=1" TITLE="Travel Log - Moab">
 
 <AREA SHAPE=POLY COORDS="366,559,396,559,396,576,366,576" HREF="index.php?action=UnderConstruction&date=200&page=1" TITLE="Travel Log">
 
@@ -103,11 +103,11 @@ include 'statemaphint.php';
 
 <!-- ODDITIES -->
 
-<AREA SHAPE=POLY COORDS="636,472,673,472,673,488,636,488" HREF="index.php?action=UnderConstruction&stat=Oddities&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="636,472,673,472,673,488,636,488" HREF="index.php?action=Stats&stat=Oddities&date=20041201.1&page=66&maplink=1" TITLE="Got Hides?">
 
-<AREA SHAPE=POLY COORDS="630,361,670,361,670,376,630,376" HREF="index.php?action=UnderConstruction&stat=Oddities&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="630,361,670,361,670,376,630,376" HREF="index.php?action=Stats&stat=Oddities&date=20041201.2&page=67&maplink=1" TITLE="Friendly Fowl">
 
-<AREA SHAPE=POLY COORDS="521,373,558,373,558,389,521,389" HREF="index.php?action=UnderConstruction&stat=Oddities&date=200&page=&maplink=1" TITLE="">
+<AREA SHAPE=POLY COORDS="521,373,558,373,558,389,521,389" HREF="index.php?action=Stats&stat=Oddities&date=20041201.3&page=68&maplink=1" TITLE="Elephant Skin">
 
 <AREA SHAPE=POLY COORDS="585,438,624,438,624,453,585,453" HREF="index.php?action=UnderConstruction&stat=Oddities&date=200&page=&maplink=1" TITLE="">
 

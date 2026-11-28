@@ -28,21 +28,22 @@
 
 				<td class="CalendarDayEmpty">&nbsp;</td>
 								
-				<?php if ($currdate == '200') $calendarclass = "CalendarSelect"; else $calendarclass = "Calendar";?>
-				<?php $calendarclass = "CalendarDay";?>
+				<?php if ($currdate == '20041201') $calendarclass = "CalendarSelect"; else $calendarclass = "Calendar";?>
 				<td class="<?php echo $calendarclass?> SingleDigit" valign="top">
 				<table cellspacing="0" cellpadding="0">
 				<tr>
 				
 					<td width="100">
-<!--
- 						<a href="index.php?action=zDailyEvents&date=20041201&page=1" onclick="return ShowDayLinks(this)" title="Travel Log">1</a><br>
+ 						<a id="Ref1"></a><a href="index.php?action=DailyEvents&date=20041201&page=1" onclick="return ShowDayLinks(this)" title="Travel Log">1</a><br>
 						<center class='DayLinks'>
 						<br>
-						<a href="index.php?action=zDailyEvents&date=20041201&page=1" title="The Entire Day">Travel Log<br>
-						<br><br><br><br><br>
-						</center>-->
-						<span class="CalendarDayUnderConstruction" onclick="return ShowDayLinks(this,'right',true)">1</span><br><center class='DayLinks'><img src="Graphics/underconstruction.gif"><br>Under<br>Construction<br><img src="Graphics/underconstruction.gif"></center>
+						<a href="index.php?action=DailyEvents&date=20041201&page=1" title="The Entire Day">Travel Log<br>
+						<a href="index.php?action=Stats&stat=Driving&nocomments=1&page=19#20041201" title="Montrose, CO to Moab, UT">Driving</a><br>
+						<a href="index.php?action=Stats&stat=Oddities&date=20041201.1&page=66" title="Got Hides?, Friendly Fowl & Elephant Skin">Oddities<br>
+						<br><br><br>
+						<a href="javascript:myPopup1('https://www.moabcity.org/')" title="City Website">Moab</a><br>
+						<a href="index.php?action=Maps&state=UT" title="Utah">UT</a>
+						</center>
 					</td>
 				
 				</tr></table>

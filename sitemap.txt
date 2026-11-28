@@ -276,6 +276,9 @@ http://www.mybigadventure/index.php?action=Stats&stat=Oddities&date=20041119.2&p
 http://www.mybigadventure/index.php?action=Stats&stat=Oddities&date=20041119.3&page=61
 http://www.mybigadventure/index.php?action=Stats&stat=Oddities&date=20041121&page=62
 http://www.mybigadventure.com/index.php?action=Stats&stat=Oddities&date=20041122&page=63
+http://www.mybigadventure.com/index.php?action=Stats&stat=Oddities&date=20041201.1&page=66
+http://www.mybigadventure.com/index.php?action=Stats&stat=Oddities&date=20041201.2&page=67
+http://www.mybigadventure.com/index.php?action=Stats&stat=Oddities&date=20041201.3&page=68
 http://www.mybigadventure/index.php?action=StatsIndex&stat=Mishaps&page=1
 http://www.mybigadventure/index.php?action=StatsIndex&stat=Mishaps&page=2
 http://www.mybigadventure/index.php?action=Stats&stat=Mishaps&date=20040709.1&page=1

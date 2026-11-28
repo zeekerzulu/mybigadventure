@@ -41,7 +41,11 @@ The gate, the van, no getting warm, so no camping at the canyon.  Arby's, a $42 
 <a href="index.php?action=Pics&name=Daily/20041201/DSCN0345.jpg"><img src="Pics/Daily/20041201/Small/DSCN0345.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041201/DSCN0418.jpg"><img src="Pics/Daily/20041201/Small/DSCN0418.jpg"></a>
 <p>
-
+Out of Montrose with a clean van and a plan: Highway 90 over the Uncompahgre Plateau, the back way to Moab.  The sign says no winter maintenance, the snow says the same thing louder, and after five tries at one packed hill I turn around and take the long way, Highway 50 to Grand Junction and I-70 into Utah, where a hundred geese at Colorado River State Park see me off.
+<p>
+State number 32.  Snow on the desert, a view area for lunch, cold beans out of the can, the La Sals ahead, the Book Cliffs behind, and gray hills folded like elephant skin in the low sun.  Moab at dusk, the cliffs going from red to black.
+<p>
+A free campsite on a mesa above town, the best green chile in Utah at the Moab Diner, Kona Coffee ice cream, a beer at Eddie McStiff's until they close, and back up the snowy road to the van, where the chest cold I've been outrunning all week starts to catch up.
 <p>
 <a href="index.php?action=DailyEvents&date=20041201&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref4"></a>
