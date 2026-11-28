@@ -1009,7 +1009,7 @@ body {
   margin: 0 auto 8px;
   font-size: 13px;
   color: <?php echo $fontcolor ?>;
-  text-align: center;
+  text-align: left;
 }
 
 /* text legend under each state map (JD, 2026-11-27) */
