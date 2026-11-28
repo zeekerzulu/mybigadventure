@@ -88,7 +88,7 @@ if ($state != 'USA' && is_file($legendfile)) {
   }
   if (count($order)) {
     echo "<div class='MapLegend'>";
-    foreach ($order as $g) echo "<b>$g:</b> " . implode(' &middot; ', $groups[$g]) . "<br>\n";
+    foreach ($order as $g) echo "<div class='MapLegendGroup'><b>$g</b><div class='MapLegendItems'>" . implode(' &middot; ', $groups[$g]) . "</div></div>\n";
     echo "</div>";
   }
 }

@@ -1020,6 +1020,12 @@ body {
   font-size: 13px;
   line-height: 1.6;
 }
+.MapLegendGroup {
+  margin: 0 0 4px;
+}
+.MapLegendItems {
+  margin-left: 1.6em;
+}
 .MapLegendPlanned {
   color: #777;
 }
