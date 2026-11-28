@@ -32,6 +32,6 @@ A long hot bath, so long it leaves me tired and weak instead of better, and a cu
 <b>11</b>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041128&page=1" title="Four Runs on Vail Mountain">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041130&page=1" title="[Nov 30 heading]">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041128&page=1" title="Four Runs on Vail Mountain">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041130&page=1" title="Snowshoeing the Rim of Black Canyon">Next Day</a>
 <p>
 </center>

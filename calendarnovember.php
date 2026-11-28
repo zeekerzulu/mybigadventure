@@ -602,21 +602,23 @@
 				</tr></table>
 				</td>
 
-				<?php if ($currdate == '200') $calendarclass = "CalendarSelect"; else $calendarclass = "Calendar";?>
-				<?php $calendarclass = "CalendarDay";?>
+				<?php if ($currdate == '20041130') $calendarclass = "CalendarSelect"; else $calendarclass = "Calendar";?>
 				<td class=<?php echo $calendarclass?> valign="top">
 				<table cellspacing="0" cellpadding="0">
 				<tr>
 				
 					<td width="100">
-<!--
- 						<a href="index.php?action=zDailyEvents&date=20041130&page=1" onclick="return ShowDayLinks(this,'right')" title="Travel Log">30</a><br>
+ 						<a href="index.php?action=DailyEvents&date=20041130&page=1" onclick="return ShowDayLinks(this,'right')" title="Travel Log">30</a><br>
 						<center class='DayLinks'>
 						<br>
-						<a href="index.php?action=zDailyEvents&date=20041130&page=1" title="The Entire Day">Travel Log<br>
-						<br><br><br><br><br>
-						</center>-->
-						<span class="CalendarDayUnderConstruction" onclick="return ShowDayLinks(this,'right',true)">30</span><br><center class='DayLinks'><img src="Graphics/underconstruction.gif"><br>Under<br>Construction<br><img src="Graphics/underconstruction.gif"></center>
+						<a href="index.php?action=DailyEvents&date=20041130&page=1" title="The Entire Day">Travel Log<br>
+						<a href="index.php?action=Stats&stat=Driving&nocomments=1&page=19#20041130" title="Montrose, CO (round trip to Black Canyon)">Driving</a><br>
+						<a href="index.php?action=zStats&stat=Hiking&date=20041130&page=11" title="Black Canyon of the Gunnison">Hiking<br>
+						<a href="index.php?action=zStats&stat=People&date=20041130&page=24" title="Jim">People<br>
+						<br><br>
+						<a href="javascript:myPopup1('https://www.cityofmontrose.org/')" title="City Website">Montrose</a><br>
+						<a href="index.php?action=Maps&state=CO" title="Colorado">CO</a>
+						</center>
 					</td>
 				
 				</tr></table>

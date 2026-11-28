@@ -45,6 +45,6 @@ Higher up the valley opens into one of those white-and-blue views where you can'
 &nbsp;&nbsp;<a href="index.php?action=DailyEvents&date=20041129&page=3" title="Next Page">>>></a>
 <hr>
 <p>
-<a href="index.php?action=DailyEvents&date=20041128&page=1" title="Four Runs on Vail Mountain">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041130&page=1" title="[Nov 30 heading]">Next Day</a>
+<a href="index.php?action=DailyEvents&date=20041128&page=1" title="Four Runs on Vail Mountain">Prev Day</a> | <a href="index.php?action=DailyEvents&date=20041130&page=1" title="Snowshoeing the Rim of Black Canyon">Next Day</a>
 <p>
 </center>

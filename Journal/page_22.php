@@ -25,6 +25,11 @@ Five degrees at sunset, a tank of gas, and 160 miles of ice and packed snow in t
 <a href="index.php?action=Pics&name=Daily/20041130/DSCN0156.jpg&nocomments=1"><img src="Pics/Daily/20041130/Small/DSCN0156.jpg"></a>
 <a href="index.php?action=Pics&name=Daily/20041130/DSCN0747.jpg&nocomments=1"><img src="Pics/Daily/20041130/Small/DSCN0747.jpg"></a>
 <p>
+A waffle-iron breakfast at the Comfort Inn, then 14 miles up to the South Rim of Black Canyon of the Gunnison, where the rim road is closed for the winter past the visitor center and the park charges nothing to come in.  Back to Montrose for a pair of snowshoes, which I buy rather than rent, and a late start down the snowed-in road.
+<p>
+Four miles of overlooks on foot, Pulpit Rock to Chasm View, with the canyon 1,800 feet deep off my right shoulder, a chat with Jim, a Montrose real estate man who skis every day, and the Painted Wall lit up at the end.  Then the sun goes down with four miles still to go, and the walk back in the dark and the cold is the longest four miles I've ever hiked.
+<p>
+The gate, the van, no getting warm, so no camping at the canyon.  Arby's, a $42 room at the Days Inn, a hot bath, and a pair of snowshoes I'm keeping.
 <p>
 <a href="index.php?action=DailyEvents&date=20041130&page=1" title="Travel Log">Read the full story</a>
 <a id="Ref3"></a>
